@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Dokumentacja usługi sieciowej</title>
+  <link href="http://www.w3.org/StyleSheets/TR/base.css" rel="stylesheet">
+</head>
+
+<body>
+
+
+<div class="head">
+  <h1 class="title" id="title">Dokumentacja</h1>
+  <h2 id="subtitle">Usługa sieciowa</h2>
+  <h2>Wersja 1.0</h2>
+  <dl>
+    <dt>Autor:</dt>
+      <dd>Dominik Tomaszuk, Uniwersytet w&nbsp;Białymstoku</dd>
+  </dl>
+  <dl>
+    <dt>Edytorzy:</dt>
+      <dd>Dominik Tomaszuk, Uniwersytet w&nbsp;Białymstoku</dd>
+      <dd>Radosław Piliszek</dd>
+  </dl>
+
+  <p class="copyright">
+Licencja dokumentu: <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pl">Creative Commons Uznanie Autorstwa – Na Tych Samych Warunkach</a>
+  </p>
+
+  <hr>
+</div>
+
+
+<section>
+  <h2>Streszczenie</h2>
+  <p>Dokument ten opisuje sposób obsługi żądań i&nbsp;odpowiedzi w protokole HTTP. Opisuje strukturę zawartości ciała odpowiedzi w&nbsp;formatach JSON, XML i&nbsp;Atom.</p>
+</section>
+
+
+<section id="toc">
+  <h2 class="introductory">Spis treści</h2>
+  <ul class="toc">
+    <li class="tocline"><a class="tocxref" href="#wprowadzenie"><span class="secno">1. </span>Wprowadzenie</a></li>
+    <li class="tocline"><a class="tocxref" href="#json"><span class="secno">2. </span>JSON</a></li>
+    <li class="tocline"><a class="tocxref" href="#xml"><span class="secno">3. </span>XML</a></li>
+    <li class="tocline"><a class="tocxref" href="#atom"><span class="secno">4. </span>Atom</a></li>
+    <li class="tocline"><a class="tocxref" href="#api_rest"><span class="secno">5. </span>API REST</a></li>
+    <li class="tocline"><a class="tocxref" href="#bibliografia"><span class="secno">A. </span>Bibliografia</a></li>
+    <li class="tocline"><a class="tocxref" href="#podziekowania"><span class="secno">B. </span>Podziekowania</a></li>
+  </ul>
+</section>
+
+
+<section id="wprowadzenie" class="informative">
+  <h2><span class="secno">1. </span>Wprowadzenie</h2>
+  <p><em>Ta sekcja jest nienormatywna</em></p>
+  <p>Dokument ten opisuje sposób obsługi żądań i odpowiedzi w protokole HTTP [<a href="#HTTP">HTTP</a>].
+    Dokument opisuje format wymiany między klientem a serwerem aplikacji XYZ. Prezentowane są formaty:</p>
+    <ul>
+      <li>JSON [<a href="#RFC4627">RFC4627</a>]</li>
+      <li>XML [<a href="#XML">XML</a>]</li>
+      <li>Atom [<a href="#RFC4287">RFC4287</a>]</li>
+    </ul>
+</section>
+
+
+<section id="json">
+  <h2><span class="secno">2. </span>JSON</h2>
+  Struktura dokumentu JSON została opisana w JSON Schema [<a href="#JSONS">JSONS</a>].
+    <pre>{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Schemat JSON",
+    "type": "array",
+    "items": {
+        "title": "Sekcja",
+        "type": "object",
+        "properties": {
+            "tytul": {
+                "description": "Tytuł sekcji",
+                "type": "string"
+            },
+            "tresc": {
+                "description": "Treść sekcji",
+        "type": "string",
+        "minLength": 1
+            },
+            "data": {
+                "description": "Data opublikowania sekcji",
+        "type": "string",
+                "maxLength": 19,
+                "minLength": 19
+            }
+        },
+        "required": ["tresc"]
+    }
+}
+    </pre>
+</section>
+
+
+<section id="xml" class="informative">
+  <h2><span class="secno">3. </span>XML</h2>
+  <p><em>Ta sekcja jest nienormatywna</em></p>
+  Struktura dokumentu XML została opisana w RELAX NG Compact [<a href="#RNC">RNC</a>].
+    <pre>start =
+  element serwis {
+    element sekcja {
+      element tytul { text }?,
+      element tresc { text },
+      element data { xsd:dateTime }?
+    }+
+  }
+    </pre>
+</section>
+
+
+<section id="atom" class="informative">
+  <h2><span class="secno">4. </span>Atom</h2>
+  <p><em>Ta sekcja jest nienormatywna</em></p>
+  Struktura dokumentu Atom została opisana w [<a href="#RNC">RFC4287</a>].
+</section>
+
+
+<section id="api_rest">
+  <h2><span class="secno">5. </span>API REST</h2>
+  <p>Obsługiwane kody HTTP:</p>
+    <ul>
+    <li><code>200 OK</code></li>
+    <li><code>302 Found</code></li>
+    <li><code>400 Bad Request</code></li>
+    <li><code>404 Not Found</code></li>
+    <li><code>410 Gone</code></li>
+    <li><code>502 Bad Gateway</code></li>
+    </ul>
+
+  <p>Przykład błędu 404</p>
+  <pre>
+{
+    "blad": "Nieporawny serwis"
+}
+  </pre>
+
+  <p>Przykład błędu 410</p>
+  <pre>
+{
+    "blad": "Wybierz serwis"
+}
+  </pre>
+
+  <p>Obsługiwane nagłówki HTTP:</p>
+  <ul>
+    <li><code>Allow</code> - wskazuje obsługiwane metody (<code>GET</code> i <code>HEAD</code>)</li>
+    <li><code>Pragma</code>, <code>Cache-Control</code>, <code>Expires</code> - odpowiadają za cache'owanie</li>
+    <li><code>Content-Type</code> - wskazuje obsługiwany typ danych, obowiązkowo <code>application/json; charset=utf-8</code> oraz opcjonalnie <code>application/xml; charset=utf-8</code></li>
+    <li><code>Location</code> - wykorzystywany jest w kodzie <code>302</code></li>
+  </ul>
+</section>
+
+
+<section id="bibliografia" class="appendix">
+  <h2><span class="secno">A. </span>Bibliografia</h2>
+    <dl class="bibliography">
+      <dt id="RFC4627">[RFC4627]</dt>
+      <dd>D. Crockford. <a href="http://www.ietf.org/rfc/rfc4627.txt"><cite>The application/json Media Type for JavaScript Object Notation (JSON)</cite></a>. 2006. RFC 4627. URL: <a href="http://www.ietf.org/rfc/rfc4627.txt">http://www.ietf.org/rfc/rfc4627.txt</a>
+      <dt id="XML">[XML]</dt>
+      <dd>T. Bray, J. Paoli, C. M. Sperberg-McQueen, E.e Maler, F. Yergeau, D. Crockford. <a href="http://www.w3.org/TR/xml/"><cite>Extensible Markup Language (XML) 1.0 (Fifth Edition)</cite></a>. 2008. URL: <a href="http://www.w3.org/TR/xml/">http://www.w3.org/TR/xml/</a>
+      <dt id="HTTP">[HTTP]</dt>
+      <dd>R. Fielding, J. Gettys, J. Mogul, H. Frystyk, L. Masinter, P. Leach, T. Berners-Lee. <a href="http://www.w3.org/TR/xml/"><cite>Hypertext Transfer Protocol -- HTTP/1.1</cite></a>. 1999. RFC 2616 URL: <a href="http://www.ietf.org/rfc/rfc2616.txt">http://www.ietf.org/rfc/rfc2616.txt</a>
+      <dt id="JSONS">[JSONS]</dt>
+      <dd>K. Zyp. <a href="http://tools.ietf.org/id/draft-fge-json-schema-validation-00.txt"><cite>JSON Schema: interactive and non interactive validation</cite></a>. 2013. URL: <a href="http://tools.ietf.org/id/draft-fge-json-schema-validation-00.txt">http://tools.ietf.org/id/draft-fge-json-schema-validation-00.txt</a>
+      <dt id="RNC">[RNC]</dt>
+      <dd>J. Clark. <a href="http://relaxng.org/compact-20021121.html"><cite>RELAX NG Compact Syntax</cite></a>. 2002. URL: <a href="http://relaxng.org/compact-20021121.html">http://relaxng.org/compact-20021121.html</a>
+      <dt id="RFC4287">[RFC4287]</dt>
+      <dd>M. Nottingham, R. Sayre. <a href="http://www.ietf.org/rfc/rfc4287.txt"><cite>The Atom Syndication Format</cite></a>. 2005. RFC 4287. URL: <a href="http://www.ietf.org/rfc/rfc4287.txt">http://www.ietf.org/rfc/rfc4287.txt</a>
+    </dl>
+</section>
+
+
+<section id="podziekowania" class="appendix informative">
+  <h2><span class="secno">B. </span>Podziękowania</h2>
+  <p><em>Ta sekcja jest nienormatywna</em></p>
+  <p>Autorzy kierują serdeczne podziękowania do Dyrekcji Instytutu Informatyki UwB, a&nbsp;szczególnie Pani Dr Anety Polewko-Klim za wsparcie tego projektu.</p>
+  <p>Autor dziękuje również wszystkim studentom z&nbsp;Informatycznego Koła Naukowego (IKN), w&nbsp;szczególności: (w&nbsp;kolejności alfabetycznej)</p>
+  <ul>
+    <li>Artemowi Barysevich</li>
+    <li>Karolowi Borkowskiemu</li>
+    <li>Radosławowi Piliszkowi</li>
+    <li>Maciejowi Puchalskiemu</li>
+    <li>Arturowi Szymańskiemu</li>
+  </ul>
+</section>
+
+
+</body>
+</html>
