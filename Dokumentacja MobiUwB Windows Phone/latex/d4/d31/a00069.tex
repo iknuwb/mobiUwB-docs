@@ -1,0 +1,81 @@
+\hypertarget{a00069}{}\section{Dokumentacja szablonu klasy Tasks\+Queue$<$Out$>$}
+\label{a00069}\index{Tasks\+Queue$<$\+Out$>$@{Tasks\+Queue$<$\+Out$>$}}
+
+
+Zarządza kolejnością wykonywanych procesów.  
+
+
+\subsection*{Struktury danych}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{a00068}{Task\+Pair}
+\begin{DoxyCompactList}\small\item\em Klasa pomocnicza opakowująca. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Metody publiczne}
+\subsection*{Atrybuty prywatne}
+
+
+\subsection{Opis szczegółowy}
+Zarządza kolejnością wykonywanych procesów. 
+
+
+\begin{DoxyTemplParams}{Template Parameters}
+{\em Out} & Typ parametru wyjściowego\\
+\hline
+\end{DoxyTemplParams}
+\begin{Desc}
+\item[Więzy typów]\begin{description}
+\item[{\em Out} : {\em Task\+Output}]\end{description}
+\end{Desc}
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{a00069_a385e4c581e066545f168ff197493e073}{}\index{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue@{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}!add@{add}}
+\index{add@{add}!Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue@{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}}
+\subsubsection[{add(\+I\+Task$<$\+Out$>$ task, Task\+Input task\+Input) }]{\setlength{\rightskip}{0pt plus 5cm}void add (
+\begin{DoxyParamCaption}
+\item[{I\+Task$<$Out$>$}]{task, }
+\item[{Task\+Input}]{task\+Input}
+\end{DoxyParamCaption}
+)}\label{a00069_a385e4c581e066545f168ff197493e073}
+
+
+Dodaje nowy element do kolejki. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em task} & Element implementujący \hyperlink{a00032}{I\+Task}\\
+\hline
+{\em task\+Input} & Dane wejściowe\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00069_af6111688fd37f327c5806245379223c9}{}\index{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue@{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}!perform\+All@{perform\+All}}
+\index{perform\+All@{perform\+All}!Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue@{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}}
+\subsubsection[{perform\+All(\+Out output\+To\+Fill) }]{\setlength{\rightskip}{0pt plus 5cm}void perform\+All (
+\begin{DoxyParamCaption}
+\item[{Out}]{output\+To\+Fill}
+\end{DoxyParamCaption}
+)}\label{a00069_af6111688fd37f327c5806245379223c9}
+
+
+Wykonuje wszystkie zadania. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em output\+To\+Fill} & Obiekt wynikowy modyfikowany przez wszystkie zadania.\\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Dokumentacja pól}
+\hypertarget{a00069_aba8a25f7d9693b07797af93611282242}{}\index{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue@{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}!tasks@{tasks}}
+\index{tasks@{tasks}!Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue@{Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}}
+\subsubsection[{tasks}]{\setlength{\rightskip}{0pt plus 5cm}readonly List$<$Task\+Pair$>$ tasks\hspace{0.3cm}{\ttfamily [private]}}\label{a00069_aba8a25f7d9693b07797af93611282242}
+
+
+Lista wszystkich zadań do wykonania. 
+
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi\+Uw\+B-\/\+Windows\+Phone/\+Shared\+Code/\+Tasks/Tasks\+Queue.\+cs\end{DoxyCompactItemize}

@@ -1,0 +1,214 @@
+\hypertarget{a00028}{}\section{Dokumentacja klasy Io\+Manager}
+\label{a00028}\index{Io\+Manager@{Io\+Manager}}
+
+
+Zarządza systemem plików  
+
+
+Diagram dziedziczenia dla Io\+Manager\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{dc/d3c/a00028}
+\end{center}
+\end{figure}
+\subsection*{Metody publiczne}
+\subsection*{Metody prywatne}
+
+
+\subsection{Opis szczegółowy}
+Zarządza systemem plików 
+
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{a00028_aa850d325ba9b5bff920fbbba6111354d}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Check\+If\+File\+Exists@{Check\+If\+File\+Exists}}
+\index{Check\+If\+File\+Exists@{Check\+If\+File\+Exists}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Check\+If\+File\+Exists(\+String file\+Name) }]{\setlength{\rightskip}{0pt plus 5cm}Boolean Check\+If\+File\+Exists (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{a00028_aa850d325ba9b5bff920fbbba6111354d}
+
+
+Sprawdza czy plik o podanej nazwie istnieje w domyślnym folderze. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em file\+Name} & Nazwa szukanego pliku\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Informacja czy plik istnieje
+\end{DoxyReturn}
+\hypertarget{a00028_add5d5693c5d0c8ba063c2ebb0fde59a6}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Copy\+File\+From\+Assets\+To\+Storage\+Folder@{Copy\+File\+From\+Assets\+To\+Storage\+Folder}}
+\index{Copy\+File\+From\+Assets\+To\+Storage\+Folder@{Copy\+File\+From\+Assets\+To\+Storage\+Folder}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Copy\+File\+From\+Assets\+To\+Storage\+Folder(\+String file\+Path) }]{\setlength{\rightskip}{0pt plus 5cm}async Task Copy\+File\+From\+Assets\+To\+Storage\+Folder (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Path}
+\end{DoxyParamCaption}
+)}\label{a00028_add5d5693c5d0c8ba063c2ebb0fde59a6}
+
+
+Kopjuje plik z assets do domyślnego folderu. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em file\+Path} & Relatywna ścieżka do pliku\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek
+\end{DoxyReturn}
+\hypertarget{a00028_ad4fb5571680fa8629e2ec013b861e417}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Create\+New\+File\+In\+Storage\+Folder@{Create\+New\+File\+In\+Storage\+Folder}}
+\index{Create\+New\+File\+In\+Storage\+Folder@{Create\+New\+File\+In\+Storage\+Folder}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Create\+New\+File\+In\+Storage\+Folder( String file\+Name) }]{\setlength{\rightskip}{0pt plus 5cm}Stream Create\+New\+File\+In\+Storage\+Folder (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{a00028_ad4fb5571680fa8629e2ec013b861e417}
+
+
+Tworzy plik o podanej nazwie w domyślnym folderze oraz otwiera strumień do tego pliku. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em file\+Name} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Strumień do pliku
+\end{DoxyReturn}
+\hypertarget{a00028_ac3e38a67e81f90278f7e8408741291fa}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Download\+File@{Download\+File}}
+\index{Download\+File@{Download\+File}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Download\+File(\+Uri url) }]{\setlength{\rightskip}{0pt plus 5cm}Task$<$Stream$>$ Download\+File (
+\begin{DoxyParamCaption}
+\item[{Uri}]{url}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00028_ac3e38a67e81f90278f7e8408741291fa}
+
+
+Otwiera strumień do pliku internetowego. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em url} & Ścieżka do pliku\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek zawierający strumień do pliku po zakończeniu
+\end{DoxyReturn}
+\hypertarget{a00028_a6e8946f90b9e47faeac27e110aa41827}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Download\+File\+From\+Web\+To\+Storage\+Folder@{Download\+File\+From\+Web\+To\+Storage\+Folder}}
+\index{Download\+File\+From\+Web\+To\+Storage\+Folder@{Download\+File\+From\+Web\+To\+Storage\+Folder}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Download\+File\+From\+Web\+To\+Storage\+Folder(\+Uri uri\+To\+Download, string destination\+File\+Name, Cancellation\+Token c\+Token) }]{\setlength{\rightskip}{0pt plus 5cm}async Task$<$Download\+Result$>$ Download\+File\+From\+Web\+To\+Storage\+Folder (
+\begin{DoxyParamCaption}
+\item[{Uri}]{uri\+To\+Download, }
+\item[{string}]{destination\+File\+Name, }
+\item[{Cancellation\+Token}]{c\+Token}
+\end{DoxyParamCaption}
+)}\label{a00028_a6e8946f90b9e47faeac27e110aa41827}
+
+
+Pobiera plik z internetu do domyślnego folderu. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em uri\+To\+Download} & Ścieżka do pliku\\
+\hline
+{\em destination\+File\+Name} & Nazwa pliku do zapisania.\\
+\hline
+{\em c\+Token} & Informacja czy operacja powinna być anulowana\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek zwracający wynik po zakończeniu
+\end{DoxyReturn}
+\hypertarget{a00028_a95aac221d7b47c3f70ee18041026be50}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Download\+File\+From\+Web\+To\+Storage\+Folder@{Download\+File\+From\+Web\+To\+Storage\+Folder}}
+\index{Download\+File\+From\+Web\+To\+Storage\+Folder@{Download\+File\+From\+Web\+To\+Storage\+Folder}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Download\+File\+From\+Web\+To\+Storage\+Folder(string internet\+File\+Path, string destination\+File\+Name, Cancellation\+Token c\+Token) }]{\setlength{\rightskip}{0pt plus 5cm}async Task$<$Download\+Result$>$ Download\+File\+From\+Web\+To\+Storage\+Folder (
+\begin{DoxyParamCaption}
+\item[{string}]{internet\+File\+Path, }
+\item[{string}]{destination\+File\+Name, }
+\item[{Cancellation\+Token}]{c\+Token}
+\end{DoxyParamCaption}
+)}\label{a00028_a95aac221d7b47c3f70ee18041026be50}
+
+
+Pobiera plik z internetu do domyślnego folderu. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em internet\+File\+Path} & Ścieżka do pliku\\
+\hline
+{\em destination\+File\+Name} & Nazwa pliku do zapisania.\\
+\hline
+{\em c\+Token} & Informacja czy operacja powinna być anulowana\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek zwracający wynik po zakończeniu
+\end{DoxyReturn}
+\hypertarget{a00028_abcbee60611d2bd278fe52fe61f073a66}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Get\+File\+Stream\+From\+Storage\+Folder@{Get\+File\+Stream\+From\+Storage\+Folder}}
+\index{Get\+File\+Stream\+From\+Storage\+Folder@{Get\+File\+Stream\+From\+Storage\+Folder}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Get\+File\+Stream\+From\+Storage\+Folder( String file\+Name, Stream\+Type stream\+Type, out Stream stream) }]{\setlength{\rightskip}{0pt plus 5cm}void Get\+File\+Stream\+From\+Storage\+Folder (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Name, }
+\item[{Stream\+Type}]{stream\+Type, }
+\item[{out Stream}]{stream}
+\end{DoxyParamCaption}
+)}\label{a00028_abcbee60611d2bd278fe52fe61f073a66}
+
+
+Pobiera strumień pliku z domyślnego folderu. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em file\+Name} & Nazwa pliku\\
+\hline
+{\em stream\+Type} & Typ strumienia\\
+\hline
+{\em stream} & Uzyskany strumień\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00028_a64f30469c71bf0ff5f3c6b0ad364b4d4}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Read\+Local\+File\+Data@{Read\+Local\+File\+Data}}
+\index{Read\+Local\+File\+Data@{Read\+Local\+File\+Data}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Read\+Local\+File\+Data(\+String file\+Name) }]{\setlength{\rightskip}{0pt plus 5cm}String Read\+Local\+File\+Data (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{a00028_a64f30469c71bf0ff5f3c6b0ad364b4d4}
+
+
+Czyta treść pliku o podanej nazwie z domyślnegu folderu. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em file\+Name} & Nazwa pliku\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Treśc pliku
+\end{DoxyReturn}
+\hypertarget{a00028_a97cdc15352844b7a8eb271122c057336}{}\index{Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}!Read\+Resource\+File\+Data@{Read\+Resource\+File\+Data}}
+\index{Read\+Resource\+File\+Data@{Read\+Resource\+File\+Data}!Notifications\+Agent\+::\+Io\+Manager@{Notifications\+Agent\+::\+Io\+Manager}}
+\subsubsection[{Read\+Resource\+File\+Data(\+Uri file) }]{\setlength{\rightskip}{0pt plus 5cm}String Read\+Resource\+File\+Data (
+\begin{DoxyParamCaption}
+\item[{Uri}]{file}
+\end{DoxyParamCaption}
+)}\label{a00028_a97cdc15352844b7a8eb271122c057336}
+
+
+Czyta zawartość tekstową pliku. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em file} & Ścieżka do pliku\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Treść pliku
+\end{DoxyReturn}
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi\+Uw\+B-\/\+Windows\+Phone/\+Notifications\+Agent/Io\+Manager.\+cs\end{DoxyCompactItemize}

@@ -1,0 +1,360 @@
+\hypertarget{a00052}{}\section{Dokumentacja klasy Scheduled\+Agent}
+\label{a00052}\index{Scheduled\+Agent@{Scheduled\+Agent}}
+
+
+Zarządza usługą.  
+
+
+Diagram dziedziczenia dla Scheduled\+Agent\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{d1/d84/a00052}
+\end{center}
+\end{figure}
+\subsection*{Statyczne atrybuty publiczne}
+\subsection*{Metody chronione}
+\subsection*{Metody prywatne}
+\subsection*{Statyczne metody prywatne}
+\subsection*{Atrybuty prywatne}
+
+
+\subsection{Opis szczegółowy}
+Zarządza usługą. 
+
+
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{a00052_a76c7bc25d5cb94c3c60006a010c685d6}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Scheduled\+Agent@{Scheduled\+Agent}}
+\index{Scheduled\+Agent@{Scheduled\+Agent}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Scheduled\+Agent() }]{\setlength{\rightskip}{0pt plus 5cm}static Scheduled\+Agent (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}\label{a00052_a76c7bc25d5cb94c3c60006a010c685d6}
+
+
+Inicjacja wartości domyślnych oraz, nadawanie eventów. 
+
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{a00052_a565a912c5a92c706b28e4656f1715d48}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Concat\+Last\+Known\+Date\+Id@{Concat\+Last\+Known\+Date\+Id}}
+\index{Concat\+Last\+Known\+Date\+Id@{Concat\+Last\+Known\+Date\+Id}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Concat\+Last\+Known\+Date\+Id(\+String unit\+Id, String section\+Id) }]{\setlength{\rightskip}{0pt plus 5cm}string Concat\+Last\+Known\+Date\+Id (
+\begin{DoxyParamCaption}
+\item[{String}]{unit\+Id, }
+\item[{String}]{section\+Id}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a565a912c5a92c706b28e4656f1715d48}
+
+
+Tworzy unikalne I\+D. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em unit\+Id} & I\+D wydziału\\
+\hline
+{\em section\+Id} & I\+D kategorii\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+
+\end{DoxyReturn}
+\hypertarget{a00052_accc57a160770e757c30a3ce12c103bd0}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Create\+Shell\+Toast@{Create\+Shell\+Toast}}
+\index{Create\+Shell\+Toast@{Create\+Shell\+Toast}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Create\+Shell\+Toast(\+String title, String content) }]{\setlength{\rightskip}{0pt plus 5cm}Shell\+Toast Create\+Shell\+Toast (
+\begin{DoxyParamCaption}
+\item[{String}]{title, }
+\item[{String}]{content}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_accc57a160770e757c30a3ce12c103bd0}
+
+
+Tworzy powiadomienie o padym tytule oraz treści. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em title} & Tytuł powiadomienia\\
+\hline
+{\em content} & Wiadomość powiadomienia\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Utoworzne powiadomienie
+\end{DoxyReturn}
+\hypertarget{a00052_a6aecd1fd5cac5adabe8a890ced82c784}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Get\+New\+Elements@{Get\+New\+Elements}}
+\index{Get\+New\+Elements@{Get\+New\+Elements}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Get\+New\+Elements(\+Section section, Unit unit) }]{\setlength{\rightskip}{0pt plus 5cm}List$<$Feed$>$ Get\+New\+Elements (
+\begin{DoxyParamCaption}
+\item[{Section}]{section, }
+\item[{Unit}]{unit}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a6aecd1fd5cac5adabe8a890ced82c784}
+
+
+Pobiera najnowsze informacje dla danej sekcji. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em section} & Kategoria dla kórej pobieramy\\
+\hline
+{\em unit} & Wydział z którego pobieramy\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Lista najnowszych informacji
+\end{DoxyReturn}
+\hypertarget{a00052_a53eb8e05a81a3349e29ae006eefbecab}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Initialize\+Data@{Initialize\+Data}}
+\index{Initialize\+Data@{Initialize\+Data}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Initialize\+Data() }]{\setlength{\rightskip}{0pt plus 5cm}bool Initialize\+Data (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a53eb8e05a81a3349e29ae006eefbecab}
+
+
+Przygotowuje wszystkie dane wejściowe. 
+
+\begin{DoxyReturn}{Zwraca}
+Informacja czy zakończona sukcesem
+\end{DoxyReturn}
+\hypertarget{a00052_a47adf767917ebf1db445c1e05d475172}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Notifications\+Execute@{Notifications\+Execute}}
+\index{Notifications\+Execute@{Notifications\+Execute}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Notifications\+Execute() }]{\setlength{\rightskip}{0pt plus 5cm}void Notifications\+Execute (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a47adf767917ebf1db445c1e05d475172}
+
+
+Wywołuje sprawdzenie powiadomień. 
+
+\hypertarget{a00052_a1591a12b9dd428f6c2cf46a4f73eb92b}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Notifications\+Loop@{Notifications\+Loop}}
+\index{Notifications\+Loop@{Notifications\+Loop}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Notifications\+Loop() }]{\setlength{\rightskip}{0pt plus 5cm}void Notifications\+Loop (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a1591a12b9dd428f6c2cf46a4f73eb92b}
+
+
+Wykonuje zapętlone sprawdzanie powiadomień, 
+
+\hypertarget{a00052_a92c21dce403dbe5719add948bff89222}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Notifications\+Loop\+Tick@{Notifications\+Loop\+Tick}}
+\index{Notifications\+Loop\+Tick@{Notifications\+Loop\+Tick}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Notifications\+Loop\+Tick(long interval, Date\+Time from, Date\+Time to) }]{\setlength{\rightskip}{0pt plus 5cm}void Notifications\+Loop\+Tick (
+\begin{DoxyParamCaption}
+\item[{long}]{interval, }
+\item[{Date\+Time}]{from, }
+\item[{Date\+Time}]{to}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a92c21dce403dbe5719add948bff89222}
+
+
+Sprawdza odstęp czasowy został przekroczony. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em interval} & Odstęp czasowy\\
+\hline
+{\em from} & Czas od\\
+\hline
+{\em to} & Czas do\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00052_a0eb2d9f35974cb8f9598a61c0fa00e8a}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Notifications\+Time\+Range\+Check@{Notifications\+Time\+Range\+Check}}
+\index{Notifications\+Time\+Range\+Check@{Notifications\+Time\+Range\+Check}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Notifications\+Time\+Range\+Check(int current, int from, int to) }]{\setlength{\rightskip}{0pt plus 5cm}void Notifications\+Time\+Range\+Check (
+\begin{DoxyParamCaption}
+\item[{int}]{current, }
+\item[{int}]{from, }
+\item[{int}]{to}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a0eb2d9f35974cb8f9598a61c0fa00e8a}
+
+
+Sprawdza zakres godzinowy. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em current} & \\
+\hline
+{\em from} & Czas od\\
+\hline
+{\em to} & Czas do\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00052_ad788818cbbd3308585d610836526272a}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!On\+Invoke@{On\+Invoke}}
+\index{On\+Invoke@{On\+Invoke}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{On\+Invoke(\+Scheduled\+Task task) }]{\setlength{\rightskip}{0pt plus 5cm}override void On\+Invoke (
+\begin{DoxyParamCaption}
+\item[{Scheduled\+Task}]{task}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [protected]}}\label{a00052_ad788818cbbd3308585d610836526272a}
+
+
+Wowułuje usługę. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em task} & Wywołana usługa\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00052_a45f19f0da5ef53070f1c84ecad099f1f}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Process\+Notifications@{Process\+Notifications}}
+\index{Process\+Notifications@{Process\+Notifications}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Process\+Notifications(bool succeeded) }]{\setlength{\rightskip}{0pt plus 5cm}void Process\+Notifications (
+\begin{DoxyParamCaption}
+\item[{bool}]{succeeded}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a45f19f0da5ef53070f1c84ecad099f1f}
+
+
+Uruchamia proces przetwarzania powiadomień. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em succeeded} & Zmienna wejściowa czy sukces\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00052_a99265606e2867a5620bf1118c81f6edd}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Publish\+Notifications@{Publish\+Notifications}}
+\index{Publish\+Notifications@{Publish\+Notifications}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Publish\+Notifications(\+List$<$\+Feed$>$ newest\+Feeds, Section section, int notification\+Id) }]{\setlength{\rightskip}{0pt plus 5cm}void Publish\+Notifications (
+\begin{DoxyParamCaption}
+\item[{List$<$Feed$>$}]{newest\+Feeds, }
+\item[{Section}]{section, }
+\item[{int}]{notification\+Id}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_a99265606e2867a5620bf1118c81f6edd}
+
+
+Publikuje powiadomienia. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em newest\+Feeds} & Lista nowych informacji\\
+\hline
+{\em section} & Wydział dla którego powiadamiamy\\
+\hline
+{\em notification\+Id} & I\+D powiadomeinia\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00052_aef6f105aebf064df3a45d20abace40ad}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Run\+Notifications\+Publisher@{Run\+Notifications\+Publisher}}
+\index{Run\+Notifications\+Publisher@{Run\+Notifications\+Publisher}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Run\+Notifications\+Publisher() }]{\setlength{\rightskip}{0pt plus 5cm}void Run\+Notifications\+Publisher (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_aef6f105aebf064df3a45d20abace40ad}
+
+
+Uruchamia proces sprawdzania powiadomień. 
+
+\hypertarget{a00052_ab2b51676189ad7282f1bf8f03afd8ec1}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Time\+Range\+Notifications\+Execute@{Time\+Range\+Notifications\+Execute}}
+\index{Time\+Range\+Notifications\+Execute@{Time\+Range\+Notifications\+Execute}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Time\+Range\+Notifications\+Execute(\+Date\+Time from, Date\+Time to) }]{\setlength{\rightskip}{0pt plus 5cm}void Time\+Range\+Notifications\+Execute (
+\begin{DoxyParamCaption}
+\item[{Date\+Time}]{from, }
+\item[{Date\+Time}]{to}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_ab2b51676189ad7282f1bf8f03afd8ec1}
+
+
+Sprawdza zakres czasowy. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em from} & Czas od\\
+\hline
+{\em to} & Czas do\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00052_a185e20426f84c5df7e71a56af234ebab}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Unhandled\+Exception@{Unhandled\+Exception}}
+\index{Unhandled\+Exception@{Unhandled\+Exception}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Unhandled\+Exception(object sender, Application\+Unhandled\+Exception\+Event\+Args e) }]{\setlength{\rightskip}{0pt plus 5cm}static void Unhandled\+Exception (
+\begin{DoxyParamCaption}
+\item[{object}]{sender, }
+\item[{Application\+Unhandled\+Exception\+Event\+Args}]{e}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}\label{a00052_a185e20426f84c5df7e71a56af234ebab}
+
+
+Obsługuje nieobsłużone wyjątki. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em sender} & Obiekt wywołujący\\
+\hline
+{\em e} & Obiekt wyjątku\\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Dokumentacja pól}
+\hypertarget{a00052_affc5aed49469fde4c18ef17b0e10f8bb}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!\+\_\+data\+Initialize\+Task\+Output@{\+\_\+data\+Initialize\+Task\+Output}}
+\index{\+\_\+data\+Initialize\+Task\+Output@{\+\_\+data\+Initialize\+Task\+Output}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{\+\_\+data\+Initialize\+Task\+Output}]{\setlength{\rightskip}{0pt plus 5cm}Data\+Initialize\+Task\+Output \+\_\+data\+Initialize\+Task\+Output\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_affc5aed49469fde4c18ef17b0e10f8bb}
+
+
+Obiekt klasy zarządzającej procesem zbierania danych. 
+
+\hypertarget{a00052_aa6a798876f7af205c188afeabfb3c8cf}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!\+\_\+last\+Check\+Time@{\+\_\+last\+Check\+Time}}
+\index{\+\_\+last\+Check\+Time@{\+\_\+last\+Check\+Time}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{\+\_\+last\+Check\+Time}]{\setlength{\rightskip}{0pt plus 5cm}long \+\_\+last\+Check\+Time\hspace{0.3cm}{\ttfamily [private]}}\label{a00052_aa6a798876f7af205c188afeabfb3c8cf}
+
+
+Czas osttatniego wykonania sprawdzenia. 
+
+\hypertarget{a00052_a4d408a669ed32f62f4c43930365144fa}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Configuration\+File\+Name@{Configuration\+File\+Name}}
+\index{Configuration\+File\+Name@{Configuration\+File\+Name}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Configuration\+File\+Name}]{\setlength{\rightskip}{0pt plus 5cm}readonly String Configuration\+File\+Name = \char`\"{}configuration.\+xml\char`\"{}\hspace{0.3cm}{\ttfamily [static]}}\label{a00052_a4d408a669ed32f62f4c43930365144fa}
+
+
+Nazwa pliku configuracyjnego. 
+
+\hypertarget{a00052_a0da4e128139695f96c95207f881b7bf7}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Data\+Manager@{Data\+Manager}}
+\index{Data\+Manager@{Data\+Manager}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Data\+Manager}]{\setlength{\rightskip}{0pt plus 5cm}readonly Data\+Manager Data\+Manager\hspace{0.3cm}{\ttfamily [static]}}\label{a00052_a0da4e128139695f96c95207f881b7bf7}
+
+
+Dostęp do zarządzania danymi. 
+
+\hypertarget{a00052_aa532e27a416f679222f3e5b8a21f376f}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Io\+Manager@{Io\+Manager}}
+\index{Io\+Manager@{Io\+Manager}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Io\+Manager}]{\setlength{\rightskip}{0pt plus 5cm}readonly Io\+Manager Io\+Manager\hspace{0.3cm}{\ttfamily [static]}}\label{a00052_aa532e27a416f679222f3e5b8a21f376f}
+
+
+Dostęp do zarządzania plikami. 
+
+\hypertarget{a00052_a8d9702c9b31f9e23b2577487391516a9}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Properties\+File\+Name@{Properties\+File\+Name}}
+\index{Properties\+File\+Name@{Properties\+File\+Name}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Properties\+File\+Name}]{\setlength{\rightskip}{0pt plus 5cm}readonly String Properties\+File\+Name = \char`\"{}properties.\+xml\char`\"{}\hspace{0.3cm}{\ttfamily [static]}}\label{a00052_a8d9702c9b31f9e23b2577487391516a9}
+
+
+Nazwa pliku properties. 
+
+\hypertarget{a00052_a6938aaab99cb2738b49e82f0e3716f24}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Read\+Data@{Read\+Data}}
+\index{Read\+Data@{Read\+Data}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Read\+Data}]{\setlength{\rightskip}{0pt plus 5cm}readonly Read\+Data Read\+Data\hspace{0.3cm}{\ttfamily [static]}}\label{a00052_a6938aaab99cb2738b49e82f0e3716f24}
+
+
+Dostęp do odczytu plików. 
+
+\hypertarget{a00052_a0f7303f5a1665606c18b356fcda41e66}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Write\+Data@{Write\+Data}}
+\index{Write\+Data@{Write\+Data}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Write\+Data}]{\setlength{\rightskip}{0pt plus 5cm}readonly Write\+Data Write\+Data\hspace{0.3cm}{\ttfamily [static]}}\label{a00052_a0f7303f5a1665606c18b356fcda41e66}
+
+
+Dostęp do zapisu plików. 
+
+\hypertarget{a00052_a34f69847d4375c2c27ce74c4e2d7c927}{}\index{Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}!Xml\+Parser@{Xml\+Parser}}
+\index{Xml\+Parser@{Xml\+Parser}!Notifications\+Agent\+::\+Scheduled\+Agent@{Notifications\+Agent\+::\+Scheduled\+Agent}}
+\subsubsection[{Xml\+Parser}]{\setlength{\rightskip}{0pt plus 5cm}readonly Xml\+Parser Xml\+Parser\hspace{0.3cm}{\ttfamily [static]}}\label{a00052_a34f69847d4375c2c27ce74c4e2d7c927}
+
+
+Globalny parser X\+M\+L. 
+
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi\+Uw\+B-\/\+Windows\+Phone/\+Notifications\+Agent/Scheduled\+Agent.\+cs\end{DoxyCompactItemize}

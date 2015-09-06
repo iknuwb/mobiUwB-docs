@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['read_3ct_3e',['Read&lt;T&gt;',['../d6/d97/a00045.html#aba8d1f8ff004b04b148f7b5ae629ecda',1,'MobiUwB.DataAccess.ReadData.Read&lt;T&gt;()'],['../d3/dea/a00046.html#aba8d1f8ff004b04b148f7b5ae629ecda',1,'NotificationsAgent.DataAccess.ReadData.Read&lt;T&gt;()']]],
+  ['readdata',['ReadData',['../d6/d97/a00045.html',1,'MobiUwB::DataAccess']]],
+  ['readdata',['ReadData',['../d3/dea/a00046.html',1,'NotificationsAgent::DataAccess']]],
+  ['readdata',['ReadData',['../d1/d84/a00052.html#a6938aaab99cb2738b49e82f0e3716f24',1,'NotificationsAgent::ScheduledAgent']]],
+  ['readlocalfiledata',['ReadLocalFileData',['../d0/d33/a00027.html#a64f30469c71bf0ff5f3c6b0ad364b4d4',1,'MobiUwB.IO.IoManager.ReadLocalFileData()'],['../dc/d3c/a00028.html#a64f30469c71bf0ff5f3c6b0ad364b4d4',1,'NotificationsAgent.IoManager.ReadLocalFileData()']]],
+  ['readresourcefiledata',['ReadResourceFileData',['../d0/d33/a00027.html#a97cdc15352844b7a8eb271122c057336',1,'MobiUwB.IO.IoManager.ReadResourceFileData()'],['../dc/d3c/a00028.html#a97cdc15352844b7a8eb271122c057336',1,'NotificationsAgent.IoManager.ReadResourceFileData()']]],
+  ['resourceflowdirection',['ResourceFlowDirection',['../de/d21/a00006.html#a368809c97bc1a185bee8ffcd7c90e4f9',1,'MobiUwB::Resources::AppResources']]],
+  ['resourcelanguage',['ResourceLanguage',['../de/d21/a00006.html#ad8b77c808c48786b35febc21f8754920',1,'MobiUwB.Resources.AppResources.ResourceLanguage()'],['../d6/d2d/a00047.html#ad8b77c808c48786b35febc21f8754920',1,'NotificationsAgent.Resources.Resources.ResourceLanguage()']]],
+  ['resourcemanager',['ResourceManager',['../de/d21/a00006.html#a0facd9f93017f922ba97bef37fd95b1d',1,'MobiUwB.Resources.AppResources.ResourceManager()'],['../d6/d2d/a00047.html#a0facd9f93017f922ba97bef37fd95b1d',1,'NotificationsAgent.Resources.Resources.ResourceManager()']]],
+  ['resources',['Resources',['../d6/d2d/a00047.html',1,'NotificationsAgent::Resources']]],
+  ['restolabledatetime',['RestolableDateTime',['../d4/dca/a00048.html',1,'NotificationsAgent']]],
+  ['restoredata_3ct_3e',['RestoreData&lt;T&gt;',['../d4/d51/a00017.html#af3c57044ed81dcf71f0e93231c8ff5c7',1,'SharedCode::DataManagment::DataManager']]],
+  ['result',['Result',['../d2/dee/a00049.html#a1de64032d739ae54fcdf8772a13521e7',1,'SharedCode::Result']]],
+  ['result',['Result',['../d2/dee/a00049.html',1,'SharedCode']]],
+  ['rootframe',['RootFrame',['../dd/dad/a00005.html#abd1ba24576ffbc3d4bfd0c0269a14b4c',1,'MobiUwB::App']]],
+  ['roundbutton',['RoundButton',['../d5/de0/a00050.html',1,'MobiUwB::Controls::RoundButtons']]],
+  ['roundbuttonmodel',['RoundButtonModel',['../d2/d79/a00051.html',1,'MobiUwB::Controls::RoundButtons']]],
+  ['runnotificationspublisher',['RunNotificationsPublisher',['../d1/d84/a00052.html#aef6f105aebf064df3a45d20abace40ad',1,'NotificationsAgent::ScheduledAgent']]]
+];

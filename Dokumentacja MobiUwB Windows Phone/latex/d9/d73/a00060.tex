@@ -1,0 +1,194 @@
+\hypertarget{a00060}{}\section{Dokumentacja klasy Startup\+Background\+Worker}
+\label{a00060}\index{Startup\+Background\+Worker@{Startup\+Background\+Worker}}
+
+
+Zajmuje się przygotowaniem danych niezbędnych do uruchomienia aplikacji.  
+
+
+Diagram dziedziczenia dla Startup\+Background\+Worker\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{d9/d73/a00060}
+\end{center}
+\end{figure}
+\subsection*{Metody publiczne}
+\subsection*{Metody prywatne}
+\subsection*{Atrybuty prywatne}
+
+
+\subsection{Opis szczegółowy}
+Zajmuje się przygotowaniem danych niezbędnych do uruchomienia aplikacji. 
+
+
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{a00060_a65e018a132cf991786690cb73e301736}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!Startup\+Background\+Worker@{Startup\+Background\+Worker}}
+\index{Startup\+Background\+Worker@{Startup\+Background\+Worker}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{Startup\+Background\+Worker() }]{\setlength{\rightskip}{0pt plus 5cm}Startup\+Background\+Worker (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{a00060_a65e018a132cf991786690cb73e301736}
+
+
+Inicjuje niezbędne zdarzenia. 
+
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{a00060_aed1b0d94d081ec54bcec4c1af1f71490}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!Deserialize\+Configuration\+Xml@{Deserialize\+Configuration\+Xml}}
+\index{Deserialize\+Configuration\+Xml@{Deserialize\+Configuration\+Xml}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{Deserialize\+Configuration\+Xml(\+Startup\+Configuration\+Result result) }]{\setlength{\rightskip}{0pt plus 5cm}async Task Deserialize\+Configuration\+Xml (
+\begin{DoxyParamCaption}
+\item[{Startup\+Configuration\+Result}]{result}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_aed1b0d94d081ec54bcec4c1af1f71490}
+
+
+Pobiera i deserializuje plik config.\+xml 
+
+
+\begin{DoxyParams}{Parametry}
+{\em result} & Obiekt zbierający dane wynikowe, do którego przypisana zostanie wartość.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek
+\end{DoxyReturn}
+\hypertarget{a00060_adbba2fd8896af22c96342324cf80e851}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!Deserialize\+Properties\+Xml@{Deserialize\+Properties\+Xml}}
+\index{Deserialize\+Properties\+Xml@{Deserialize\+Properties\+Xml}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{Deserialize\+Properties\+Xml(\+Startup\+Configuration\+Result result) }]{\setlength{\rightskip}{0pt plus 5cm}async Task Deserialize\+Properties\+Xml (
+\begin{DoxyParamCaption}
+\item[{Startup\+Configuration\+Result}]{result}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_adbba2fd8896af22c96342324cf80e851}
+
+
+Deserializuje plik properties.\+xml. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em result} & Obiekt zbierający dane wynikowe, do którego przypisana zostanie wartość.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek
+\end{DoxyReturn}
+\hypertarget{a00060_aedf0db92bf20da3a885629ff6f632e7c}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End@{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End}}
+\index{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End@{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End(\+Do\+Work\+Event\+Args e) }]{\setlength{\rightskip}{0pt plus 5cm}void On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End (
+\begin{DoxyParamCaption}
+\item[{Do\+Work\+Event\+Args}]{e}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_aedf0db92bf20da3a885629ff6f632e7c}
+
+
+Wykonuje się jako ostatni etap działania wątku. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em e} & \\
+\hline
+\end{DoxyParams}
+\hypertarget{a00060_a4c6d0fc885ec9b63efcf30ca60c5e72d}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start@{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start}}
+\index{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start@{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start(\+Do\+Work\+Event\+Args e) }]{\setlength{\rightskip}{0pt plus 5cm}void On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start (
+\begin{DoxyParamCaption}
+\item[{Do\+Work\+Event\+Args}]{e}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_a4c6d0fc885ec9b63efcf30ca60c5e72d}
+
+
+Wywołuje się na start wątku. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em e} & Zawiera parametry przesłane do metody\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00060_ad7190955b219f5d648de19f27a9c3b37}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!Prepare\+File\+Paths@{Prepare\+File\+Paths}}
+\index{Prepare\+File\+Paths@{Prepare\+File\+Paths}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{Prepare\+File\+Paths() }]{\setlength{\rightskip}{0pt plus 5cm}void Prepare\+File\+Paths (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_ad7190955b219f5d648de19f27a9c3b37}
+
+
+Tworzy pełne ścieżki do plików konfiguracyjnych. 
+
+\hypertarget{a00060_a0f2312f421dcf05f111510bd19b651e2}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!Set\+Events@{Set\+Events}}
+\index{Set\+Events@{Set\+Events}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{Set\+Events() }]{\setlength{\rightskip}{0pt plus 5cm}void Set\+Events (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_a0f2312f421dcf05f111510bd19b651e2}
+
+
+Inicjuje niezbędne zdarzenia. 
+
+\hypertarget{a00060_ab58aedc841b1d741d05405347dee0bed}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!Startup\+Background\+Worker\+\_\+\+Do\+Work@{Startup\+Background\+Worker\+\_\+\+Do\+Work}}
+\index{Startup\+Background\+Worker\+\_\+\+Do\+Work@{Startup\+Background\+Worker\+\_\+\+Do\+Work}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{Startup\+Background\+Worker\+\_\+\+Do\+Work(object sender, Do\+Work\+Event\+Args e) }]{\setlength{\rightskip}{0pt plus 5cm}void Startup\+Background\+Worker\+\_\+\+Do\+Work (
+\begin{DoxyParamCaption}
+\item[{object}]{sender, }
+\item[{Do\+Work\+Event\+Args}]{e}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_ab58aedc841b1d741d05405347dee0bed}
+
+
+Wykonuje kolejkę zbierania wszystkich danych. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em sender} & Obiekt wywołujący\\
+\hline
+{\em e} & Zawiera parametry przesłane do metody\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00060_aa2c264d14f14b6582d2ba97d3f7e0ac5}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!Store\+Current\+Unit\+Id@{Store\+Current\+Unit\+Id}}
+\index{Store\+Current\+Unit\+Id@{Store\+Current\+Unit\+Id}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{Store\+Current\+Unit\+Id(\+Startup\+Configuration\+Result result) }]{\setlength{\rightskip}{0pt plus 5cm}void Store\+Current\+Unit\+Id (
+\begin{DoxyParamCaption}
+\item[{Startup\+Configuration\+Result}]{result}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_aa2c264d14f14b6582d2ba97d3f7e0ac5}
+
+
+Zapisuje zmienną do pliku aby usługa mogła z niej zkorzystać. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em result} & Informacje zebrane przez tą klasę\\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Dokumentacja pól}
+\hypertarget{a00060_a966acb3880665d6bfae5e9530f226502}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!\+\_\+configuration\+Xml\+Path@{\+\_\+configuration\+Xml\+Path}}
+\index{\+\_\+configuration\+Xml\+Path@{\+\_\+configuration\+Xml\+Path}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{\+\_\+configuration\+Xml\+Path}]{\setlength{\rightskip}{0pt plus 5cm}String \+\_\+configuration\+Xml\+Path\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_a966acb3880665d6bfae5e9530f226502}
+
+
+Przechowuje ścieżkę do pliku config.\+xml wewnątrz katalogu domyślnego. 
+
+\hypertarget{a00060_a8e495187f4a4af24518af257690ff869}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!\+\_\+read\+Write\+Xml\+Path@{\+\_\+read\+Write\+Xml\+Path}}
+\index{\+\_\+read\+Write\+Xml\+Path@{\+\_\+read\+Write\+Xml\+Path}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{\+\_\+read\+Write\+Xml\+Path}]{\setlength{\rightskip}{0pt plus 5cm}String \+\_\+read\+Write\+Xml\+Path\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_a8e495187f4a4af24518af257690ff869}
+
+
+Przechowuje ścieżkę do pliku properties.\+xml wewnątrz katalogu domyślnego. 
+
+\hypertarget{a00060_ac180fa8e53675d26aca81db486d66744}{}\index{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}!\+\_\+result@{\+\_\+result}}
+\index{\+\_\+result@{\+\_\+result}!Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker@{Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}}
+\subsubsection[{\+\_\+result}]{\setlength{\rightskip}{0pt plus 5cm}Startup\+Configuration\+Result \+\_\+result\hspace{0.3cm}{\ttfamily [private]}}\label{a00060_ac180fa8e53675d26aca81db486d66744}
+
+
+Przechowuje wynik działania tej klasy 
+
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi\+Uw\+B-\/\+Windows\+Phone/\+Mobi\+Uw\+B\+Windows\+Phone/\+Startup\+Config/\+Worker/Startup\+Background\+Worker.\+cs\end{DoxyCompactItemize}

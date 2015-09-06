@@ -1,0 +1,136 @@
+\hypertarget{a00022}{}\section{Dokumentacja klasy History\+Stack}
+\label{a00022}\index{History\+Stack@{History\+Stack}}
+
+
+Zarządza historią odwiedzanych stron.  
+
+
+\subsection*{Metody publiczne}
+\subsection*{Atrybuty prywatne}
+
+
+\subsection{Opis szczegółowy}
+Zarządza historią odwiedzanych stron. 
+
+
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{a00022_a20a6c0afe6c04a3f9b627abde2729b95}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!History\+Stack@{History\+Stack}}
+\index{History\+Stack@{History\+Stack}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{History\+Stack() }]{\setlength{\rightskip}{0pt plus 5cm}History\+Stack (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{a00022_a20a6c0afe6c04a3f9b627abde2729b95}
+
+
+Inicjalizuje domyślne wartości. 
+
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{a00022_a27df06f397c78f8cd2c3b1e3b2879fa1}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!Clear@{Clear}}
+\index{Clear@{Clear}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{Clear() }]{\setlength{\rightskip}{0pt plus 5cm}void Clear (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{a00022_a27df06f397c78f8cd2c3b1e3b2879fa1}
+
+
+Czyści historię. 
+
+\hypertarget{a00022_a945662eb7c2ddd60f1118e6e3f255c18}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!Peek@{Peek}}
+\index{Peek@{Peek}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{Peek() }]{\setlength{\rightskip}{0pt plus 5cm}Uri Peek (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{a00022_a945662eb7c2ddd60f1118e6e3f255c18}
+
+
+Pobiera element ze szczytu stosu bez usuwania. 
+
+\begin{DoxyReturn}{Zwraca}
+Pobrany element
+\end{DoxyReturn}
+\hypertarget{a00022_a07f3f3d0f5d4b6f74f19bf5b659fd6cb}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!Pop@{Pop}}
+\index{Pop@{Pop}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{Pop() }]{\setlength{\rightskip}{0pt plus 5cm}Uri Pop (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{a00022_a07f3f3d0f5d4b6f74f19bf5b659fd6cb}
+
+
+Pobiera element ze szczytu i usuwa go. 
+
+\begin{DoxyReturn}{Zwraca}
+Pobrany element
+\end{DoxyReturn}
+\hypertarget{a00022_acd718360411ec41b8df78bca616e1c71}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!Push@{Push}}
+\index{Push@{Push}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{Push(\+Uri item) }]{\setlength{\rightskip}{0pt plus 5cm}void Push (
+\begin{DoxyParamCaption}
+\item[{Uri}]{item}
+\end{DoxyParamCaption}
+)}\label{a00022_acd718360411ec41b8df78bca616e1c71}
+
+
+Dodaje element na górę stosu. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em item} & Element do dodania\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00022_af3e23c22dc33c8d130ba1637e402ea77}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!To\+Array@{To\+Array}}
+\index{To\+Array@{To\+Array}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{To\+Array() }]{\setlength{\rightskip}{0pt plus 5cm}Uri \mbox{[}$\,$\mbox{]} To\+Array (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{a00022_af3e23c22dc33c8d130ba1637e402ea77}
+
+
+Przekształca stos na tablicę. 
+
+\begin{DoxyReturn}{Zwraca}
+Tablica odwiedzanych stron
+\end{DoxyReturn}
+
+
+\subsection{Dokumentacja pól}
+\hypertarget{a00022_ac7ad999b0c39d1611057be0a228fe936}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!\+\_\+current\+Index@{\+\_\+current\+Index}}
+\index{\+\_\+current\+Index@{\+\_\+current\+Index}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{\+\_\+current\+Index}]{\setlength{\rightskip}{0pt plus 5cm}int \+\_\+current\+Index\hspace{0.3cm}{\ttfamily [private]}}\label{a00022_ac7ad999b0c39d1611057be0a228fe936}
+
+
+Index obecnej strony 
+
+\hypertarget{a00022_a261b48743206b846bd2d511f752d5472}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!\+\_\+history\+Stack@{\+\_\+history\+Stack}}
+\index{\+\_\+history\+Stack@{\+\_\+history\+Stack}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{\+\_\+history\+Stack}]{\setlength{\rightskip}{0pt plus 5cm}Stack$<$Uri$>$ \+\_\+history\+Stack\hspace{0.3cm}{\ttfamily [private]}}\label{a00022_a261b48743206b846bd2d511f752d5472}
+
+
+Zawiera wsyztskie odwiedzane strony. 
+
+\hypertarget{a00022_a896aadbe729203007cd6b868f9d5dcf7}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!\+\_\+previous@{\+\_\+previous}}
+\index{\+\_\+previous@{\+\_\+previous}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{\+\_\+previous}]{\setlength{\rightskip}{0pt plus 5cm}Uri \+\_\+previous\hspace{0.3cm}{\ttfamily [private]}}\label{a00022_a896aadbe729203007cd6b868f9d5dcf7}
+
+
+Poprzednio odwiedzona strona. 
+
+\hypertarget{a00022_afb3036bab776e1852f6b7238f3b0f2b9}{}\index{Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}!\+\_\+previous\+Index@{\+\_\+previous\+Index}}
+\index{\+\_\+previous\+Index@{\+\_\+previous\+Index}!Shared\+Code\+::\+History\+Stack@{Shared\+Code\+::\+History\+Stack}}
+\subsubsection[{\+\_\+previous\+Index}]{\setlength{\rightskip}{0pt plus 5cm}int \+\_\+previous\+Index\hspace{0.3cm}{\ttfamily [private]}}\label{a00022_afb3036bab776e1852f6b7238f3b0f2b9}
+
+
+Index poprzednio odwiedzonej strony 
+
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi\+Uw\+B-\/\+Windows\+Phone/\+Shared\+Code/History\+Stack.\+cs\end{DoxyCompactItemize}

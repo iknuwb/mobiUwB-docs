@@ -1,0 +1,147 @@
+\hypertarget{a00081}{}\section{Dokumentacja klasy Version\+Controller}
+\label{a00081}\index{Version\+Controller@{Version\+Controller}}
+
+
+Zarządza aktualnością pliku.  
+
+
+\subsection*{Struktury danych}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{a00021}{File\+Modification\+Date}
+\begin{DoxyCompactList}\small\item\em Opakowywacz daty modyfikacji. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Metody publiczne}
+\subsection*{Metody prywatne}
+\subsection*{Atrybuty prywatne}
+
+
+\subsection{Opis szczegółowy}
+Zarządza aktualnością pliku. 
+
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{a00081_ad9a5320bc36578c788ae7337be62282a}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!Check\+If\+File\+Is\+Current@{Check\+If\+File\+Is\+Current}}
+\index{Check\+If\+File\+Is\+Current@{Check\+If\+File\+Is\+Current}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{Check\+If\+File\+Is\+Current(\+Versioning\+Request request) }]{\setlength{\rightskip}{0pt plus 5cm}async Task$<$Boolean$>$ Check\+If\+File\+Is\+Current (
+\begin{DoxyParamCaption}
+\item[{Versioning\+Request}]{request}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00081_ad9a5320bc36578c788ae7337be62282a}
+
+
+Sprawdza czy plik jest aktualny. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em request} & Dane wejściowe\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Czy plik jest aktualny
+\end{DoxyReturn}
+\hypertarget{a00081_a362e2927cd223b61bdb651a34e423d8d}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!Download\+File@{Download\+File}}
+\index{Download\+File@{Download\+File}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{Download\+File(\+Versioning\+Request request) }]{\setlength{\rightskip}{0pt plus 5cm}async Task Download\+File (
+\begin{DoxyParamCaption}
+\item[{Versioning\+Request}]{request}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00081_a362e2927cd223b61bdb651a34e423d8d}
+
+
+Pobiera plik. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em request} & Dane wejściowe.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek
+\end{DoxyReturn}
+\hypertarget{a00081_abe4efd2d0983d7f4614b6f0dafb7c403}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!Fill\+Result\+With\+Local\+File@{Fill\+Result\+With\+Local\+File}}
+\index{Fill\+Result\+With\+Local\+File@{Fill\+Result\+With\+Local\+File}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{Fill\+Result\+With\+Local\+File( Versioning\+Request request, Versioning\+Result result) }]{\setlength{\rightskip}{0pt plus 5cm}void Fill\+Result\+With\+Local\+File (
+\begin{DoxyParamCaption}
+\item[{Versioning\+Request}]{request, }
+\item[{Versioning\+Result}]{result}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{a00081_abe4efd2d0983d7f4614b6f0dafb7c403}
+
+
+Wypełnia obiekt wynikowy treścią pliku. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em request} & Obiekt wejściowy\\
+\hline
+{\em result} & Obiekt wyjściowy\\
+\hline
+\end{DoxyParams}
+\hypertarget{a00081_a9d678542bb7e67c6d07f0d8941aaee2c}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!Get\+Internet\+File\+Modification\+Date@{Get\+Internet\+File\+Modification\+Date}}
+\index{Get\+Internet\+File\+Modification\+Date@{Get\+Internet\+File\+Modification\+Date}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{Get\+Internet\+File\+Modification\+Date(\+String internet\+File) }]{\setlength{\rightskip}{0pt plus 5cm}async Task$<$Date\+Time$>$ Get\+Internet\+File\+Modification\+Date (
+\begin{DoxyParamCaption}
+\item[{String}]{internet\+File}
+\end{DoxyParamCaption}
+)}\label{a00081_a9d678542bb7e67c6d07f0d8941aaee2c}
+
+
+Pobiera datę modyfikacji pliku internetowego 
+
+
+\begin{DoxyParams}{Parametry}
+{\em internet\+File} & Ścieżka do pliku\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek z datą modyfikacji po zakończeniu
+\end{DoxyReturn}
+\hypertarget{a00081_a689fd757770bb7c84234d1e01b059df3}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!Get\+Newest\+File@{Get\+Newest\+File}}
+\index{Get\+Newest\+File@{Get\+Newest\+File}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{Get\+Newest\+File(\+Versioning\+Request versioning\+Request) }]{\setlength{\rightskip}{0pt plus 5cm}async Task$<$Versioning\+Result$>$ Get\+Newest\+File (
+\begin{DoxyParamCaption}
+\item[{Versioning\+Request}]{versioning\+Request}
+\end{DoxyParamCaption}
+)}\label{a00081_a689fd757770bb7c84234d1e01b059df3}
+
+
+Metoda główna pobierająca najnowszy plik. 
+
+
+\begin{DoxyParams}{Parametry}
+{\em versioning\+Request} & Obiekt wejściowy\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Wątek zawierający obiekt wyjściowy po zakończeniu działania.
+\end{DoxyReturn}
+
+
+\subsection{Dokumentacja pól}
+\hypertarget{a00081_a458a776e332450c18bc0389044ed683f}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!\+\_\+io\+Manager@{\+\_\+io\+Manager}}
+\index{\+\_\+io\+Manager@{\+\_\+io\+Manager}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{\+\_\+io\+Manager}]{\setlength{\rightskip}{0pt plus 5cm}readonly I\+I\+O\+Managment \+\_\+io\+Manager\hspace{0.3cm}{\ttfamily [private]}}\label{a00081_a458a776e332450c18bc0389044ed683f}
+
+
+Zapewnia dostęp do systemu plików. 
+
+\hypertarget{a00081_a718d23534886a761e7ab194591e3940e}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!\+\_\+read\+Data@{\+\_\+read\+Data}}
+\index{\+\_\+read\+Data@{\+\_\+read\+Data}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{\+\_\+read\+Data}]{\setlength{\rightskip}{0pt plus 5cm}readonly I\+Read\+Data \+\_\+read\+Data\hspace{0.3cm}{\ttfamily [private]}}\label{a00081_a718d23534886a761e7ab194591e3940e}
+
+
+Zapewnia dostęp do czytania danych. 
+
+\hypertarget{a00081_adc5e4d53bd5ac662e9a2fc345e987ea7}{}\index{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}!\+\_\+write\+Data@{\+\_\+write\+Data}}
+\index{\+\_\+write\+Data@{\+\_\+write\+Data}!Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller@{Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{\+\_\+write\+Data}]{\setlength{\rightskip}{0pt plus 5cm}readonly I\+Write\+Data \+\_\+write\+Data\hspace{0.3cm}{\ttfamily [private]}}\label{a00081_adc5e4d53bd5ac662e9a2fc345e987ea7}
+
+
+Zapewnia dostęp do zapisu danych. 
+
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi\+Uw\+B-\/\+Windows\+Phone/\+Shared\+Code/\+Version\+Control/Version\+Controller.\+cs\end{DoxyCompactItemize}

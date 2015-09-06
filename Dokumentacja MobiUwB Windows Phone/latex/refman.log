@@ -1,0 +1,4924 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.24)  3 SEP 2015 22:19
+entering extended mode
+**refman
+(C:\PracaMgrProgramy\Doxygen\working\latex\refman.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(G:\Programy\MiKTeX\tex\latex\base\book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(G:\Programy\MiKTeX\tex\latex\base\bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(G:\Programy\MiKTeX\tex\latex\base\fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+(G:\Programy\MiKTeX\tex\latex\tools\calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+(C:\PracaMgrProgramy\Doxygen\working\latex\doxygen.sty
+Package: doxygen 
+
+(G:\Programy\MiKTeX\tex\latex\base\alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(G:\Programy\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen105
+\extrarowheight=\dimen106
+\NC@list=\toks14
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(G:\Programy\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(G:\Programy\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(G:\Programy\MiKTeX\tex\latex\tools\verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks17
+\verbatim@line=\toks18
+\verbatim@in@stream=\read1
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(G:\Programy\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(G:\Programy\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(G:\Programy\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(G:\Programy\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks19
+\minrowclearance=\skip48
+)
+\rownum=\count93
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\xtab\xtab.sty
+Package: xtab 2011/07/31 v2.3f Extended supertabular package
+\c@tracingst=\count94
+\PWSTcapht=\dimen107
+\ST@wd=\dimen108
+\ST@rightskip=\skip49
+\ST@leftskip=\skip50
+\ST@parfillskip=\skip51
+\c@PWSTtable=\count95
+\PWSTlastpage=\count96
+\PWSTpenultimate=\count97
+\PWSTcurpage=\count98
+\PWSTtempc=\count99
+\PWSTlines=\count100
+\PWST@lastht=\dimen109
+\PWST@generalht=\dimen110
+\PWST@ht=\dimen111
+\ST@pageleft=\dimen112
+\ST@headht=\dimen113
+\ST@tailht=\dimen114
+\ST@pagesofar=\dimen115
+\ST@pboxht=\dimen116
+\ST@lineht=\dimen117
+\ST@stretchht=\dimen118
+\ST@prevht=\dimen119
+\ST@toadd=\dimen120
+\ST@dimen=\dimen121
+\ST@pbox=\box28
+)
+\xrefbox=\box29
+\xreflength=\skip52
+\tmplength=\skip53
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(G:\Programy\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+(G:\Programy\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+\XKV@depth=\count101
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+
+(G:\Programy\MiKTeX\tex\generic\xkeyval\keyval.tex)))
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(G:\Programy\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(G:\Programy\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(G:\Programy\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(G:\Programy\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox\collectbox.st
+y
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box30
+)
+\tc@llx=\dimen124
+\tc@lly=\dimen125
+\tc@urx=\dimen126
+\tc@ury=\dimen127
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen128
+\adjbox@Height=\dimen129
+\adjbox@Depth=\dimen130
+\adjbox@Totalheight=\dimen131
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count102
+) (G:\Programy\MiKTeX\tex\latex\ltxmisc\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box31
+\sift@deathcycles=\count103
+\@vwid@loff=\dimen132
+\@vwid@roff=\dimen133
+))
+(G:\Programy\MiKTeX\tex\latex\base\inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+
+(G:\Programy\MiKTeX\tex\latex\base\utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(G:\Programy\MiKTeX\tex\latex\base\t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(G:\Programy\MiKTeX\tex\latex\base\ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(G:\Programy\MiKTeX\tex\latex\base\omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(G:\Programy\MiKTeX\tex\latex\base\makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(G:\Programy\MiKTeX\tex\latex\tools\multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count104
+\mult@box=\box32
+\multicol@leftmargin=\dimen134
+\c@unbalance=\count105
+\c@collectmore=\count106
+\doublecol@number=\count107
+\multicoltolerance=\count108
+\multicolpretolerance=\count109
+\full@width=\dimen135
+\page@free=\dimen136
+\premulticols=\dimen137
+\postmulticols=\dimen138
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box33
+\last@line=\box34
+\mult@rightbox=\box35
+\mult@grightbox=\box36
+\mult@gfirstbox=\box37
+\mult@firstbox=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\c@columnbadness=\count110
+\c@finalcolumnbadness=\count111
+\last@try=\dimen139
+\multicolovershoot=\dimen140
+\multicolundershoot=\dimen141
+\mult@nat@firstbox=\box56
+\colbreak@box=\box57
+\multicol@sort@counter=\count112
+)
+(G:\Programy\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen142
+)
+(G:\Programy\MiKTeX\tex\latex\base\textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(G:\Programy\MiKTeX\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(G:\Programy\MiKTeX\tex\latex\base\ts1enc.dfu
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\wasysym\wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\polski.sty
+Package: polski 2008/02/24 v1.3.3 Polish language package
+
+Document language package `polski' v1.3.3 <2008/02/24>
+   Inputenc package detected. Catcodes not changed.
+\l@nohyphenation=\language69
+   Switching to Polish text encoding and Polish maths fonts.
+(G:\Programy\MiKTeX\tex\latex\base\ot4enc.def
+File: ot4enc.def 2005/09/27 v1.99g Standard LaTeX file
+Now handling font encoding OT4 ...
+... no UTF-8 mapping file for font encoding OT4
+)
+LaTeX Font Info:    Try loading font information for OT4+cmr on input line 346.
+
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\ot4cmr.fd
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 346.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 346.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 346.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 346.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 346.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 346.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `normal' on input line 346.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 346.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 346.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 346.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 346.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `bold' on input line 346.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 346.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 346.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 346.
+)
+(G:\Programy\MiKTeX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(G:\Programy\MiKTeX\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(G:\Programy\MiKTeX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(G:\Programy\MiKTeX\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(G:\Programy\MiKTeX\tex\latex\psnfss\helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(G:\Programy\MiKTeX\tex\latex\psnfss\courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(G:\Programy\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(G:\Programy\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks24
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+(G:\Programy\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(G:\Programy\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(G:\Programy\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(G:\Programy\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count113
+\Gm@cntv=\count114
+\c@Gm@tempcnt=\count115
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks25
+
+(G:\Programy\MiKTeX\tex\latex\geometry\geometry.cfg))
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip65
+\bibsep=\skip66
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count116
+)
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 44.
+\cftparskip=\skip67
+\cftbeforetoctitleskip=\skip68
+\cftaftertoctitleskip=\skip69
+\cftbeforepartskip=\skip70
+\cftpartnumwidth=\skip71
+\cftpartindent=\skip72
+\cftbeforechapskip=\skip73
+\cftchapindent=\skip74
+\cftchapnumwidth=\skip75
+\cftbeforesecskip=\skip76
+\cftsecindent=\skip77
+\cftsecnumwidth=\skip78
+\cftbeforesubsecskip=\skip79
+\cftsubsecindent=\skip80
+\cftsubsecnumwidth=\skip81
+\cftbeforesubsubsecskip=\skip82
+\cftsubsubsecindent=\skip83
+\cftsubsubsecnumwidth=\skip84
+\cftbeforeparaskip=\skip85
+\cftparaindent=\skip86
+\cftparanumwidth=\skip87
+\cftbeforesubparaskip=\skip88
+\cftsubparaindent=\skip89
+\cftsubparanumwidth=\skip90
+\cftbeforeloftitleskip=\skip91
+\cftafterloftitleskip=\skip92
+\cftbeforefigskip=\skip93
+\cftfigindent=\skip94
+\cftfignumwidth=\skip95
+\c@lofdepth=\count117
+\c@lotdepth=\count118
+\cftbeforelottitleskip=\skip96
+\cftafterlottitleskip=\skip97
+\cftbeforetabskip=\skip98
+\cfttabindent=\skip99
+\cfttabnumwidth=\skip100
+)
+\@indexfile=\write3
+
+Writing index file refman.idx
+(G:\Programy\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(G:\Programy\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+(G:\Programy\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(G:\Programy\MiKTeX\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(G:\Programy\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+(G:\Programy\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count121
+
+(G:\Programy\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+
+(G:\Programy\MiKTeX\tex\latex\hyperref\backref.sty
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+(G:\Programy\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count122
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen152
+\Fld@menulength=\count123
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count124
+\c@Item=\count125
+\c@Hfootnote=\count126
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(G:\Programy\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count127
+\c@bookmark@seq@number=\count128
+\Hy@SectionHShift=\skip101
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 109.
+Package hyperref Info: Option `unicode' set `true' on input line 109.
+
+(G:\Programy\MiKTeX\tex\latex\hyperref\puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+(C:\PracaMgrProgramy\Doxygen\working\latex\refman.aux
+
+LaTeX Warning: Label `a00003_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00003_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00003_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00005_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00005_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00005_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00009_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00009_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00009_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00014_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00014_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00014_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00036_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00036_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00036_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00039_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00039_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00039_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00050_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00050_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00050_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00056_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00056_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00056_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00058_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00058_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00058_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00059_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00059_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00059_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00064_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00064_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00064_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00073_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00073_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+
+LaTeX Warning: Label `a00073_a96a31300f7d600ef564a25a5ec3244e6' multiply define
+d.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 119.
+
+ (G:\Programy\MiKTeX\tex\latex\base\ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 119.
+
+(G:\Programy\MiKTeX\tex\latex\psnfss\t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 119.
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen155
+\scratchbox=\box58
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen156
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks27
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-31.2056pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box59
+Package backref Info: ** backref set up for natbib ** on input line 119.
+Package hyperref Info: Link coloring ON on input line 119.
+(G:\Programy\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(G:\Programy\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count135
+)
+LaTeX Info: Redefining \ref on input line 119.
+LaTeX Info: Redefining \pageref on input line 119.
+LaTeX Info: Redefining \nameref on input line 119.
+
+(C:\PracaMgrProgramy\Doxygen\working\latex\refman.out)
+(C:\PracaMgrProgramy\Doxygen\working\latex\refman.out)
+\@outlinefile=\write4
+Package hyperref Info: Option `pageanchor' set `false' on input line 126.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 126.
+
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 126.
+
+Package hyperref Info: Option `unicode' set `true' on input line 126.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 131.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 6.29996pt on input line 131.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 131.
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 131
+.
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 131
+.
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <7> on input line 131.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 131.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 131.
+
+(C:\Users\Tunczyk\AppData\Roaming\MiKTeX\2.9\tex\latex\wasysym\uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 131.
+
+(G:\Programy\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 131.
+
+(G:\Programy\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 133.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 135.
+ [1
+
+
+{C:/Users/Tunczyk/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 22.39185pt on input line 139.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 139.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 139.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 22.39185pt on input line 139.
+
+(C:\PracaMgrProgramy\Doxygen\working\latex\refman.toc
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 6.29996pt on input line 1.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10> on input line 1.
+ [3
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+Underfull \hbox (badness 2181) in paragraph at lines 468--468
+ [][] [][][]\T1/phv/m/n/10 Unhandled[]Exception(object sen-der, Application[]Un
+handled[]Exception[]Event[]Args 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 541--541
+ [][] [][][]\T1/phv/m/n/10 On[]Run[]Worker[]Completed( ob-ject sen-der, Run[]Wo
+rker[]Completed[]Event[]Args 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19])
+\tf@toc=\write5
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22644pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+Package hyperref Info: Option `pageanchor' set `true' on input line 142.
+
+Rozdzia\PlPrIeC {\l } 1.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 18.66588pt on input line 145.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 145.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 18.66588pt on input line 145.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 18.66588pt on input line 145.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 6.29996pt on input line 145.
+(C:\PracaMgrProgramy\Doxygen\working\latex\d7/d46/a00002.tex
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 3.
+
+(G:\Programy\MiKTeX\tex\latex\psnfss\ts1phv.fd
+File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 3.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 8.99994pt on input line 10.
+) [1
+
+
+] [2
+
+]
+Rozdzia\PlPrIeC {\l } 2.
+(C:\PracaMgrProgramy\Doxygen\working\latex\namespaces.tex
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 12.9599pt on input line 1.
+
+
+LaTeX Warning: Reference `d3/dcc/a00264' on page 3 undefined on input line 3.
+
+
+LaTeX Warning: Reference `da/d53/a00265' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Reference `d5/d35/a00266' on page 3 undefined on input line 5.
+
+
+LaTeX Warning: Reference `d1/dd4/a00267' on page 3 undefined on input line 6.
+
+
+LaTeX Warning: Reference `db/d12/a00268' on page 3 undefined on input line 7.
+
+
+LaTeX Warning: Reference `d5/d42/a00269' on page 3 undefined on input line 8.
+
+
+LaTeX Warning: Reference `d9/d2a/a00270' on page 3 undefined on input line 9.
+
+
+LaTeX Warning: Reference `dd/d86/a00271' on page 3 undefined on input line 10.
+
+
+LaTeX Warning: Reference `d9/dd6/a00272' on page 3 undefined on input line 11.
+
+
+LaTeX Warning: Reference `d0/d19/a00273' on page 3 undefined on input line 12.
+
+
+LaTeX Warning: Reference `dd/d56/a00274' on page 3 undefined on input line 13.
+
+
+LaTeX Warning: Reference `d3/d5e/a00275' on page 3 undefined on input line 14.
+
+
+LaTeX Warning: Reference `dc/d28/a00276' on page 3 undefined on input line 15.
+
+
+LaTeX Warning: Reference `d6/d4b/a00277' on page 3 undefined on input line 16.
+
+
+LaTeX Warning: Reference `dc/d5d/a00278' on page 3 undefined on input line 17.
+
+
+LaTeX Warning: Reference `d2/d82/a00279' on page 3 undefined on input line 18.
+
+
+LaTeX Warning: Reference `d0/dcd/a00280' on page 3 undefined on input line 19.
+
+
+LaTeX Warning: Reference `d2/d04/a00281' on page 3 undefined on input line 20.
+
+
+LaTeX Warning: Reference `dc/dc9/a00282' on page 3 undefined on input line 21.
+
+
+LaTeX Warning: Reference `dd/dfe/a00283' on page 3 undefined on input line 22.
+
+
+LaTeX Warning: Reference `db/dc3/a00284' on page 3 undefined on input line 23.
+
+
+LaTeX Warning: Reference `d3/d58/a00285' on page 3 undefined on input line 24.
+
+
+LaTeX Warning: Reference `d5/d7b/a00286' on page 3 undefined on input line 25.
+
+
+LaTeX Warning: Reference `d6/d7f/a00287' on page 3 undefined on input line 26.
+
+
+LaTeX Warning: Reference `da/ddc/a00288' on page 3 undefined on input line 27.
+
+
+LaTeX Warning: Reference `d4/d66/a00289' on page 3 undefined on input line 28.
+
+
+LaTeX Warning: Reference `de/d25/a00290' on page 3 undefined on input line 29.
+
+
+LaTeX Warning: Reference `da/dd4/a00291' on page 3 undefined on input line 30.
+
+
+LaTeX Warning: Reference `d8/d0a/a00292' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Reference `d6/d82/a00293' on page 3 undefined on input line 32.
+
+
+LaTeX Warning: Reference `d4/d5b/a00294' on page 3 undefined on input line 33.
+
+
+LaTeX Warning: Reference `d9/d5e/a00295' on page 3 undefined on input line 34.
+
+
+LaTeX Warning: Reference `db/d7b/a00296' on page 3 undefined on input line 35.
+
+
+LaTeX Warning: Reference `d3/d4a/a00297' on page 3 undefined on input line 36.
+
+
+LaTeX Warning: Reference `d9/d0d/a00298' on page 3 undefined on input line 37.
+
+
+LaTeX Warning: Reference `df/d95/a00299' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Reference `db/da2/a00300' on page 3 undefined on input line 39.
+
+
+LaTeX Warning: Reference `da/d50/a00301' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Reference `d0/d61/a00302' on page 3 undefined on input line 41.
+
+[3]
+
+LaTeX Warning: Reference `dc/d0f/a00303' on page 4 undefined on input line 42.
+
+
+LaTeX Warning: Reference `d8/d17/a00304' on page 4 undefined on input line 43.
+
+
+LaTeX Warning: Reference `d1/de3/a00306' on page 4 undefined on input line 44.
+
+
+LaTeX Warning: Reference `d0/da2/a00307' on page 4 undefined on input line 45.
+
+
+LaTeX Warning: Reference `d5/d0f/a00308' on page 4 undefined on input line 46.
+
+
+LaTeX Warning: Reference `d2/d71/a00309' on page 4 undefined on input line 47.
+
+
+LaTeX Warning: Reference `d1/d67/a00310' on page 4 undefined on input line 48.
+
+
+LaTeX Warning: Reference `d1/d5d/a00311' on page 4 undefined on input line 49.
+
+
+LaTeX Warning: Reference `d7/df2/a00312' on page 4 undefined on input line 50.
+
+
+LaTeX Warning: Reference `dd/db3/a00313' on page 4 undefined on input line 51.
+
+
+LaTeX Warning: Reference `d0/d39/a00314' on page 4 undefined on input line 52.
+
+
+LaTeX Warning: Reference `d4/d6f/a00315' on page 4 undefined on input line 53.
+
+
+LaTeX Warning: Reference `d3/db8/a00316' on page 4 undefined on input line 54.
+
+
+LaTeX Warning: Reference `d9/db3/a00066' on page 4 undefined on input line 55.
+
+
+LaTeX Warning: Reference `da/de0/a00317' on page 4 undefined on input line 56.
+
+
+LaTeX Warning: Reference `d2/d41/a00318' on page 4 undefined on input line 57.
+
+
+LaTeX Warning: Reference `de/dab/a00319' on page 4 undefined on input line 58.
+
+) [4]
+Rozdzia\PlPrIeC {\l } 3.
+(C:\PracaMgrProgramy\Doxygen\working\latex\hierarchy.tex [5
+
+] [6] [7]) [8]
+Rozdzia\PlPrIeC {\l } 4.
+(C:\PracaMgrProgramy\Doxygen\working\latex\annotated.tex
+
+LaTeX Warning: Reference `d1/d7c/a00003' on page 9 undefined on input line 3.
+
+
+LaTeX Warning: Reference `d0/d0b/a00004' on page 9 undefined on input line 4.
+
+
+LaTeX Warning: Reference `dd/dad/a00005' on page 9 undefined on input line 5.
+
+
+LaTeX Warning: Reference `de/d21/a00006' on page 9 undefined on input line 6.
+
+
+LaTeX Warning: Reference `de/d5e/a00007' on page 9 undefined on input line 7.
+
+
+LaTeX Warning: Reference `d4/dee/a00008' on page 9 undefined on input line 8.
+
+
+LaTeX Warning: Reference `da/da0/a00009' on page 9 undefined on input line 9.
+
+
+LaTeX Warning: Reference `d7/dec/a00010' on page 9 undefined on input line 10.
+
+
+LaTeX Warning: Reference `da/d45/a00011' on page 9 undefined on input line 11.
+
+
+LaTeX Warning: Reference `df/d86/a00012' on page 9 undefined on input line 12.
+
+
+LaTeX Warning: Reference `d7/dd4/a00013' on page 9 undefined on input line 13.
+
+
+LaTeX Warning: Reference `d2/de7/a00014' on page 9 undefined on input line 14.
+
+
+LaTeX Warning: Reference `dd/d1b/a00015' on page 9 undefined on input line 15.
+
+
+LaTeX Warning: Reference `d7/d7a/a00016' on page 9 undefined on input line 16.
+
+
+LaTeX Warning: Reference `d4/d51/a00017' on page 9 undefined on input line 17.
+
+
+LaTeX Warning: Reference `d1/d2b/a00018' on page 9 undefined on input line 18.
+
+
+LaTeX Warning: Reference `dd/da2/a00019' on page 9 undefined on input line 19.
+
+
+LaTeX Warning: Reference `db/db2/a00020' on page 9 undefined on input line 20.
+
+
+LaTeX Warning: Reference `de/d11/a00021' on page 9 undefined on input line 21.
+
+
+LaTeX Warning: Reference `d7/de0/a00022' on page 9 undefined on input line 22.
+
+
+LaTeX Warning: Reference `d3/d52/a00023' on page 9 undefined on input line 23.
+
+
+LaTeX Warning: Reference `dc/de2/a00024' on page 9 undefined on input line 24.
+
+[9
+
+]
+
+LaTeX Warning: Reference `d3/dfe/a00025' on page 10 undefined on input line 25.
+
+
+
+LaTeX Warning: Reference `d6/d5b/a00026' on page 10 undefined on input line 26.
+
+
+
+LaTeX Warning: Reference `d0/d33/a00027' on page 10 undefined on input line 27.
+
+
+
+LaTeX Warning: Reference `dc/d3c/a00028' on page 10 undefined on input line 28.
+
+
+
+LaTeX Warning: Reference `d5/d16/a00029' on page 10 undefined on input line 29.
+
+
+
+LaTeX Warning: Reference `d5/d79/a00030' on page 10 undefined on input line 30.
+
+
+
+LaTeX Warning: Reference `df/d61/a00031' on page 10 undefined on input line 31.
+
+
+
+LaTeX Warning: Reference `dc/d87/a00032' on page 10 undefined on input line 32.
+
+
+
+LaTeX Warning: Reference `d0/dc0/a00033' on page 10 undefined on input line 33.
+
+
+
+LaTeX Warning: Reference `db/df3/a00034' on page 10 undefined on input line 34.
+
+
+
+LaTeX Warning: Reference `d4/d8c/a00035' on page 10 undefined on input line 35.
+
+
+
+LaTeX Warning: Reference `de/d8c/a00036' on page 10 undefined on input line 36.
+
+
+
+LaTeX Warning: Reference `d1/dc6/a00037' on page 10 undefined on input line 37.
+
+
+
+LaTeX Warning: Reference `d8/d41/a00038' on page 10 undefined on input line 38.
+
+
+
+LaTeX Warning: Reference `d3/de7/a00039' on page 10 undefined on input line 39.
+
+
+
+LaTeX Warning: Reference `db/d3a/a00040' on page 10 undefined on input line 40.
+
+
+
+LaTeX Warning: Reference `dd/d32/a00041' on page 10 undefined on input line 41.
+
+
+
+LaTeX Warning: Reference `d5/db6/a00042' on page 10 undefined on input line 42.
+
+
+
+LaTeX Warning: Reference `d6/d42/a00043' on page 10 undefined on input line 43.
+
+
+
+LaTeX Warning: Reference `d5/df9/a00044' on page 10 undefined on input line 44.
+
+
+
+LaTeX Warning: Reference `d6/d97/a00045' on page 10 undefined on input line 45.
+
+
+
+LaTeX Warning: Reference `d3/dea/a00046' on page 10 undefined on input line 46.
+
+
+
+LaTeX Warning: Reference `d6/d2d/a00047' on page 10 undefined on input line 47.
+
+
+
+LaTeX Warning: Reference `d4/dca/a00048' on page 10 undefined on input line 48.
+
+
+
+LaTeX Warning: Reference `d2/dee/a00049' on page 10 undefined on input line 49.
+
+
+
+LaTeX Warning: Reference `d5/de0/a00050' on page 10 undefined on input line 50.
+
+
+
+LaTeX Warning: Reference `d2/d79/a00051' on page 10 undefined on input line 51.
+
+
+
+LaTeX Warning: Reference `d1/d84/a00052' on page 10 undefined on input line 52.
+
+
+
+LaTeX Warning: Reference `dc/dee/a00053' on page 10 undefined on input line 53.
+
+
+
+LaTeX Warning: Reference `d1/dea/a00054' on page 10 undefined on input line 54.
+
+
+
+Underfull \vbox (badness 4595) has occurred while \output is active []
+
+ [10]
+
+LaTeX Warning: Reference `d4/d6d/a00055' on page 11 undefined on input line 55.
+
+
+
+LaTeX Warning: Reference `d9/d2e/a00056' on page 11 undefined on input line 56.
+
+
+
+LaTeX Warning: Reference `d1/d22/a00057' on page 11 undefined on input line 57.
+
+
+
+LaTeX Warning: Reference `d7/df7/a00058' on page 11 undefined on input line 58.
+
+
+
+LaTeX Warning: Reference `d3/d8b/a00059' on page 11 undefined on input line 59.
+
+
+
+LaTeX Warning: Reference `d9/d73/a00060' on page 11 undefined on input line 60.
+
+
+
+LaTeX Warning: Reference `d4/de8/a00061' on page 11 undefined on input line 61.
+
+
+
+LaTeX Warning: Reference `df/d03/a00062' on page 11 undefined on input line 62.
+
+
+
+LaTeX Warning: Reference `d1/d6f/a00063' on page 11 undefined on input line 63.
+
+
+
+LaTeX Warning: Reference `df/d5f/a00064' on page 11 undefined on input line 64.
+
+
+
+LaTeX Warning: Reference `de/de1/a00065' on page 11 undefined on input line 65.
+
+
+
+LaTeX Warning: Reference `dc/ddf/a00067' on page 11 undefined on input line 66.
+
+
+
+LaTeX Warning: Reference `da/d24/a00068' on page 11 undefined on input line 67.
+
+
+
+LaTeX Warning: Reference `d4/d31/a00069' on page 11 undefined on input line 68.
+
+
+
+LaTeX Warning: Reference `d2/db1/a00070' on page 11 undefined on input line 69.
+
+
+
+LaTeX Warning: Reference `d0/d89/a00071' on page 11 undefined on input line 70.
+
+
+
+LaTeX Warning: Reference `d6/d2c/a00072' on page 11 undefined on input line 71.
+
+
+
+LaTeX Warning: Reference `d1/d6e/a00073' on page 11 undefined on input line 72.
+
+
+
+LaTeX Warning: Reference `db/db6/a00074' on page 11 undefined on input line 73.
+
+
+
+LaTeX Warning: Reference `d9/da5/a00075' on page 11 undefined on input line 74.
+
+
+
+LaTeX Warning: Reference `db/df8/a00076' on page 11 undefined on input line 75.
+
+
+
+LaTeX Warning: Reference `d1/d09/a00077' on page 11 undefined on input line 76.
+
+
+
+LaTeX Warning: Reference `d9/da4/a00078' on page 11 undefined on input line 77.
+
+
+
+LaTeX Warning: Reference `d1/d51/a00079' on page 11 undefined on input line 78.
+
+
+
+LaTeX Warning: Reference `da/dec/a00080' on page 11 undefined on input line 79.
+
+
+
+LaTeX Warning: Reference `d8/d53/a00081' on page 11 undefined on input line 80.
+
+
+
+LaTeX Warning: Reference `d4/d63/a00082' on page 11 undefined on input line 81.
+
+
+
+LaTeX Warning: Reference `d2/d1f/a00083' on page 11 undefined on input line 82.
+
+
+
+LaTeX Warning: Reference `df/d5d/a00084' on page 11 undefined on input line 83.
+
+
+
+LaTeX Warning: Reference `df/d13/a00085' on page 11 undefined on input line 84.
+
+
+
+LaTeX Warning: Reference `da/d2a/a00086' on page 11 undefined on input line 85.
+
+
+
+LaTeX Warning: Reference `d1/d1e/a00087' on page 11 undefined on input line 86.
+
+
+[11]
+
+LaTeX Warning: Reference `db/ddf/a00088' on page 12 undefined on input line 87.
+
+
+
+LaTeX Warning: Reference `db/dab/a00089' on page 12 undefined on input line 88.
+
+
+
+LaTeX Warning: Reference `d9/dec/a00090' on page 12 undefined on input line 89.
+
+
+) [12]
+Rozdzia\PlPrIeC {\l } 5.
+(C:\PracaMgrProgramy\Doxygen\working\latex\d3/dcc/a00264.tex
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 3.
+LaTeX Font Info:    Font shape `T1/phv/bc/n' will be
+(Font)              scaled to size 10.79993pt on input line 3.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 9.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.09995pt on input line 9.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 9.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 6.29996pt on input line 9.
+LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <9> not available
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 9.
+LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
+(Font)              scaled to size 8.09995pt on input line 9.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 20.
+
+(G:\Programy\MiKTeX\tex\latex\psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+
+LaTeX Font Warning: Font shape `T1/pcr/bc/n' undefined
+(Font)              using `T1/pcr/m/n' instead on input line 20.
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\da/d53/a00265.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d5/d35/a00266.tex [13
+
+]
+LaTeX Font Info:    Font shape `T1/phv/bc/it' in size <10> not available
+(Font)              Font shape `T1/phv/bc/sl' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/phv/bc/sl' will be
+(Font)              scaled to size 8.99994pt on input line 40.
+LaTeX Font Info:    Font shape `T1/phv/bc/it' in size <7> not available
+(Font)              Font shape `T1/phv/bc/sl' tried instead on input line 40.
+LaTeX Font Info:    Font shape `T1/phv/bc/sl' will be
+(Font)              scaled to size 6.29996pt on input line 40.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 47.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.99994pt on input line 47.
+)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/dd4/a00267.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\db/d12/a00268.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d5/d42/a00269.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d9/d2a/a00270.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\dd/d86/a00271.tex [14])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d9/dd6/a00272.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d0/d19/a00273.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\dd/d56/a00274.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d3/d5e/a00275.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\dc/d28/a00276.tex [15])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d6/d4b/a00277.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\dc/d5d/a00278.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d2/d82/a00279.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d0/dcd/a00280.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d2/d04/a00281.tex
+Underfull \hbox (badness 1577) in paragraph at lines 1--1
+[]\T1/phv/bc/n/14.4 Dokumentacja prze-strze-ni nazw Mobi[]Uw[]B.[]Views.[]Setti
+ngs.[]Templates.[]Check[]Box[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dc/dc9/a00282.tex
+Underfull \hbox (badness 1577) in paragraph at lines 1--1
+[]\T1/phv/bc/n/14.4 Dokumentacja prze-strze-ni nazw Mobi[]Uw[]B.[]Views.[]Setti
+ngs.[]Templates.[]Check[]Box[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dd/dfe/a00283.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\db/dc3/a00284.tex
+Underfull \hbox (badness 1107) in paragraph at lines 1--1
+[]\T1/phv/bc/n/14.4 Dokumentacja prze-strze-ni nazw Mobi[]Uw[]B.[]Views.[]Setti
+ngs.[]Templates.[]List[]Picker.[]
+ []
+
+[16]) (C:\PracaMgrProgramy\Doxygen\working\latex\d3/d58/a00285.tex
+Underfull \hbox (badness 1107) in paragraph at lines 1--1
+[]\T1/phv/bc/n/14.4 Dokumentacja prze-strze-ni nazw Mobi[]Uw[]B.[]Views.[]Setti
+ngs.[]Templates.[]List[]Picker.[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d5/d7b/a00286.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d6/d7f/a00287.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\da/ddc/a00288.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d4/d66/a00289.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\de/d25/a00290.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\da/dd4/a00291.tex [17]
+Underfull \hbox (badness 10000) detected at line 28
+[][][]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d8/d0a/a00292.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d6/d82/a00293.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d4/d5b/a00294.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d9/d5e/a00295.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\db/d7b/a00296.tex [18])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d3/d4a/a00297.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d9/d0d/a00298.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\df/d95/a00299.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\db/da2/a00300.tex
+Overfull \hbox (16.73343pt too wide) in paragraph at lines 1--1
+[]\T1/phv/bc/n/14.4 Dokumentacja prze-strze-ni nazw Notifications[]Agent.[]Data
+[]Initialize.[]Tasks.[]Configuration[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\da/d50/a00301.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d0/d61/a00302.tex
+Underfull \hbox (badness 6001) in paragraph at lines 1--1
+[]\T1/phv/bc/n/14.4 Dokumentacja prze-strze-ni nazw Notifications[]Agent.[]Data
+[]Initialize.[]Tasks.[]Unit[]Id[]
+ []
+
+[19]) (C:\PracaMgrProgramy\Doxygen\working\latex\dc/d0f/a00303.tex
+Underfull \hbox (badness 1320) in paragraph at lines 1--1
+[]\T1/phv/bc/n/14.4 Dokumentacja prze-strze-ni nazw Notifications[]Agent.[]Data
+[]Initialize.[]Tasks.[]Version[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d8/d17/a00304.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/de3/a00306.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d0/da2/a00307.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d5/d0f/a00308.tex [20])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d2/d71/a00309.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/d67/a00310.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/d5d/a00311.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d7/df2/a00312.tex [21])
+(C:\PracaMgrProgramy\Doxygen\working\latex\dd/db3/a00313.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d0/d39/a00314.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d4/d6f/a00315.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d3/db8/a00316.tex [22])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d9/db3/a00066.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\da/de0/a00317.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d2/d41/a00318.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\de/dab/a00319.tex [23]) [24]
+Rozdzia\PlPrIeC {\l } 6.
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/d7c/a00003.tex
+<d1/d7c/a00003.pdf, id=4232, 501.875pt x 55.20625pt>
+File: d1/d7c/a00003.pdf Graphic file (type pdf)
+ <use d1/d7c/a00003.pdf>
+Package pdftex.def Info: d1/d7c/a00003.pdf used on input line 6.
+(pdftex.def)             Requested size: 391.50687pt x 43.06378pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+[25
+
+pdfTeX warning (ext4): destination with the same identifier (name{a00003_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.65 C
+      \+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi...
+pdfTeX warning (ext4): destination with the same identifier (name{a00003_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.65 C
+      \+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi...
+pdfTeX warning (ext4): destination with the same identifier (name{a00003_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.65 C
+      \+:/\+Users/\+Tunczyk/\+Documents/\+Programowanie/\+Moj\+Github/\+Mobi...
+ <C:/PracaMgrProgramy/Doxygen/working/latex/d1/d7c/a00003.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d0/d0b/a00004.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\dd/dad/a00005.tex
+<dd/dad/a00005.pdf, id=4244, 501.875pt x 97.36375pt>
+File: dd/dad/a00005.pdf Graphic file (type pdf)
+ <use dd/dad/a00005.pdf>
+Package pdftex.def Info: dd/dad/a00005.pdf used on input line 6.
+(pdftex.def)             Requested size: 293.32382pt x 56.9055pt.
+
+[26 <C:/PracaMgrProgramy/Doxygen/working/latex/dd/dad/a00005.pdf>]
+Underfull \hbox (badness 10000) detected at line 85
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\de/d21/a00006.tex [27pdfTeX warnin
+g (ext4): destination with the same identifier (name{a00005_a96a31300f7d600ef56
+4a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.27 \subsubsection
+                   [{About\+Page\+License\+Content}]{\setlength{\rightskip}{...
+pdfTeX warning (ext4): destination with the same identifier (name{a00005_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.27 \subsubsection
+                   [{About\+Page\+License\+Content}]{\setlength{\rightskip}{...
+pdfTeX warning (ext4): destination with the same identifier (name{a00005_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.27 \subsubsection
+                   [{About\+Page\+License\+Content}]{\setlength{\rightskip}{...
+] [28] [29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\de/d5e/a00007.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d4/dee/a00008.tex
+<d4/dee/a00008.pdf, id=4318, 501.875pt x 204.765pt>
+File: d4/dee/a00008.pdf Graphic file (type pdf)
+ <use d4/dee/a00008.pdf>
+Package pdftex.def Info: d4/dee/a00008.pdf used on input line 11.
+(pdftex.def)             Requested size: 139.47488pt x 56.9055pt.
+
+[31 <C:/PracaMgrProgramy/Doxygen/working/latex/d4/dee/a00008.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 82.
+
+
+Underfull \hbox (badness 10000) detected at line 94
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 113
+[][][]
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 123.
+
+[32]
+Underfull \hbox (badness 10000) detected at line 135
+[][][]
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 144.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 144.
+
+
+Underfull \hbox (badness 10000) detected at line 154
+[][][]
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 163.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 163.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 163.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 163.
+
+
+Underfull \hbox (badness 10000) detected at line 173
+[][][]
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 183.
+
+
+Underfull \hbox (badness 10000) detected at line 195
+[][][]
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 204.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 204.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 204.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 204.
+
+
+Underfull \hbox (badness 10000) detected at line 214
+[][][]
+ []
+
+[33] [34]
+Underfull \hbox (badness 10000) detected at line 233
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\da/da0/a00009.tex
+<da/da0/a00009.pdf, id=4353, 501.875pt x 53.19875pt>
+File: da/da0/a00009.pdf Graphic file (type pdf)
+ <use da/da0/a00009.pdf>
+Package pdftex.def Info: da/da0/a00009.pdf used on input line 6.
+(pdftex.def)             Requested size: 393.00783pt x 41.65627pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+[35pdfTeX warning (ext4): destination with the same identifier (name{a00009_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.66 ...mplate.\+xaml.\+cs\end{DoxyCompactItemize}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{a00009_a96a31300f7d600ef564a25a5ec3244e6})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.66 ...mplate.\+xaml.\+cs\end{DoxyCompactItemize}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{a00009_a96a31300f7d600ef564a25a5ec3244e6})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.66 ...mplate.\+xaml.\+cs\end{DoxyCompactItemize}
+                                                   <C:/PracaMgrProgramy/Doxygen
+/working/latex/da/da0/a00009.pdf>])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d7/dec/a00010.tex
+<d7/dec/a00010.pdf, id=4368, 501.875pt x 167.62625pt>
+File: d7/dec/a00010.pdf Graphic file (type pdf)
+ <use d7/dec/a00010.pdf>
+Package pdftex.def Info: d7/dec/a00010.pdf used on input line 11.
+(pdftex.def)             Requested size: 255.5623pt x 85.35826pt.
+
+[36 <C:/PracaMgrProgramy/Doxygen/working/latex/d7/dec/a00010.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\da/d45/a00011.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\df/d86/a00012.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d7/dd4/a00013.tex
+<d7/dd4/a00013.pdf, id=4385, 501.875pt x 204.765pt>
+File: d7/dd4/a00013.pdf Graphic file (type pdf)
+ <use d7/dd4/a00013.pdf>
+Package pdftex.def Info: d7/dd4/a00013.pdf used on input line 11.
+(pdftex.def)             Requested size: 139.47488pt x 56.9055pt.
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d2/de7/a00014.tex
+<d2/de7/a00014.pdf, id=4395, 501.875pt x 55.20625pt>
+File: d2/de7/a00014.pdf Graphic file (type pdf)
+ <use d2/de7/a00014.pdf>
+Package pdftex.def Info: d2/de7/a00014.pdf used on input line 6.
+(pdftex.def)             Requested size: 391.50687pt x 43.06378pt.
+
+[38pdfTeX warning (ext4): destination with the same identifier (name{a00014_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.40 \subsubsection
+                   [{Initialize\+Component() }]{\setlength{\rightskip}{0pt p...
+ <C:/PracaMgrProgramy/Doxygen/working/latex/d7/dd4/a00013.pdf> <C:/PracaMgrProg
+ramy/Doxygen/working/latex/d2/de7/a00014.pdf>]pdfTeX warning (ext4): destinatio
+n with the same identifier (name{a00014_a96a31300f7d600ef564a25a5ec3244e6}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...00014_a96a31300f7d600ef564a25a5ec3244e6}{}
+                                                  \index{Mobi\+Uw\+B\+::\+Vi...
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dd/d1b/a00015.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d7/d7a/a00016.tex
+<d7/d7a/a00016.pdf, id=4413, 501.875pt x 260.975pt>
+File: d7/d7a/a00016.pdf Graphic file (type pdf)
+ <use d7/d7a/a00016.pdf>
+Package pdftex.def Info: d7/d7a/a00016.pdf used on input line 11.
+(pdftex.def)             Requested size: 109.43262pt x 56.9055pt.
+
+[39pdfTeX warning (ext4): destination with the same identifier (name{a00014_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.18 \subsection{Opis szczegółowy}
+                                     <C:/PracaMgrProgramy/Doxygen/working/latex
+/d7/d7a/a00016.pdf>] [40]
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d4/d51/a00017.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 24.
+
+[41]
+Underfull \hbox (badness 10000) detected at line 39
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 43
+[][][]
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 8.99994pt on input line 44.
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <7> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <7> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 6.29996pt on input line 44.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 53.
+
+
+Underfull \hbox (badness 10000) detected at line 69
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Data[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d1/d2b/a00018.tex
+<d1/d2b/a00018.pdf, id=4452, 501.875pt x 548.0475pt>
+File: d1/d2b/a00018.pdf Graphic file (type pdf)
+ <use d1/d2b/a00018.pdf>
+Package pdftex.def Info: d1/d2b/a00018.pdf used on input line 11.
+(pdftex.def)             Requested size: 78.16505pt x 85.35826pt.
+
+[42]
+
+LaTeX Font Warning: Font shape `T1/pcr/bc/it' undefined
+(Font)              using `T1/pcr/bc/n' instead on input line 33.
+
+
+Overfull \hbox (19.06381pt too wide) in paragraph at lines 59--59
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]I[]O/Download[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dd/da2/a00019.tex [43 <C:/PracaMgr
+Programy/Doxygen/working/latex/d1/d2b/a00018.pdf>])
+(C:\PracaMgrProgramy\Doxygen\working\latex\db/db2/a00020.tex [44])
+(C:\PracaMgrProgramy\Doxygen\working\latex\de/d11/a00021.tex
+<de/d11/a00021.pdf, id=4492, 501.875pt x 167.62625pt>
+File: de/d11/a00021.pdf Graphic file (type pdf)
+ <use de/d11/a00021.pdf>
+Package pdftex.def Info: de/d11/a00021.pdf used on input line 11.
+(pdftex.def)             Requested size: 170.37486pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) detected at line 36
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Version[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d7/de0/a00022.tex [45 <C:/PracaMgr
+Programy/Doxygen/working/latex/de/d11/a00021.pdf>]
+Underfull \hbox (badness 10000) detected at line 54
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 68
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 98
+[][][]
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/History[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d3/d52/a00023.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]I[]O/I[]I[]O[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dc/de2/a00024.tex
+<dc/de2/a00024.pdf, id=4517, 501.875pt x 187.70125pt>
+File: dc/de2/a00024.pdf Graphic file (type pdf)
+ <use dc/de2/a00024.pdf>
+Package pdftex.def Info: dc/de2/a00024.pdf used on input line 6.
+(pdftex.def)             Requested size: 152.14885pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d3/dfe/a00025.tex [47 <C:/PracaMgr
+Programy/Doxygen/working/latex/dc/de2/a00024.pdf>]
+Underfull \hbox (badness 10000) detected at line 35
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 49
+[][][]
+ []
+
+[48]) (C:\PracaMgrProgramy\Doxygen\working\latex\d6/d5b/a00026.tex
+<d6/d5b/a00026.pdf, id=4544, 501.875pt x 312.16624pt>
+File: d6/d5b/a00026.pdf Graphic file (type pdf)
+ <use d6/d5b/a00026.pdf>
+Package pdftex.def Info: d6/d5b/a00026.pdf used on input line 11.
+(pdftex.def)             Requested size: 91.48228pt x 56.9055pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 48.
+
+[49 <C:/PracaMgrProgramy/Doxygen/working/latex/d6/d5b/a00026.pdf>]
+Underfull \hbox (badness 10000) detected at line 58
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 88
+[][][]
+ []
+
+[50] [51]
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d0/d33/a00027.tex
+<d0/d33/a00027.pdf, id=4587, 501.875pt x 398.48875pt>
+File: d0/d33/a00027.pdf Graphic file (type pdf)
+ <use d0/d33/a00027.pdf>
+Package pdftex.def Info: d0/d33/a00027.pdf used on input line 11.
+(pdftex.def)             Requested size: 71.66342pt x 56.9055pt.
+
+[52 <C:/PracaMgrProgramy/Doxygen/working/latex/d0/d33/a00027.pdf>]
+Underfull \hbox (badness 10000) detected at line 40
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 59
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 78
+[][][]
+ []
+
+[53]
+Underfull \hbox (badness 10000) detected at line 103
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 128
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 169
+[][][]
+ []
+
+[54]
+Underfull \hbox (badness 10000) detected at line 188
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 207
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dc/d3c/a00028.tex
+<dc/d3c/a00028.pdf, id=4621, 501.875pt x 398.48875pt>
+File: dc/d3c/a00028.pdf Graphic file (type pdf)
+ <use dc/d3c/a00028.pdf>
+Package pdftex.def Info: dc/d3c/a00028.pdf used on input line 11.
+(pdftex.def)             Requested size: 71.66342pt x 56.9055pt.
+
+[55 <C:/PracaMgrProgramy/Doxygen/working/latex/dc/d3c/a00028.pdf>]
+Underfull \hbox (badness 10000) detected at line 40
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 59
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 78
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 97
+[][][]
+ []
+
+[56]
+Underfull \hbox (badness 10000) detected at line 122
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 147
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 188
+[][][]
+ []
+
+[57]
+Underfull \hbox (badness 10000) detected at line 207
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/Io[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d5/d16/a00029.tex
+<d5/d16/a00029.pdf, id=4649, 501.875pt x 548.0475pt>
+File: d5/d16/a00029.pdf Graphic file (type pdf)
+ <use d5/d16/a00029.pdf>
+Package pdftex.def Info: d5/d16/a00029.pdf used on input line 11.
+(pdftex.def)             Requested size: 78.16505pt x 85.35826pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]I[]O/I[]O[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d5/d79/a00030.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Data[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\df/d61/a00031.tex
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <14.4> on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+[58 <C:/PracaMgrProgramy/Doxygen/working/latex/d5/d16/a00029.pdf>]
+Underfull \hbox (badness 10000) detected at line 20
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Data[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dc/d87/a00032.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Underfull \hbox (badness 10000) detected at line 20
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Tasks/I[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d0/dc0/a00033.tex [59]
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Data[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\db/df3/a00034.tex
+Underfull \hbox (badness 10000) detected at line 34
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 53
+[][][]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d4/d8c/a00035.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+[60]
+Underfull \hbox (badness 10000) detected at line 36
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 55
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 69
+[][][]
+ []
+
+[61]
+Underfull \hbox (badness 10000) detected at line 83
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\de/d8c/a00036.tex
+<de/d8c/a00036.pdf, id=4694, 501.875pt x 64.24pt>
+File: de/d8c/a00036.pdf Graphic file (type pdf)
+ <use de/d8c/a00036.pdf>
+Package pdftex.def Info: de/d8c/a00036.pdf used on input line 6.
+(pdftex.def)             Requested size: 398.34544pt x 50.98755pt.
+
+[62pdfTeX warning (ext4): destination with the same identifier (name{a00036_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.51 \subsubsection
+                   [{Initialize\+Component() }]{\setlength{\rightskip}{0pt p...
+pdfTeX warning (ext4): destination with the same identifier (name{a00036_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.51 \subsubsection
+                   [{Initialize\+Component() }]{\setlength{\rightskip}{0pt p...
+ <C:/PracaMgrProgramy/Doxygen/working/latex/de/d8c/a00036.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d1/dc6/a00037.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+<d1/dc6/a00037.pdf, id=4710, 501.875pt x 94.3525pt>
+File: d1/dc6/a00037.pdf Graphic file (type pdf)
+ <use d1/dc6/a00037.pdf>
+Package pdftex.def Info: d1/dc6/a00037.pdf used on input line 11.
+(pdftex.def)             Requested size: 396.04039pt x 74.45576pt.
+
+[63pdfTeX warning (ext4): destination with the same identifier (name{a00036_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.30 \begin{DoxyTemplParams}{Template Parameters}
+                                                  <C:/PracaMgrProgramy/Doxygen/
+working/latex/d1/dc6/a00037.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d8/d41/a00038.tex [64]
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d3/de7/a00039.tex
+<d3/de7/a00039.pdf, id=4738, 501.875pt x 55.20625pt>
+File: d3/de7/a00039.pdf Graphic file (type pdf)
+ <use d3/de7/a00039.pdf>
+Package pdftex.def Info: d3/de7/a00039.pdf used on input line 6.
+(pdftex.def)             Requested size: 391.50687pt x 43.06378pt.
+
+[65pdfTeX warning (ext4): destination with the same identifier (name{a00039_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.63 D
+      okumentacja dla tej klasy została wygenerowana z plików\+:\begin{Dox...
+pdfTeX warning (ext4): destination with the same identifier (name{a00039_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.63 D
+      okumentacja dla tej klasy została wygenerowana z plików\+:\begin{Dox...
+pdfTeX warning (ext4): destination with the same identifier (name{a00039_a96a31
+300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.63 D
+      okumentacja dla tej klasy została wygenerowana z plików\+:\begin{Dox...
+ <C:/PracaMgrProgramy/Doxygen/working/latex/d3/de7/a00039.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\db/d3a/a00040.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\dd/d32/a00041.tex [66]
+Underfull \hbox (badness 10000) detected at line 31
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d5/db6/a00042.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d6/d42/a00043.tex
+<d6/d42/a00043.pdf, id=4766, 501.875pt x 204.765pt>
+File: d6/d42/a00043.pdf Graphic file (type pdf)
+ <use d6/d42/a00043.pdf>
+Package pdftex.def Info: d6/d42/a00043.pdf used on input line 11.
+(pdftex.def)             Requested size: 139.47488pt x 56.9055pt.
+
+[67 <C:/PracaMgrProgramy/Doxygen/working/latex/d6/d42/a00043.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d5/df9/a00044.tex
+<d5/df9/a00044.pdf, id=4780, 501.875pt x 264.99pt>
+File: d5/df9/a00044.pdf Graphic file (type pdf)
+ <use d5/df9/a00044.pdf>
+Package pdftex.def Info: d5/df9/a00044.pdf used on input line 11.
+(pdftex.def)             Requested size: 107.77083pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d6/d97/a00045.tex [68 <C:/PracaMgr
+Programy/Doxygen/working/latex/d5/df9/a00044.pdf>]
+<d6/d97/a00045.pdf, id=4795, 501.875pt x 514.92375pt>
+File: d6/d97/a00045.pdf Graphic file (type pdf)
+ <use d6/d97/a00045.pdf>
+Package pdftex.def Info: d6/d97/a00045.pdf used on input line 11.
+(pdftex.def)             Requested size: 55.45912pt x 56.9055pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Underfull \hbox (badness 10000) detected at line 48
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d3/dea/a00046.tex
+<d3/dea/a00046.pdf, id=4796, 501.875pt x 514.92375pt>
+File: d3/dea/a00046.pdf Graphic file (type pdf)
+ <use d3/dea/a00046.pdf>
+Package pdftex.def Info: d3/dea/a00046.pdf used on input line 11.
+(pdftex.def)             Requested size: 55.45912pt x 56.9055pt.
+
+[69 <C:/PracaMgrProgramy/Doxygen/working/latex/d6/d97/a00045.pdf> <C:/PracaMgrP
+rogramy/Doxygen/working/latex/d3/dea/a00046.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Underfull \hbox (badness 10000) detected at line 48
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d6/d2d/a00047.tex [70]
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d4/dca/a00048.tex
+<d4/dca/a00048.pdf, id=4820, 501.875pt x 196.735pt>
+File: d4/dca/a00048.pdf Graphic file (type pdf)
+ <use d4/dca/a00048.pdf>
+Package pdftex.def Info: d4/dca/a00048.pdf used on input line 11.
+(pdftex.def)             Requested size: 145.16478pt x 56.9055pt.
+
+Overfull \hbox (31.51958pt too wide) in paragraph at lines 36--36
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/Restolable[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d2/dee/a00049.tex
+<d2/dee/a00049.pdf, id=4821, 501.875pt x 174.6525pt>
+File: d2/dee/a00049.pdf Graphic file (type pdf)
+ <use d2/dee/a00049.pdf>
+Package pdftex.def Info: d2/dee/a00049.pdf used on input line 11.
+(pdftex.def)             Requested size: 245.28528pt x 85.35826pt.
+
+[71 <C:/PracaMgrProgramy/Doxygen/working/latex/d4/dca/a00048.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 62.
+
+
+Underfull \hbox (badness 10000) detected at line 83
+[][][]
+ []
+
+[72 <C:/PracaMgrProgramy/Doxygen/working/latex/d2/dee/a00049.pdf>] [73])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d5/de0/a00050.tex
+<d5/de0/a00050.pdf, id=4855, 501.875pt x 88.33pt>
+File: d5/de0/a00050.pdf Graphic file (type pdf)
+ <use d5/de0/a00050.pdf>
+Package pdftex.def Info: d5/de0/a00050.pdf used on input line 6.
+(pdftex.def)             Requested size: 323.32782pt x 56.9055pt.
+
+[74pdfTeX warning (ext4): destination with the same identifier (name{a00050_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.41 \subsubsection
+                   [{Initialize\+Component() }]{\setlength{\rightskip}{0pt p...
+ <C:/PracaMgrProgramy/Doxygen/working/latex/d5/de0/a00050.pdf>]pdfTeX warning (
+ext4): destination with the same identifier (name{a00050_a96a31300f7d600ef564a2
+5a5ec3244e6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.50 ...00050_a96a31300f7d600ef564a25a5ec3244e6}{}
+                                                  \index{Mobi\+Uw\+B\+::\+Co...
+[75pdfTeX warning (ext4): destination with the same identifier (name{a00050_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.116 \begin{DoxyCode}
+                      ]
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d2/d79/a00051.tex [76]
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d1/d84/a00052.tex
+<d1/d84/a00052.pdf, id=4890, 501.875pt x 289.08pt>
+File: d1/d84/a00052.pdf Graphic file (type pdf)
+ <use d1/d84/a00052.pdf>
+Package pdftex.def Info: d1/d84/a00052.pdf used on input line 11.
+(pdftex.def)             Requested size: 98.78801pt x 56.9055pt.
+
+[77 <C:/PracaMgrProgramy/Doxygen/working/latex/d1/d84/a00052.pdf>]
+Underfull \hbox (badness 10000) detected at line 60
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 82
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 104
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 118
+[][][]
+ []
+
+[78] [79]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 227.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 227.
+
+[80] [81]
+Overfull \hbox (31.70856pt too wide) in paragraph at lines 360--360
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/Scheduled[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dc/dee/a00053.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/dea/a00054.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d4/d6d/a00055.tex [82]
+Underfull \hbox (badness 10000) detected at line 68
+[][][]
+ []
+
+
+Overfull \hbox (31.19536pt too wide) in paragraph at lines 85--85
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Utilities/Settings[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d9/d2e/a00056.tex
+<d9/d2e/a00056.pdf, id=4956, 501.875pt x 55.20625pt>
+File: d9/d2e/a00056.pdf Graphic file (type pdf)
+ <use d9/d2e/a00056.pdf>
+Package pdftex.def Info: d9/d2e/a00056.pdf used on input line 6.
+(pdftex.def)             Requested size: 391.50687pt x 43.06378pt.
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d1/d22/a00057.tex
+<d1/d22/a00057.pdf, id=4969, 501.875pt x 374.39874pt>
+File: d1/d22/a00057.pdf Graphic file (type pdf)
+ <use d1/d22/a00057.pdf>
+Package pdftex.def Info: d1/d22/a00057.pdf used on input line 11.
+(pdftex.def)             Requested size: 114.41795pt x 85.35826pt.
+
+[84pdfTeX warning (ext4): destination with the same identifier (name{a00056_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.14 \subsection
+                *{Metody publiczne}pdfTeX warning (ext4): destination with the 
+same identifier (name{a00056_a96a31300f7d600ef564a25a5ec3244e6}) has been alrea
+dy used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.14 \subsection
+                *{Metody publiczne}pdfTeX warning (ext4): destination with the 
+same identifier (name{a00056_a96a31300f7d600ef564a25a5ec3244e6}) has been alrea
+dy used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.14 \subsection
+                *{Metody publiczne} <C:/PracaMgrProgramy/Doxygen/working/latex/
+d9/d2e/a00056.pdf>]
+Underfull \hbox (badness 10000) detected at line 45
+[][][]
+ []
+
+[85 <C:/PracaMgrProgramy/Doxygen/working/latex/d1/d22/a00057.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d7/df7/a00058.tex
+<d7/df7/a00058.pdf, id=5001, 501.875pt x 55.20625pt>
+File: d7/df7/a00058.pdf Graphic file (type pdf)
+ <use d7/df7/a00058.pdf>
+Package pdftex.def Info: d7/df7/a00058.pdf used on input line 6.
+(pdftex.def)             Requested size: 391.50687pt x 43.06378pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d3/d8b/a00059.tex
+<d3/d8b/a00059.pdf, id=5002, 501.875pt x 55.20625pt>
+File: d3/d8b/a00059.pdf Graphic file (type pdf)
+ <use d3/d8b/a00059.pdf>
+Package pdftex.def Info: d3/d8b/a00059.pdf used on input line 6.
+(pdftex.def)             Requested size: 391.50687pt x 43.06378pt.
+
+[86pdfTeX warning (ext4): destination with the same identifier (name{a00058_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.8 \end{figure}
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{a00058_a96a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate 
+ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.8 \end{figure}
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{a00058_a96a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate 
+ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.8 \end{figure}
+                 <C:/PracaMgrProgramy/Doxygen/working/latex/d7/df7/a00058.pdf>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d9/d73/a00060.tex
+<d9/d73/a00060.pdf, id=5016, 501.875pt x 237.88875pt>
+File: d9/d73/a00060.pdf Graphic file (type pdf)
+ <use d9/d73/a00060.pdf>
+Package pdftex.def Info: d9/d73/a00060.pdf used on input line 11.
+(pdftex.def)             Requested size: 120.05423pt x 56.9055pt.
+
+[87pdfTeX warning (ext4): destination with the same identifier (name{a00059_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.14 \subsection
+                *{Metody publiczne}pdfTeX warning (ext4): destination with the 
+same identifier (name{a00059_a96a31300f7d600ef564a25a5ec3244e6}) has been alrea
+dy used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.14 \subsection
+                *{Metody publiczne}pdfTeX warning (ext4): destination with the 
+same identifier (name{a00059_a96a31300f7d600ef564a25a5ec3244e6}) has been alrea
+dy used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.14 \subsection
+                *{Metody publiczne} <C:/PracaMgrProgramy/Doxygen/working/latex/
+d3/d8b/a00059.pdf>]
+Underfull \hbox (badness 10000) detected at line 55
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 74
+[][][]
+ []
+
+[88 <C:/PracaMgrProgramy/Doxygen/working/latex/d9/d73/a00060.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+[89]) (C:\PracaMgrProgramy\Doxygen\working\latex\d4/de8/a00061.tex [90]
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\df/d03/a00062.tex
+<df/d03/a00062.pdf, id=5070, 501.875pt x 236.885pt>
+File: df/d03/a00062.pdf Graphic file (type pdf)
+ <use df/d03/a00062.pdf>
+Package pdftex.def Info: df/d03/a00062.pdf used on input line 11.
+(pdftex.def)             Requested size: 120.55966pt x 56.9055pt.
+
+[91 <C:/PracaMgrProgramy/Doxygen/working/latex/df/d03/a00062.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d1/d6f/a00063.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\df/d5f/a00064.tex
+<df/d5f/a00064.pdf, id=5085, 501.875pt x 61.22874pt>
+File: df/d5f/a00064.pdf Graphic file (type pdf)
+ <use df/d5f/a00064.pdf>
+Package pdftex.def Info: df/d5f/a00064.pdf used on input line 6.
+(pdftex.def)             Requested size: 392.80106pt x 47.92024pt.
+
+[92pdfTeX warning (ext4): destination with the same identifier (name{a00064_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.40 \subsubsection
+                   [{Initialize\+Component() }]{\setlength{\rightskip}{0pt p...
+ <C:/PracaMgrProgramy/Doxygen/working/latex/df/d5f/a00064.pdf>]pdfTeX warning (
+ext4): destination with the same identifier (name{a00064_a96a31300f7d600ef564a2
+5a5ec3244e6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.49 ...00064_a96a31300f7d600ef564a25a5ec3244e6}{}
+                                                  \index{Mobi\+Uw\+B\+::\+Vi...
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\de/de1/a00065.tex
+<de/de1/a00065.pdf, id=5101, 501.875pt x 167.62625pt>
+File: de/de1/a00065.pdf Graphic file (type pdf)
+ <use de/de1/a00065.pdf>
+Package pdftex.def Info: de/de1/a00065.pdf used on input line 11.
+(pdftex.def)             Requested size: 255.5623pt x 85.35826pt.
+
+[93pdfTeX warning (ext4): destination with the same identifier (name{a00064_a96
+a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.39 \begin{DoxyParams}{Parametry}
+                                   <C:/PracaMgrProgramy/Doxygen/working/latex/d
+e/de1/a00065.pdf>] [94]
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\dc/ddf/a00067.tex
+<dc/ddf/a00067.pdf, id=5120, 501.875pt x 483.8075pt>
+File: dc/ddf/a00067.pdf Graphic file (type pdf)
+ <use dc/ddf/a00067.pdf>
+Package pdftex.def Info: dc/ddf/a00067.pdf used on input line 11.
+(pdftex.def)             Requested size: 59.02774pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Tasks/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\da/d24/a00068.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+[95 <C:/PracaMgrProgramy/Doxygen/working/latex/dc/ddf/a00067.pdf>]
+Overfull \hbox (15.52725pt too wide) in paragraph at lines 36--36
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Tasks/Tasks[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d4/d31/a00069.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Underfull \hbox (badness 10000) detected at line 26
+[][][]
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 39.
+
+[96]
+Overfull \hbox (15.52725pt too wide) in paragraph at lines 81--81
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Tasks/Tasks[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d2/db1/a00070.tex
+<d2/db1/a00070.pdf, id=5146, 501.875pt x 71.26625pt>
+File: d2/db1/a00070.pdf Graphic file (type pdf)
+ <use d2/db1/a00070.pdf>
+Package pdftex.def Info: d2/db1/a00070.pdf used on input line 11.
+(pdftex.def)             Requested size: 393.25288pt x 55.84183pt.
+
+[97 <C:/PracaMgrProgramy/Doxygen/working/latex/d2/db1/a00070.pdf>]
+Underfull \hbox (badness 10000) detected at line 50
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 64
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d0/d89/a00071.tex
+<d0/d89/a00071.pdf, id=5160, 501.875pt x 374.39874pt>
+File: d0/d89/a00071.pdf Graphic file (type pdf)
+ <use d0/d89/a00071.pdf>
+Package pdftex.def Info: d0/d89/a00071.pdf used on input line 11.
+(pdftex.def)             Requested size: 114.41795pt x 85.35826pt.
+
+[98 <C:/PracaMgrProgramy/Doxygen/working/latex/d0/d89/a00071.pdf>]
+Underfull \hbox (badness 10000) detected at line 43
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d6/d2c/a00072.tex
+<d6/d2c/a00072.pdf, id=5173, 501.875pt x 321.2pt>
+File: d6/d2c/a00072.pdf Graphic file (type pdf)
+ <use d6/d2c/a00072.pdf>
+Package pdftex.def Info: d6/d2c/a00072.pdf used on input line 6.
+(pdftex.def)             Requested size: 88.90921pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d1/d6e/a00073.tex
+<d1/d6e/a00073.pdf, id=5174, 501.875pt x 61.22874pt>
+File: d1/d6e/a00073.pdf Graphic file (type pdf)
+ <use d1/d6e/a00073.pdf>
+Package pdftex.def Info: d1/d6e/a00073.pdf used on input line 6.
+(pdftex.def)             Requested size: 395.78001pt x 48.28363pt.
+
+[99 <C:/PracaMgrProgramy/Doxygen/working/latex/d6/d2c/a00072.pdf> <C:/PracaMgrP
+rogramy/Doxygen/working/latex/d1/d6e/a00073.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\db/db6/a00074.tex
+<db/db6/a00074.pdf, id=5190, 501.875pt x 167.62625pt>
+File: db/db6/a00074.pdf Graphic file (type pdf)
+ <use db/db6/a00074.pdf>
+Package pdftex.def Info: db/db6/a00074.pdf used on input line 11.
+(pdftex.def)             Requested size: 255.5623pt x 85.35826pt.
+
+[100pdfTeX warning (ext4): destination with the same identifier (name{a00073_a9
+6a31300f7d600ef564a25a5ec3244e6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.17 \subsection*{Atrybuty prywatne}
+                                    pdfTeX warning (ext4): destination with the
+ same identifier (name{a00073_a96a31300f7d600ef564a25a5ec3244e6}) has been alre
+ady used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.17 \subsection*{Atrybuty prywatne}
+                                    pdfTeX warning (ext4): destination with the
+ same identifier (name{a00073_a96a31300f7d600ef564a25a5ec3244e6}) has been alre
+ady used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.17 \subsection*{Atrybuty prywatne}
+                                     <C:/PracaMgrProgramy/Doxygen/working/latex
+/db/db6/a00074.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d9/da5/a00075.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\db/df8/a00076.tex [101])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/d09/a00077.tex
+Underfull \hbox (badness 10000) detected at line 33
+[][][]
+ []
+
+[102]
+Underfull \hbox (badness 10000) detected at line 52
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d9/da4/a00078.tex
+<d9/da4/a00078.pdf, id=5230, 501.875pt x 204.765pt>
+File: d9/da4/a00078.pdf Graphic file (type pdf)
+ <use d9/da4/a00078.pdf>
+Package pdftex.def Info: d9/da4/a00078.pdf used on input line 11.
+(pdftex.def)             Requested size: 139.47488pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d1/d51/a00079.tex
+<d1/d51/a00079.pdf, id=5231, 501.875pt x 312.16624pt>
+File: d1/d51/a00079.pdf Graphic file (type pdf)
+ <use d1/d51/a00079.pdf>
+Package pdftex.def Info: d1/d51/a00079.pdf used on input line 11.
+(pdftex.def)             Requested size: 91.48228pt x 56.9055pt.
+
+[103 <C:/PracaMgrProgramy/Doxygen/working/latex/d9/da4/a00078.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\da/dec/a00080.tex [104 <C:/PracaMg
+rProgramy/Doxygen/working/latex/d1/d51/a00079.pdf>])
+(C:\PracaMgrProgramy\Doxygen\working\latex\d8/d53/a00081.tex
+Underfull \hbox (badness 10000) detected at line 40
+[][][]
+ []
+
+[105]
+Underfull \hbox (badness 10000) detected at line 59
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 97
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 116
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Version[]
+ []
+
+[106]) (C:\PracaMgrProgramy\Doxygen\working\latex\d4/d63/a00082.tex
+<d4/d63/a00082.pdf, id=5277, 501.875pt x 204.765pt>
+File: d4/d63/a00082.pdf Graphic file (type pdf)
+ <use d4/d63/a00082.pdf>
+Package pdftex.def Info: d4/d63/a00082.pdf used on input line 11.
+(pdftex.def)             Requested size: 139.47488pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d2/d1f/a00083.tex
+<d2/d1f/a00083.pdf, id=5279, 501.875pt x 232.87pt>
+File: d2/d1f/a00083.pdf Graphic file (type pdf)
+ <use d2/d1f/a00083.pdf>
+Package pdftex.def Info: d2/d1f/a00083.pdf used on input line 11.
+(pdftex.def)             Requested size: 122.63498pt x 56.9055pt.
+
+[107 <C:/PracaMgrProgramy/Doxygen/working/latex/d4/d63/a00082.pdf> <C:/PracaMgr
+Programy/Doxygen/working/latex/d2/d1f/a00083.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\df/d5d/a00084.tex
+Underfull \hbox (badness 10000) detected at line 29
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 43
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Version[]
+ []
+
+[108]) (C:\PracaMgrProgramy\Doxygen\working\latex\df/d13/a00085.tex
+<df/d13/a00085.pdf, id=5306, 501.875pt x 349.305pt>
+File: df/d13/a00085.pdf Graphic file (type pdf)
+ <use df/d13/a00085.pdf>
+Package pdftex.def Info: df/d13/a00085.pdf used on input line 11.
+(pdftex.def)             Requested size: 81.75665pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) detected at line 36
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 50
+[][][]
+ []
+
+[109 <C:/PracaMgrProgramy/Doxygen/working/latex/df/d13/a00085.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Version[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\da/d2a/a00086.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\d1/d1e/a00087.tex)
+(C:\PracaMgrProgramy\Doxygen\working\latex\db/ddf/a00088.tex [110]
+<db/ddf/a00088.pdf, id=5329, 501.875pt x 514.92375pt>
+File: db/ddf/a00088.pdf Graphic file (type pdf)
+ <use db/ddf/a00088.pdf>
+Package pdftex.def Info: db/ddf/a00088.pdf used on input line 11.
+(pdftex.def)             Requested size: 55.45912pt x 56.9055pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Underfull \hbox (badness 10000) detected at line 48
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Mobi[]Uw[]B[]Windows[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\db/dab/a00089.tex
+<db/dab/a00089.pdf, id=5330, 501.875pt x 514.92375pt>
+File: db/dab/a00089.pdf Graphic file (type pdf)
+ <use db/dab/a00089.pdf>
+Package pdftex.def Info: db/dab/a00089.pdf used on input line 11.
+(pdftex.def)             Requested size: 55.45912pt x 56.9055pt.
+
+[111 <C:/PracaMgrProgramy/Doxygen/working/latex/db/ddf/a00088.pdf> <C:/PracaMgr
+Programy/Doxygen/working/latex/db/dab/a00089.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 30.
+
+
+Underfull \hbox (badness 10000) detected at line 48
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Notifications[]Agent/[]
+ []
+
+) (C:\PracaMgrProgramy\Doxygen\working\latex\d9/dec/a00090.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 25.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 25.
+
+[112]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 49.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 49.
+
+
+Overfull \hbox (15.82396pt too wide) in paragraph at lines 80--80
+[]\T1/phv/m/n/10 C[]:/[]Users/[]Tunczyk/[]Documents/[]Programowanie/[]Moj[]Gith
+ub/[]Mobi[]Uw[]B-[]Windows[]Phone/[]Shared[]Code/[]Parsers/Xml[]
+ []
+
+) [113] [114
+
+] (C:\PracaMgrProgramy\Doxygen\working\latex\refman.ind
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Utilities[]::[]Settings[]Categories[]Value
+s[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Background[]Agents[]::[]Notification[]Agent
+,
+ []
+
+[115
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Sel
+ector[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tem
+plate[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]V
+ersion[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Background[]Agents[]::[]Notification[]Agent
+,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller[
+]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--283
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]List[]Picker[]Template[]Model[]::[]
+ []
+
+
+Overfull \hbox (21.63528pt too wide) in paragraph at lines 287--289
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]C
+onfiguration[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--293
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]U
+nit[]Id[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--295
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]V
+ersion[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Parsers[]::[]Json[]::[]Model[]::[]Feeds[]R
+oot,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--305
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Parsers[]::[]Json[]::[]Model[]::[]Feeds[]R
+oot,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--308
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--335
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tem
+plate[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller[
+]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]List[]Picker[]Template[]Model[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--373
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Utilities[]::[]Settings[]Categories[]Value
+s[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--393
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tem
+plate[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 409--411
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--417
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--433
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Che
+ck[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--435
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--437
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Swi
+tch[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--439
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tim
+e[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--441
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Something[]Wrong[]::[]Something[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--443
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Splash[]Screen[]::[]Splash[]Scre
+en[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--485
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--488
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--497
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Che
+ck[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--497
+\T1/phv/m/n/10 Box[]Item[]::[]Model[]::[]Check[]Box[]Template[]Model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--499
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Swi
+tch[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--502
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--508
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Sel
+ector[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--524
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 554--556
+[]\T1/phv/m/n/10 Mobi[]Uw[]B.[]Views.[]Settings.[]Templates.[]Check[]Box[]Item.
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--558
+[]\T1/phv/m/n/10 Mobi[]Uw[]B.[]Views.[]Settings.[]Templates.[]Check[]Box[]Item.
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--562
+[]\T1/phv/m/n/10 Mobi[]Uw[]B.[]Views.[]Settings.[]Templates.[]List[]Picker.[]Mo
+del,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--570
+[]\T1/phv/m/n/10 Mobi[]Uw[]B.[]Views.[]Settings.[]Templates.[]Switch[]Item.[]Mo
+del,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--572
+[]\T1/phv/m/n/10 Mobi[]Uw[]B.[]Views.[]Settings.[]Templates.[]Switch[]Item.[]Vi
+ew,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--576
+[]\T1/phv/m/n/10 Mobi[]Uw[]B.[]Views.[]Settings.[]Templates.[]Time[]Picker.[]Mo
+del,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 576--578
+[]\T1/phv/m/n/10 Mobi[]Uw[]B.[]Views.[]Settings.[]Templates.[]Time[]Picker.[]Vi
+ew,
+ []
+
+[119]
+Underfull \hbox (badness 10000) in paragraph at lines 693--695
+[]| \T1/phv/m/n/10 Something[]Wrong[]Page[]Refresh[]Round[]Button[]Text,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 739--740
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Check
+[]Box[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--744
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Check
+[]Box[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--746
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]List[
+]Picker[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]List[
+]Picker[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+\T1/phv/m/n/10 Model[]::[]List[]Picker[]Template[]Model[]::[]List[]Picker[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 757--758
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]List[
+]Picker[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Selec
+tor[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--766
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Selec
+tor[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 767--768
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Switc
+h[]Item[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 771--772
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Switc
+h[]Item[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Time[
+]Picker[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Time[
+]Picker[]::[]
+ []
+
+[120]
+Underfull \hbox (badness 10000) in paragraph at lines 786--787
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Time[
+]Picker[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+[]\T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Something[]Wrong[]::[]Something[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 793--795
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 799--801
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Background[]Agents[]::[]Notification[]Agent
+,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--813
+[]\T1/phv/m/n/10 Notifications[]Agent.[]Data[]Initialize.[]Tasks.[]Categories[]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--815
+[]\T1/phv/m/n/10 Notifications[]Agent.[]Data[]Initialize.[]Tasks.[]Configuratio
+n[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--817
+[]\T1/phv/m/n/10 Notifications[]Agent.[]Data[]Initialize.[]Tasks.[]Properties[]
+Xml,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--827
+[]\T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initiali
+ze[]Task[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
+[]\T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]Cat
+egories[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--855
+[]\T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]Pro
+perties[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 856--857
+[]\T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]Pro
+perties[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--859
+[]\T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]Uni
+t[]Id[]Finder[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--861
+[]\T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]Ver
+sion[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--863
+[]\T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Tasks[]::[]Ver
+sion[]
+ []
+
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 937--939
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 940--942
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--967
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--977
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Che
+ck[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--977
+\T1/phv/m/n/10 Box[]Item[]::[]Model[]::[]Check[]Box[]Template[]Model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--979
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 979--981
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Swi
+tch[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--983
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tim
+e[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 981--983
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]Time[]Picker[]Template[]Model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--988
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 989--991
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 999--1001
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1006
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Che
+ck[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1006
+\T1/phv/m/n/10 Box[]Item[]::[]Model[]::[]Check[]Box[]Template[]Model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1006--1008
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1010
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Swi
+tch[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1012
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tim
+e[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1012
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]Time[]Picker[]Template[]Model,
+ []
+
+[122]
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1072
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Sel
+ector[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1074
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Sel
+ector[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1082
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1091
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Utilities[]::[]Settings[]Categories[]Value
+s[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1094
+[]| \T1/phv/m/n/10 Shared[]Code[]::[]Utilities[]::[]Settings[]Categories[]Value
+s[]
+ []
+
+[123]
+Underfull \hbox (badness 10000) in paragraph at lines 1203--1204
+[]\T1/phv/m/n/10 Shared[]Code[]::[]Utilities[]::[]Settings[]Categories[]Values[
+]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1211
+[]\T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Models[]::[]Versioning
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1228
+[]\T1/phv/m/n/10 Shared[]Code[]::[]Version[]Control[]::[]Version[]Controller[]:
+:[]File[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1239--1241
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Background[]Agents[]::[]Notification[]Agent
+,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1250
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1253
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1262--1264
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Startup[]Config[]::[]Worker[]::[]Startup[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1277
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Sel
+ector[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1294--1296
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tem
+plate[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1298--1300
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1302
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tem
+plate[]
+ []
+
+[124]
+Underfull \hbox (badness 10000) in paragraph at lines 1303--1305
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1308
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Controls[]::[]Round[]Buttons[]::[]Round[]Bu
+tton,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1310--1312
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Sel
+ector[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1314--1316
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1320--1322
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1323--1325
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1323--1325
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]List[]Picker[]Template[]Model[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1330--1332
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1330--1332
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]List[]Picker[]Template[]Model[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1334
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tem
+plate[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1358
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tim
+e[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1358
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]Time[]Picker[]Template[]Model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1359--1361
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Tim
+e[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1364
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1366
+[]| \T1/phv/m/n/10 Mobi[]Uw[]B[]::[]Views[]::[]Settings[]::[]Templates[]::[]Lis
+t[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1364--1366
+\T1/phv/m/n/10 Picker[]::[]Model[]::[]List[]Picker[]Template[]Model[]::[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1374--1376
+[]| \T1/phv/m/n/10 Notifications[]Agent[]::[]Data[]Initialize[]::[]Data[]Initia
+lize[]
+ []
+
+[125])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
+ (C:\PracaMgrProgramy\Doxygen\working\latex\refman.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
+Package rerunfilecheck Info: File `refman.out' has not changed.
+(rerunfilecheck)             Checksum: 406CA6E8450726F18C7335A5A50E4280;180284.
+
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
+ ) 
+Here is how much of TeX's memory you used:
+ 16806 strings out of 493921
+ 271374 string characters out of 3150885
+ 324687 words of memory out of 3000000
+ 17699 multiletter control sequences out of 15000+200000
+ 74631 words of font info for 87 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 48i,16n,43p,1707b,732s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{a00066_de/dd7/a00362} has been referenced but doe
+s not exist, replaced by a fixed one
+
+{C:/Users/Tunczyk/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plmi.enc}{G:/Pr
+ogramy/MiKTeX/fonts/enc/dvips/fontname/8r.enc}{C:/Users/Tunczyk/AppData/Roaming
+/MiKTeX/2.9/fonts/enc/dvips/pl/plms.enc}<C:/Users/Tunczyk/AppData/Roaming/MiKTe
+X/2.9/fonts/type1/public/pl/plmi10.pfb><C:/Users/Tunczyk/AppData/Roaming/MiKTeX
+/2.9/fonts/type1/public/pl/plmi12.pfb><C:/Users/Tunczyk/AppData/Roaming/MiKTeX/
+2.9/fonts/type1/public/pl/plmi7.pfb><C:/Users/Tunczyk/AppData/Roaming/MiKTeX/2.
+9/fonts/type1/public/pl/plsy7.pfb><G:/Programy/MiKTeX/fonts/type1/urw/courier/u
+crr8a.pfb><G:/Programy/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><G:/Programy/
+MiKTeX/fonts/type1/urw/helvetic/uhvb8ac.pfb><G:/Programy/MiKTeX/fonts/type1/urw
+/helvetic/uhvbo8a.pfb><G:/Programy/MiKTeX/fonts/type1/urw/helvetic/uhvbo8ac.pfb
+><G:/Programy/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><G:/Programy/MiKTeX/fo
+nts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on refman.pdf (145 pages, 1260814 bytes).
+PDF statistics:
+ 6534 PDF objects out of 7423 (max. 8388607)
+ 1562 named destinations out of 1728 (max. 500000)
+ 5748 words of extra memory for PDF output out of 10000 (max. 10000000)
+

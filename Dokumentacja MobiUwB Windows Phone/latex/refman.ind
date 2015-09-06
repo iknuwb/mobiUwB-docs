@@ -1,0 +1,1399 @@
+\begin{theindex}
+
+  \item {\+\_\+3\+G\+Bitmap\+Image}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+3\+G\+Image\+Uri}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+4\+G\+Bitmap\+Image}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+4\+G\+Image\+Uri}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+configuration\+Xml\+Path}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {\+\_\+current\+Index}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{47}
+  \item {\+\_\+data\+Initialize\+Task\+Output}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {\+\_\+date\+Time}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Model\+::\+Feed}, 
+		\hyperpage{44}
+  \item {\+\_\+exceptions}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{74}
+  \item {\+\_\+history\+Stack}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{47}
+  \item {\+\_\+instance}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+internet\+Connection\+Type}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+io\+Manager}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Xml\+Parser}, 
+		\hyperpage{113}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{106}
+  \item {\+\_\+last\+Check\+Time}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {\+\_\+localized\+Resources}
+    \subitem {Mobi\+Uw\+B\+::\+Localized\+Strings}, \hyperpage{65}
+  \item {\+\_\+no\+Connection\+Bitmap\+Image}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+no\+Connection\+Image\+Uri}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+pc\+Bitmap\+Image}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+pc\+Image\+Uri}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+  \item {\+\_\+previous}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{47}
+  \item {\+\_\+previous\+Index}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{47}
+  \item {\+\_\+read\+Data}
+    \subitem {Shared\+Code\+::\+Data\+Managment\+::\+Data\+Manager}, 
+		\hyperpage{42}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{106}
+  \item {\+\_\+read\+Write\+Xml\+Path}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {\+\_\+result}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {\+\_\+should\+Stop}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{52}
+  \item {\+\_\+startup\+Background\+Worker}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{90}
+  \item {\+\_\+unknown\+Bitmap\+Image}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{52}
+  \item {\+\_\+unknown\+Image\+Uri}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{52}
+  \item {\+\_\+wi\+Fi\+Bitmap\+Image}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{52}
+  \item {\+\_\+wi\+Fi\+Image\+Uri}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{52}
+  \item {\+\_\+write\+Data}
+    \subitem {Shared\+Code\+::\+Data\+Managment\+::\+Data\+Manager}, 
+		\hyperpage{42}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{106}
+
+  \indexspace
+
+  \item {About\+Page}, \hyperpage{25}
+  \item {About\+Page\+Greetings\+Content}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {About\+Page\+License\+Content}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {About\+Page\+Subtitle\+Authors}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {About\+Page\+Subtitle\+Greetings}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {About\+Page\+Subtitle\+License}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {About\+Page\+Title}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {About\+Page\+Tutor\+Ending}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {add}
+    \subitem {Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}, 
+		\hyperpage{96}
+  \item {Add\+Exception}
+    \subitem {Shared\+Code\+::\+I\+O\+::\+Download\+Result}, 
+		\hyperpage{43}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{72}
+  \item {Add\+Exceptions}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{72}
+  \item {Add\+Value}
+    \subitem {Shared\+Code\+::\+Utilities\+::\+Settings\+Categories\+Values\+Wrapper}, 
+		\hyperpage{83}
+  \item {Address}, \hyperpage{26}
+  \item {Agents\+Are\+Enabled}
+    \subitem {Mobi\+Uw\+B\+::\+Background\+Agents\+::\+Notification\+Agent}, 
+		\hyperpage{67}
+  \item {all\+Values}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Analize\+Connection\+Types}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{49}
+  \item {App}, \hyperpage{26}
+    \subitem {Mobi\+Uw\+B\+::\+App}, \hyperpage{26}
+  \item {App\+Resources}, \hyperpage{27}
+  \item {Authors}, \hyperpage{31}
+
+  \indexspace
+
+  \item {categories}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Categories\+Finder\+Task}, \hyperpage{31}
+  \item {Check\+Box\+Data\+Template}, \hyperpage{35}
+  \item {Check\+Box\+Template}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Settings\+Template\+Selector}, 
+		\hyperpage{85}
+  \item {Check\+Box\+Template\+Model}, \hyperpage{36}
+  \item {Check\+If\+File\+Exists}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, \hyperpage{53}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, \hyperpage{55}
+  \item {Check\+If\+File\+Is\+Current}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{105}
+  \item {Children}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Template\+Model}, 
+		\hyperpage{98}
+  \item {Clear}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{46}
+  \item {Concat\+Last\+Known\+Date\+Id}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{78}
+  \item {config\+Xml\+Result}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Configuration}, \hyperpage{37}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{90}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Configuration\+Result}, 
+		\hyperpage{91}
+  \item {Configuration\+File}, \hyperpage{37}
+  \item {configuration\+File}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Configuration\+File\+Name}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{91}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Version\+Controller\+::\+Version\+Controller\+Task\+Input}, 
+		\hyperpage{108}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {Configuration\+Xml\+Task}, \hyperpage{37}
+  \item {Connection\+Lost}
+    \subitem {Mobi\+Uw\+B\+::\+Connection}, \hyperpage{14}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{52}
+  \item {Connection\+Received}
+    \subitem {Mobi\+Uw\+B\+::\+Connection}, \hyperpage{14}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{52}
+  \item {Contact\+Page}, \hyperpage{38}
+  \item {Contact\+Page\+Localization}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {Contact\+Page\+Title}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {Content}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Model\+::\+Feed}, 
+		\hyperpage{44}
+  \item {Control\+Height\+Property}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{75}
+  \item {Coordinates}, \hyperpage{39}
+  \item {Copy\+File\+From\+Assets\+To\+Storage\+Folder}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, \hyperpage{53}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, \hyperpage{56}
+  \item {Create\+New\+File\+In\+Storage\+Folder}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, \hyperpage{53}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, \hyperpage{56}
+  \item {Create\+Periodic\+Task}
+    \subitem {Mobi\+Uw\+B\+::\+Background\+Agents\+::\+Notification\+Agent}, 
+		\hyperpage{66}
+  \item {Create\+Shell\+Toast}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{78}
+  \item {Culture}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+    \subitem {Notifications\+Agent\+::\+Resources\+::\+Resources}, 
+		\hyperpage{70}
+  \item {Current\+Unit\+Id}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+
+  \indexspace
+
+  \item {Data\+Initialize\+Task\+Output}, \hyperpage{39}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Data\+Manager}, \hyperpage{41}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {Date}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller\+::\+File\+Modification\+Date}, 
+		\hyperpage{45}
+  \item {Date\+Time}
+    \subitem {Notifications\+Agent\+::\+Restolable\+Date\+Time}, 
+		\hyperpage{71}
+  \item {Description\+Text\+Size\+Property}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{75}
+  \item {Deserialize$<$\+T$>$}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Xml\+Parser}, 
+		\hyperpage{112}
+  \item {Deserialize\+Configuration\+Xml}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{88}
+  \item {Deserialize\+Properties\+Xml}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{88}
+  \item {Determine\+Report\+Progress}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{50}
+  \item {Download\+File}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, \hyperpage{56}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{105}
+  \item {Download\+File\+From\+Web\+To\+Storage\+Folder}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, 
+		\hyperpage{53, 54}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, 
+		\hyperpage{56, 57}
+  \item {Download\+Info}
+    \subitem {Shared\+Code\+::\+I\+O}, \hyperpage{21}
+  \item {Download\+Result}, \hyperpage{42}
+
+  \indexspace
+
+  \item {Equals}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model\+::\+List\+Picker\+Item}, 
+		\hyperpage{61}
+    \subitem {Shared\+Code\+::\+Institiute\+Model}, \hyperpage{48}
+  \item {Execute}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{31}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Configuration\+Xml\+::\+Configuration\+Xml\+Task}, 
+		\hyperpage{38}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Properties\+Xml\+::\+Properties\+Xml\+Task}, 
+		\hyperpage{68}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Unit\+Id\+Finder\+::\+Unit\+Id\+Finder\+Task}, 
+		\hyperpage{103}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Version\+Controller\+::\+Version\+Controller\+Task}, 
+		\hyperpage{107}
+
+  \indexspace
+
+  \item {Feed}, \hyperpage{43}
+  \item {Feeds}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Model\+::\+Feeds\+Root}, 
+		\hyperpage{44}
+  \item {Feeds\+Root}, \hyperpage{44}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Model\+::\+Feeds\+Root}, 
+		\hyperpage{44}
+  \item {Fill\+Result\+With\+Local\+File}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{106}
+  \item {Fill\+Values\+From\+Config\+Xml}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{32}
+  \item {Fill\+Values\+From\+Dictionary}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{32}
+  \item {Finished}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{91}
+  \item {Font\+Size\+To\+Pixels}
+    \subitem {Mobi\+Uw\+B\+::\+Utilities\+::\+Unit\+Conventer}, 
+		\hyperpage{102}
+
+  \indexspace
+
+  \item {Generate\+Stream\+From\+String}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Json\+Parser}, 
+		\hyperpage{60}
+  \item {Get\+Bool\+By}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{32}
+  \item {Get\+Categories}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{32}
+  \item {Get\+Defaults}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Template\+Model}, 
+		\hyperpage{98}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller\+::\+File\+Modification\+Date}, 
+		\hyperpage{45}
+  \item {Get\+Destination\+File\+Name}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Request}, 
+		\hyperpage{108}
+  \item {Get\+Exceptions}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{72}
+  \item {Get\+File\+Content}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{109}
+  \item {Get\+File\+Stream\+From\+Storage\+Folder}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, \hyperpage{54}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, \hyperpage{57}
+  \item {Get\+Hash\+Code}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model\+::\+List\+Picker\+Item}, 
+		\hyperpage{61}
+    \subitem {Shared\+Code\+::\+Institiute\+Model}, \hyperpage{48}
+  \item {Get\+Instance}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{50}
+  \item {Get\+Internet\+File}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Request}, 
+		\hyperpage{108}
+  \item {Get\+Internet\+File\+Modification\+Date}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{106}
+  \item {Get\+Interval}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{33}
+  \item {Get\+Interval\+Index}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{33}
+  \item {Get\+New\+Elements}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{78}
+  \item {Get\+Newest\+File}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{106}
+  \item {Get\+Time\+Range}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{33}
+  \item {Get\+Value}
+    \subitem {Shared\+Code\+::\+Utilities\+::\+Settings\+Categories\+Values\+Wrapper}, 
+		\hyperpage{83}
+  \item {Get\+Versioning\+Request}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{109}
+
+  \indexspace
+
+  \item {History\+Stack}, \hyperpage{45}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{46}
+
+  \indexspace
+
+  \item {I\+D}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Template\+Model}, 
+		\hyperpage{98}
+  \item {I\+I\+O\+Managment}, \hyperpage{47}
+  \item {I\+List\+Picker\+Template\+Model}, \hyperpage{47}
+  \item {I\+O\+Result}, \hyperpage{58}
+  \item {I\+Read\+Data}, \hyperpage{58}
+  \item {I\+Restolable$<$\+T$>$}, \hyperpage{59}
+  \item {I\+Task$<$\+Out$>$}, \hyperpage{59}
+  \item {I\+Write\+Data}, \hyperpage{59}
+  \item {Icon\+Path}
+    \subitem {Shared\+Code\+::\+Institiute\+Model}, \hyperpage{48}
+  \item {Image1}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {Image\+Margin\+Property}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{75}
+  \item {Image\+Text}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button\+Model}, 
+		\hyperpage{77}
+  \item {Image\+Text\+Property}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{75}
+  \item {Image\+Width\+Height\+Property}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{75}
+  \item {Information}
+    \subitem {Shared\+Code\+::\+I\+O\+::\+Download\+Result}, 
+		\hyperpage{43}
+  \item {Initialize\+Component}
+    \subitem {Mobi\+Uw\+B\+::\+App}, \hyperpage{27}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{74, 75}
+    \subitem {Mobi\+Uw\+B\+::\+Main\+Page}, \hyperpage{65}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+About\+::\+About\+Page}, 
+		\hyperpage{25}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Contact\+::\+Contact\+Page}, 
+		\hyperpage{38, 39}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Settings\+Page}, 
+		\hyperpage{84}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Check\+Box\+Item\+::\+View\+::\+Check\+Box\+Data\+Template}, 
+		\hyperpage{35}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+View\+::\+List\+Picker\+Template}, 
+		\hyperpage{62, 63}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Switch\+Item\+::\+View\+::\+Switch\+Data\+Template}, 
+		\hyperpage{92, 93}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+View\+::\+Time\+Picker\+Template}, 
+		\hyperpage{100}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Something\+Wrong\+::\+Something\+Wrong\+Page}, 
+		\hyperpage{86}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Splash\+Screen\+::\+Splash\+Screen\+Page}, 
+		\hyperpage{87}
+  \item {Initialize\+Data}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{78}
+  \item {Institiute\+Model}, \hyperpage{48}
+  \item {Internet\+Checker}, \hyperpage{49}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{49}
+  \item {Internet\+Checker\+\_\+\+Do\+Work}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{50}
+  \item {Internet\+Checker\+\_\+\+Progress\+Changed}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{50}
+  \item {Internet\+Checker\+Toast2g}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{28}
+  \item {Internet\+Checker\+Toast\+Mobile3\+G}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Internet\+Checker\+Toast\+Mobile4\+G}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Internet\+Checker\+Toast\+No\+Connection}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Internet\+Checker\+Toast\+Pc}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Internet\+Checker\+Toast\+Title}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Internet\+Checker\+Toast\+Unknown}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Internet\+Checker\+Toast\+Wi\+Fi}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Internet\+Connection\+Type}
+    \subitem {Mobi\+Uw\+B\+::\+Connection}, \hyperpage{14}
+  \item {interval}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {interval\+Index}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Invoke\+Events}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{50}
+  \item {Io\+Manager}, \hyperpage{52}, \hyperpage{55}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {Is\+Checked}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Check\+Box\+Item\+::\+Model\+::\+Check\+Box\+Template\+Model}, 
+		\hyperpage{36}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Switch\+Item\+::\+Model\+::\+Switch\+Template\+Model}, 
+		\hyperpage{95}
+  \item {is\+Notification\+Active}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Is\+Notifications\+Active}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}, 
+		\hyperpage{33}
+  \item {is\+Time\+Range\+Active}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{40}
+  \item {Items}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model}, 
+		\hyperpage{64}
+
+  \indexspace
+
+  \item {Json\+Parser}, \hyperpage{60}
+
+  \indexspace
+
+  \item {List\+Picker\+Template}, \hyperpage{62}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Settings\+Template\+Selector}, 
+		\hyperpage{85}
+  \item {List\+Picker\+Template\+Model}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model}, 
+		\hyperpage{64}
+  \item {List\+Picker\+Template\+Model$<$\+T\+Value$>$}, \hyperpage{63}
+  \item {List\+Picker\+Template\+Model$<$\+T\+Value$>$.\+List\+Picker\+Item}, 
+		\hyperpage{61}
+  \item {Localized\+Resources}
+    \subitem {Mobi\+Uw\+B\+::\+Localized\+Strings}, \hyperpage{65}
+  \item {Localized\+Strings}, \hyperpage{64}
+
+  \indexspace
+
+  \item {Main\+Page}, \hyperpage{65}
+  \item {Map}, \hyperpage{66}
+  \item {Mobi\+Uw\+B}, \hyperpage{13}
+    \subitem {Web\+Browser\+State}, \hyperpage{13}
+  \item {Mobi\+Uw\+B.\+Background\+Agents}, \hyperpage{13}
+  \item {Mobi\+Uw\+B.\+Connection}, \hyperpage{13}
+  \item {Mobi\+Uw\+B.\+Controls}, \hyperpage{14}
+  \item {Mobi\+Uw\+B.\+Controls.\+Round\+Buttons}, \hyperpage{14}
+  \item {Mobi\+Uw\+B.\+Data\+Access}, \hyperpage{14}
+  \item {Mobi\+Uw\+B.\+I\+O}, \hyperpage{14}
+  \item {Mobi\+Uw\+B.\+Resources}, \hyperpage{15}
+  \item {Mobi\+Uw\+B.\+Startup\+Config}, \hyperpage{15}
+  \item {Mobi\+Uw\+B.\+Startup\+Config.\+Worker}, \hyperpage{15}
+  \item {Mobi\+Uw\+B.\+Utilities}, \hyperpage{15}
+  \item {Mobi\+Uw\+B.\+Views}, \hyperpage{15}
+  \item {Mobi\+Uw\+B.\+Views.\+About}, \hyperpage{15}
+  \item {Mobi\+Uw\+B.\+Views.\+Contact}, \hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings}, \hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates}, \hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Check\+Box\+Item}, 
+		\hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Check\+Box\+Item.\+Model}, 
+		\hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Check\+Box\+Item.\+View}, 
+		\hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+List\+Picker}, 
+		\hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+List\+Picker.\+Model}, 
+		\hyperpage{16}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+List\+Picker.\+View}, 
+		\hyperpage{17}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Selector}, 
+		\hyperpage{17}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Switch\+Item}, 
+		\hyperpage{17}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Switch\+Item.\+Model}, 
+		\hyperpage{17}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Switch\+Item.\+View}, 
+		\hyperpage{17}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Time\+Picker}, 
+		\hyperpage{17}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Time\+Picker.\+Model}, 
+		\hyperpage{17}
+  \item {Mobi\+Uw\+B.\+Views.\+Settings.\+Templates.\+Time\+Picker.\+View}, 
+		\hyperpage{18}
+  \item {Mobi\+Uw\+B.\+Views.\+Something\+Wrong}, \hyperpage{18}
+  \item {Mobi\+Uw\+B.\+Views.\+Splash\+Screen}, \hyperpage{18}
+  \item {Mobi\+Uw\+B\+::\+App}
+    \subitem {App}, \hyperpage{26}
+    \subitem {Initialize\+Component}, \hyperpage{27}
+    \subitem {Root\+Frame}, \hyperpage{27}
+  \item {Mobi\+Uw\+B\+::\+Background\+Agents\+::\+Notification\+Agent}
+    \subitem {Agents\+Are\+Enabled}, \hyperpage{67}
+    \subitem {Create\+Periodic\+Task}, \hyperpage{66}
+    \subitem {Name}, \hyperpage{67}
+    \subitem {Start}, \hyperpage{67}
+  \item {Mobi\+Uw\+B\+::\+Connection}
+    \subitem {Connection\+Lost}, \hyperpage{14}
+    \subitem {Connection\+Received}, \hyperpage{14}
+    \subitem {Internet\+Connection\+Type}, \hyperpage{14}
+  \item {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}
+    \subitem {\+\_\+3\+G\+Bitmap\+Image}, \hyperpage{51}
+    \subitem {\+\_\+3\+G\+Image\+Uri}, \hyperpage{51}
+    \subitem {\+\_\+4\+G\+Bitmap\+Image}, \hyperpage{51}
+    \subitem {\+\_\+4\+G\+Image\+Uri}, \hyperpage{51}
+    \subitem {\+\_\+instance}, \hyperpage{51}
+    \subitem {\+\_\+internet\+Connection\+Type}, \hyperpage{51}
+    \subitem {\+\_\+no\+Connection\+Bitmap\+Image}, \hyperpage{51}
+    \subitem {\+\_\+no\+Connection\+Image\+Uri}, \hyperpage{51}
+    \subitem {\+\_\+pc\+Bitmap\+Image}, \hyperpage{51}
+    \subitem {\+\_\+pc\+Image\+Uri}, \hyperpage{51}
+    \subitem {\+\_\+should\+Stop}, \hyperpage{52}
+    \subitem {\+\_\+unknown\+Bitmap\+Image}, \hyperpage{52}
+    \subitem {\+\_\+unknown\+Image\+Uri}, \hyperpage{52}
+    \subitem {\+\_\+wi\+Fi\+Bitmap\+Image}, \hyperpage{52}
+    \subitem {\+\_\+wi\+Fi\+Image\+Uri}, \hyperpage{52}
+    \subitem {Analize\+Connection\+Types}, \hyperpage{49}
+    \subitem {Connection\+Lost}, \hyperpage{52}
+    \subitem {Connection\+Received}, \hyperpage{52}
+    \subitem {Determine\+Report\+Progress}, \hyperpage{50}
+    \subitem {Get\+Instance}, \hyperpage{50}
+    \subitem {Internet\+Checker}, \hyperpage{49}
+    \subitem {Internet\+Checker\+\_\+\+Do\+Work}, \hyperpage{50}
+    \subitem {Internet\+Checker\+\_\+\+Progress\+Changed}, 
+		\hyperpage{50}
+    \subitem {Invoke\+Events}, \hyperpage{50}
+    \subitem {Start\+Checker}, \hyperpage{50}
+    \subitem {Stop\+Checker}, \hyperpage{50}
+    \subitem {Use\+Response}, \hyperpage{51}
+  \item {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}
+    \subitem {Control\+Height\+Property}, \hyperpage{75}
+    \subitem {Description\+Text\+Size\+Property}, \hyperpage{75}
+    \subitem {Image\+Margin\+Property}, \hyperpage{75}
+    \subitem {Image\+Text\+Property}, \hyperpage{75}
+    \subitem {Image\+Width\+Height\+Property}, \hyperpage{75}
+    \subitem {Initialize\+Component}, \hyperpage{74, 75}
+    \subitem {Text\+Margin\+Property}, \hyperpage{76}
+    \subitem {Text\+Property}, \hyperpage{76}
+  \item {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button\+Model}
+    \subitem {Image\+Text}, \hyperpage{77}
+    \subitem {Model}, \hyperpage{77}
+    \subitem {Text}, \hyperpage{77}
+  \item {Mobi\+Uw\+B\+::\+Data\+Access\+::\+Read\+Data}
+    \subitem {Read$<$\+T$>$}, \hyperpage{69}
+  \item {Mobi\+Uw\+B\+::\+Data\+Access\+::\+Write\+Data}
+    \subitem {Write$<$\+T$>$}, \hyperpage{111}
+  \item {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}
+    \subitem {Check\+If\+File\+Exists}, \hyperpage{53}
+    \subitem {Copy\+File\+From\+Assets\+To\+Storage\+Folder}, 
+		\hyperpage{53}
+    \subitem {Create\+New\+File\+In\+Storage\+Folder}, \hyperpage{53}
+    \subitem {Download\+File\+From\+Web\+To\+Storage\+Folder}, 
+		\hyperpage{53, 54}
+    \subitem {Get\+File\+Stream\+From\+Storage\+Folder}, \hyperpage{54}
+    \subitem {Open\+Stream\+To\+Web\+F\+Ile}, \hyperpage{54}
+    \subitem {Read\+Local\+File\+Data}, \hyperpage{54}
+    \subitem {Read\+Resource\+File\+Data}, \hyperpage{55}
+  \item {Mobi\+Uw\+B\+::\+Localized\+Strings}
+    \subitem {\+\_\+localized\+Resources}, \hyperpage{65}
+    \subitem {Localized\+Resources}, \hyperpage{65}
+  \item {Mobi\+Uw\+B\+::\+Main\+Page}
+    \subitem {Initialize\+Component}, \hyperpage{65}
+  \item {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}
+    \subitem {About\+Page\+Greetings\+Content}, \hyperpage{28}
+    \subitem {About\+Page\+License\+Content}, \hyperpage{28}
+    \subitem {About\+Page\+Subtitle\+Authors}, \hyperpage{28}
+    \subitem {About\+Page\+Subtitle\+Greetings}, \hyperpage{28}
+    \subitem {About\+Page\+Subtitle\+License}, \hyperpage{28}
+    \subitem {About\+Page\+Title}, \hyperpage{28}
+    \subitem {About\+Page\+Tutor\+Ending}, \hyperpage{28}
+    \subitem {Contact\+Page\+Localization}, \hyperpage{28}
+    \subitem {Contact\+Page\+Title}, \hyperpage{28}
+    \subitem {Culture}, \hyperpage{28}
+    \subitem {Image1}, \hyperpage{28}
+    \subitem {Internet\+Checker\+Toast2g}, \hyperpage{28}
+    \subitem {Internet\+Checker\+Toast\+Mobile3\+G}, \hyperpage{29}
+    \subitem {Internet\+Checker\+Toast\+Mobile4\+G}, \hyperpage{29}
+    \subitem {Internet\+Checker\+Toast\+No\+Connection}, \hyperpage{29}
+    \subitem {Internet\+Checker\+Toast\+Pc}, \hyperpage{29}
+    \subitem {Internet\+Checker\+Toast\+Title}, \hyperpage{29}
+    \subitem {Internet\+Checker\+Toast\+Unknown}, \hyperpage{29}
+    \subitem {Internet\+Checker\+Toast\+Wi\+Fi}, \hyperpage{29}
+    \subitem {Notifications\+Background\+Agent\+Description}, 
+		\hyperpage{29}
+    \subitem {Notifications\+Background\+Agent\+Not\+Available}, 
+		\hyperpage{29}
+    \subitem {Resource\+Flow\+Direction}, \hyperpage{29}
+    \subitem {Resource\+Language}, \hyperpage{29}
+    \subitem {Resource\+Manager}, \hyperpage{29}
+    \subitem {Settings\+List\+Item\+Day}, \hyperpage{30}
+    \subitem {Settings\+List\+Item\+Hour}, \hyperpage{30}
+    \subitem {Settings\+List\+Item\+Minute}, \hyperpage{30}
+    \subitem {Settings\+Page\+Category\+Frequency}, \hyperpage{30}
+    \subitem {Settings\+Page\+Category\+From}, \hyperpage{30}
+    \subitem {Settings\+Page\+Category\+Notifications}, \hyperpage{30}
+    \subitem {Settings\+Page\+Category\+Time\+Range}, \hyperpage{30}
+    \subitem {Settings\+Page\+Category\+To}, \hyperpage{30}
+    \subitem {Settings\+Page\+Title}, \hyperpage{30}
+    \subitem {Settings\+Page\+Wrong\+Time\+Range}, \hyperpage{30}
+    \subitem {Something\+Wrong\+Page\+Description}, \hyperpage{30}
+    \subitem {Something\+Wrong\+Page\+Refresh\+Round\+Button\+Text}, 
+		\hyperpage{30}
+  \item {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}
+    \subitem {\+\_\+startup\+Background\+Worker}, \hyperpage{90}
+    \subitem {Configuration}, \hyperpage{90}
+    \subitem {Configuration\+File\+Name}, \hyperpage{91}
+    \subitem {Finished}, \hyperpage{91}
+    \subitem {On\+Run\+Worker\+Completed}, \hyperpage{90}
+    \subitem {Properties}, \hyperpage{91}
+    \subitem {Properties\+File\+Name}, \hyperpage{91}
+    \subitem {start\+Configuration}, \hyperpage{90}
+    \subitem {Startup\+Configuration}, \hyperpage{90}
+  \item {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}
+    \subitem {\+\_\+configuration\+Xml\+Path}, \hyperpage{89}
+    \subitem {\+\_\+read\+Write\+Xml\+Path}, \hyperpage{89}
+    \subitem {\+\_\+result}, \hyperpage{89}
+    \subitem {Deserialize\+Configuration\+Xml}, \hyperpage{88}
+    \subitem {Deserialize\+Properties\+Xml}, \hyperpage{88}
+    \subitem {On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End}, 
+		\hyperpage{88}
+    \subitem {On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start}, 
+		\hyperpage{89}
+    \subitem {Prepare\+File\+Paths}, \hyperpage{89}
+    \subitem {Set\+Events}, \hyperpage{89}
+    \subitem {Startup\+Background\+Worker}, \hyperpage{88}
+    \subitem {Startup\+Background\+Worker\+\_\+\+Do\+Work}, 
+		\hyperpage{89}
+    \subitem {Store\+Current\+Unit\+Id}, \hyperpage{89}
+  \item {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Configuration\+Result}
+    \subitem {Configuration}, \hyperpage{91}
+    \subitem {Properties}, \hyperpage{91}
+  \item {Mobi\+Uw\+B\+::\+Unit\+Id\+Storer}
+    \subitem {On\+Do\+Work}, \hyperpage{104}
+    \subitem {Serialize\+Unit\+Id\+Wrapper}, \hyperpage{104}
+    \subitem {Store\+Unit\+Id}, \hyperpage{104}
+  \item {Mobi\+Uw\+B\+::\+Utilities}
+    \subitem {Pivot\+Item\+Type}, \hyperpage{15}
+  \item {Mobi\+Uw\+B\+::\+Utilities\+::\+Unit\+Conventer}
+    \subitem {Font\+Size\+To\+Pixels}, \hyperpage{102}
+    \subitem {Pixels\+To\+Font\+Size}, \hyperpage{102}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+About\+::\+About\+Page}
+    \subitem {Initialize\+Component}, \hyperpage{25}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Contact\+::\+Contact\+Page}
+    \subitem {Initialize\+Component}, \hyperpage{38, 39}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Settings\+Page}
+    \subitem {Initialize\+Component}, \hyperpage{84}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Check\+Box\+Item\+::\+Model\+::\+Check\+Box\+Template\+Model}
+    \subitem {Is\+Checked}, \hyperpage{36}
+    \subitem {Prop\+Changed}, \hyperpage{36}
+    \subitem {Property\+Changed}, \hyperpage{36}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Check\+Box\+Item\+::\+View\+::\+Check\+Box\+Data\+Template}
+    \subitem {Initialize\+Component}, \hyperpage{35}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model}
+    \subitem {Items}, \hyperpage{64}
+    \subitem {List\+Picker\+Template\+Model}, \hyperpage{64}
+    \subitem {Prop\+Changed}, \hyperpage{64}
+    \subitem {Property\+Changed}, \hyperpage{64}
+    \subitem {Value}, \hyperpage{64}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model\+::\+List\+Picker\+Item}
+    \subitem {Equals}, \hyperpage{61}
+    \subitem {Get\+Hash\+Code}, \hyperpage{61}
+    \subitem {Title}, \hyperpage{62}
+    \subitem {To\+String}, \hyperpage{61}
+    \subitem {Value}, \hyperpage{62}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+View\+::\+List\+Picker\+Template}
+    \subitem {Initialize\+Component}, \hyperpage{62, 63}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Settings\+Template\+Selector}
+    \subitem {Check\+Box\+Template}, \hyperpage{85}
+    \subitem {List\+Picker\+Template}, \hyperpage{85}
+    \subitem {Select\+Template}, \hyperpage{85}
+    \subitem {Switch\+Template}, \hyperpage{85}
+    \subitem {Time\+Picker\+Template}, \hyperpage{85}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Template\+Selector}
+    \subitem {Select\+Template}, \hyperpage{99}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Switch\+Item\+::\+Model\+::\+Switch\+Template\+Model}
+    \subitem {Is\+Checked}, \hyperpage{95}
+    \subitem {Prop\+Changed}, \hyperpage{93}
+    \subitem {Property\+Changed}, \hyperpage{95}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Switch\+Item\+::\+View\+::\+Switch\+Data\+Template}
+    \subitem {Initialize\+Component}, \hyperpage{92, 93}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Template\+Model}
+    \subitem {Children}, \hyperpage{98}
+    \subitem {Get\+Defaults}, \hyperpage{98}
+    \subitem {I\+D}, \hyperpage{98}
+    \subitem {Template\+Model}, \hyperpage{97}
+    \subitem {Text}, \hyperpage{98}
+    \subitem {To\+String}, \hyperpage{98}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+Model}
+    \subitem {Validate\+Event}, \hyperpage{18}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+Model\+::\+Time\+Picker\+Template\+Model}
+    \subitem {Prop\+Changed}, \hyperpage{101}
+    \subitem {Property\+Changed}, \hyperpage{101}
+    \subitem {Validate}, \hyperpage{101}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+View\+::\+Time\+Picker\+Template}
+    \subitem {Initialize\+Component}, \hyperpage{100}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Something\+Wrong\+::\+Something\+Wrong\+Page}
+    \subitem {Initialize\+Component}, \hyperpage{86}
+  \item {Mobi\+Uw\+B\+::\+Views\+::\+Splash\+Screen\+::\+Splash\+Screen\+Page}
+    \subitem {Initialize\+Component}, \hyperpage{87}
+  \item {Model}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button\+Model}, 
+		\hyperpage{77}
+
+  \indexspace
+
+  \item {Name}
+    \subitem {Mobi\+Uw\+B\+::\+Background\+Agents\+::\+Notification\+Agent}, 
+		\hyperpage{67}
+    \subitem {Shared\+Code\+::\+Institiute\+Model}, \hyperpage{48}
+  \item {Notification\+Agent}, \hyperpage{66}
+  \item {Notification\+Content\+Text}
+    \subitem {Notifications\+Agent\+::\+Resources\+::\+Resources}, 
+		\hyperpage{70}
+  \item {Notifications\+Agent}, \hyperpage{18}
+  \item {Notifications\+Agent.\+Data\+Access}, \hyperpage{19}
+  \item {Notifications\+Agent.\+Data\+Initialize}, \hyperpage{19}
+  \item {Notifications\+Agent.\+Data\+Initialize.\+Tasks}, 
+		\hyperpage{19}
+  \item {Notifications\+Agent.\+Data\+Initialize.\+Tasks.\+Categories\+Finder}, 
+		\hyperpage{19}
+  \item {Notifications\+Agent.\+Data\+Initialize.\+Tasks.\+Configuration\+Xml}, 
+		\hyperpage{19}
+  \item {Notifications\+Agent.\+Data\+Initialize.\+Tasks.\+Properties\+Xml}, 
+		\hyperpage{19}
+  \item {Notifications\+Agent.\+Data\+Initialize.\+Tasks.\+Unit\+Id\+Finder}, 
+		\hyperpage{20}
+  \item {Notifications\+Agent.\+Data\+Initialize.\+Tasks.\+Version\+Controller}, 
+		\hyperpage{20}
+  \item {Notifications\+Agent.\+Resources}, \hyperpage{20}
+  \item {Notifications\+Agent\+::\+Data\+Access\+::\+Read\+Data}
+    \subitem {Read$<$\+T$>$}, \hyperpage{70}
+  \item {Notifications\+Agent\+::\+Data\+Access\+::\+Write\+Data}
+    \subitem {Write$<$\+T$>$}, \hyperpage{112}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}
+    \subitem {all\+Values}, \hyperpage{40}
+    \subitem {categories}, \hyperpage{40}
+    \subitem {config\+Xml\+Result}, \hyperpage{40}
+    \subitem {configuration\+File}, \hyperpage{40}
+    \subitem {Current\+Unit\+Id}, \hyperpage{40}
+    \subitem {Data\+Initialize\+Task\+Output}, \hyperpage{40}
+    \subitem {interval}, \hyperpage{40}
+    \subitem {interval\+Index}, \hyperpage{40}
+    \subitem {is\+Notification\+Active}, \hyperpage{40}
+    \subitem {is\+Time\+Range\+Active}, \hyperpage{40}
+    \subitem {properties\+File}, \hyperpage{41}
+    \subitem {properties\+Xml\+Result}, \hyperpage{41}
+    \subitem {time\+Range\+From}, \hyperpage{41}
+    \subitem {time\+Range\+To}, \hyperpage{41}
+    \subitem {versioning\+Result}, \hyperpage{41}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Categories\+Finder\+::\+Categories\+Finder\+Task}
+    \subitem {Execute}, \hyperpage{31}
+    \subitem {Fill\+Values\+From\+Config\+Xml}, \hyperpage{32}
+    \subitem {Fill\+Values\+From\+Dictionary}, \hyperpage{32}
+    \subitem {Get\+Bool\+By}, \hyperpage{32}
+    \subitem {Get\+Categories}, \hyperpage{32}
+    \subitem {Get\+Interval}, \hyperpage{33}
+    \subitem {Get\+Interval\+Index}, \hyperpage{33}
+    \subitem {Get\+Time\+Range}, \hyperpage{33}
+    \subitem {Is\+Notifications\+Active}, \hyperpage{33}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Configuration\+Xml\+::\+Configuration\+Xml\+Task}
+    \subitem {Execute}, \hyperpage{38}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Properties\+Xml\+::\+Properties\+Xml\+Task}
+    \subitem {Execute}, \hyperpage{68}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Properties\+Xml\+::\+Properties\+Xml\+Task\+Input}
+    \subitem {Properties\+File\+Name}, \hyperpage{68}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Unit\+Id\+Finder\+::\+Unit\+Id\+Finder\+Task}
+    \subitem {Execute}, \hyperpage{103}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Version\+Controller\+::\+Version\+Controller\+Task}
+    \subitem {Execute}, \hyperpage{107}
+  \item {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Version\+Controller\+::\+Version\+Controller\+Task\+Input}
+    \subitem {Configuration\+File\+Name}, \hyperpage{108}
+  \item {Notifications\+Agent\+::\+Io\+Manager}
+    \subitem {Check\+If\+File\+Exists}, \hyperpage{55}
+    \subitem {Copy\+File\+From\+Assets\+To\+Storage\+Folder}, 
+		\hyperpage{56}
+    \subitem {Create\+New\+File\+In\+Storage\+Folder}, \hyperpage{56}
+    \subitem {Download\+File}, \hyperpage{56}
+    \subitem {Download\+File\+From\+Web\+To\+Storage\+Folder}, 
+		\hyperpage{56, 57}
+    \subitem {Get\+File\+Stream\+From\+Storage\+Folder}, \hyperpage{57}
+    \subitem {Read\+Local\+File\+Data}, \hyperpage{57}
+    \subitem {Read\+Resource\+File\+Data}, \hyperpage{57}
+  \item {Notifications\+Agent\+::\+Resources\+::\+Resources}
+    \subitem {Culture}, \hyperpage{70}
+    \subitem {Notification\+Content\+Text}, \hyperpage{70}
+    \subitem {Resource\+Language}, \hyperpage{70}
+    \subitem {Resource\+Manager}, \hyperpage{71}
+  \item {Notifications\+Agent\+::\+Restolable\+Date\+Time}
+    \subitem {Date\+Time}, \hyperpage{71}
+  \item {Notifications\+Agent\+::\+Scheduled\+Agent}
+    \subitem {\+\_\+data\+Initialize\+Task\+Output}, \hyperpage{81}
+    \subitem {\+\_\+last\+Check\+Time}, \hyperpage{81}
+    \subitem {Concat\+Last\+Known\+Date\+Id}, \hyperpage{78}
+    \subitem {Configuration\+File\+Name}, \hyperpage{81}
+    \subitem {Create\+Shell\+Toast}, \hyperpage{78}
+    \subitem {Data\+Manager}, \hyperpage{81}
+    \subitem {Get\+New\+Elements}, \hyperpage{78}
+    \subitem {Initialize\+Data}, \hyperpage{78}
+    \subitem {Io\+Manager}, \hyperpage{81}
+    \subitem {Notifications\+Execute}, \hyperpage{78}
+    \subitem {Notifications\+Loop}, \hyperpage{78}
+    \subitem {Notifications\+Loop\+Tick}, \hyperpage{78}
+    \subitem {Notifications\+Time\+Range\+Check}, \hyperpage{80}
+    \subitem {On\+Invoke}, \hyperpage{80}
+    \subitem {Process\+Notifications}, \hyperpage{80}
+    \subitem {Properties\+File\+Name}, \hyperpage{81}
+    \subitem {Publish\+Notifications}, \hyperpage{80}
+    \subitem {Read\+Data}, \hyperpage{81}
+    \subitem {Run\+Notifications\+Publisher}, \hyperpage{80}
+    \subitem {Scheduled\+Agent}, \hyperpage{77}
+    \subitem {Time\+Range\+Notifications\+Execute}, \hyperpage{80}
+    \subitem {Unhandled\+Exception}, \hyperpage{81}
+    \subitem {Write\+Data}, \hyperpage{81}
+    \subitem {Xml\+Parser}, \hyperpage{81}
+  \item {Notifications\+Background\+Agent\+Description}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Notifications\+Background\+Agent\+Not\+Available}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Notifications\+Execute}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{78}
+  \item {Notifications\+Loop}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{78}
+  \item {Notifications\+Loop\+Tick}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{78}
+  \item {Notifications\+Time\+Range\+Check}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{80}
+
+  \indexspace
+
+  \item {On\+Do\+Work}
+    \subitem {Mobi\+Uw\+B\+::\+Unit\+Id\+Storer}, \hyperpage{104}
+  \item {On\+Invoke}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{80}
+  \item {On\+Run\+Worker\+Completed}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{90}
+  \item {On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+End}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{88}
+  \item {On\+Startup\+Background\+Worker\+\_\+\+Do\+Work\+Start}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {Open\+Stream\+To\+Web\+F\+Ile}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, \hyperpage{54}
+
+  \indexspace
+
+  \item {Page}
+    \subitem {Shared\+Code\+::\+Institiute\+Model}, \hyperpage{48}
+  \item {Parse\+Feeds\+Json}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Json\+Parser}, 
+		\hyperpage{60}
+  \item {Peek}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{46}
+  \item {perform\+All}
+    \subitem {Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}, 
+		\hyperpage{97}
+  \item {Pivot\+Item\+Type}
+    \subitem {Mobi\+Uw\+B\+::\+Utilities}, \hyperpage{15}
+  \item {Pixels\+To\+Font\+Size}
+    \subitem {Mobi\+Uw\+B\+::\+Utilities\+::\+Unit\+Conventer}, 
+		\hyperpage{102}
+  \item {Pop}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{46}
+  \item {Prepare\+File\+Paths}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {Print\+Exception}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{72}
+  \item {Print\+Exceptions}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{74}
+  \item {Process\+Notifications}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{80}
+  \item {Prop\+Changed}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Check\+Box\+Item\+::\+Model\+::\+Check\+Box\+Template\+Model}, 
+		\hyperpage{36}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model}, 
+		\hyperpage{64}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Switch\+Item\+::\+Model\+::\+Switch\+Template\+Model}, 
+		\hyperpage{93}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+Model\+::\+Time\+Picker\+Template\+Model}, 
+		\hyperpage{101}
+  \item {Properties}, \hyperpage{67}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{91}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Configuration\+Result}, 
+		\hyperpage{91}
+  \item {properties\+File}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{41}
+  \item {Properties\+File\+Name}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{91}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Tasks\+::\+Properties\+Xml\+::\+Properties\+Xml\+Task\+Input}, 
+		\hyperpage{68}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {properties\+Xml\+Result}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{41}
+  \item {Properties\+Xml\+Task}, \hyperpage{67}
+  \item {Properties\+Xml\+Task\+Input}, \hyperpage{68}
+  \item {Property\+Changed}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Check\+Box\+Item\+::\+Model\+::\+Check\+Box\+Template\+Model}, 
+		\hyperpage{36}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model}, 
+		\hyperpage{64}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Switch\+Item\+::\+Model\+::\+Switch\+Template\+Model}, 
+		\hyperpage{95}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+Model\+::\+Time\+Picker\+Template\+Model}, 
+		\hyperpage{101}
+  \item {Publish\+Notifications}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{80}
+  \item {Push}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{46}
+
+  \indexspace
+
+  \item {Read$<$\+T$>$}
+    \subitem {Mobi\+Uw\+B\+::\+Data\+Access\+::\+Read\+Data}, 
+		\hyperpage{69}
+    \subitem {Notifications\+Agent\+::\+Data\+Access\+::\+Read\+Data}, 
+		\hyperpage{70}
+  \item {Read\+Data}, \hyperpage{69}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {Read\+Local\+File\+Data}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, \hyperpage{54}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, \hyperpage{57}
+  \item {Read\+Resource\+File\+Data}
+    \subitem {Mobi\+Uw\+B\+::\+I\+O\+::\+Io\+Manager}, \hyperpage{55}
+    \subitem {Notifications\+Agent\+::\+Io\+Manager}, \hyperpage{57}
+  \item {Resource\+Flow\+Direction}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+  \item {Resource\+Language}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+    \subitem {Notifications\+Agent\+::\+Resources\+::\+Resources}, 
+		\hyperpage{70}
+  \item {Resource\+Manager}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{29}
+    \subitem {Notifications\+Agent\+::\+Resources\+::\+Resources}, 
+		\hyperpage{71}
+  \item {Resources}, \hyperpage{70}
+  \item {Restolable\+Date\+Time}, \hyperpage{71}
+  \item {Restore\+Data$<$\+T$>$}
+    \subitem {Shared\+Code\+::\+Data\+Managment\+::\+Data\+Manager}, 
+		\hyperpage{41}
+  \item {Result}, \hyperpage{71}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{72}
+  \item {Root\+Frame}
+    \subitem {Mobi\+Uw\+B\+::\+App}, \hyperpage{27}
+  \item {Round\+Button}, \hyperpage{74}
+  \item {Round\+Button\+Model}, \hyperpage{76}
+  \item {Run\+Notifications\+Publisher}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{80}
+
+  \indexspace
+
+  \item {Scheduled\+Agent}, \hyperpage{77}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{77}
+  \item {Section}, \hyperpage{82}
+  \item {Sections}, \hyperpage{82}
+  \item {Select\+Template}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Settings\+Template\+Selector}, 
+		\hyperpage{85}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Template\+Selector}, 
+		\hyperpage{99}
+  \item {Serialize$<$\+T$>$}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Xml\+Parser}, 
+		\hyperpage{113}
+  \item {Serialize\+Unit\+Id\+Wrapper}
+    \subitem {Mobi\+Uw\+B\+::\+Unit\+Id\+Storer}, \hyperpage{104}
+  \item {Set\+Events}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {Set\+File\+Content}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{109}
+  \item {Set\+Versioning\+Request}
+    \subitem {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+  \item {Settings\+Categories\+Values}
+    \subitem {Shared\+Code\+::\+Utilities\+::\+Settings\+Categories\+Values\+Wrapper}, 
+		\hyperpage{83}
+  \item {Settings\+Categories\+Values\+Wrapper}, \hyperpage{82}
+    \subitem {Shared\+Code\+::\+Utilities\+::\+Settings\+Categories\+Values\+Wrapper}, 
+		\hyperpage{83}
+  \item {Settings\+List\+Item\+Day}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+List\+Item\+Hour}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+List\+Item\+Minute}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Page}, \hyperpage{83}
+  \item {Settings\+Page\+Category\+Frequency}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Page\+Category\+From}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Page\+Category\+Notifications}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Page\+Category\+Time\+Range}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Page\+Category\+To}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Page\+Title}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Page\+Wrong\+Time\+Range}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Settings\+Template\+Selector}, \hyperpage{84}
+  \item {Shared\+Code}, \hyperpage{20}
+  \item {Shared\+Code.\+Data\+Managment}, \hyperpage{20}
+  \item {Shared\+Code.\+Data\+Managment.\+Data\+Access}, \hyperpage{21}
+  \item {Shared\+Code.\+I\+O}, \hyperpage{21}
+  \item {Shared\+Code.\+Parsers}, \hyperpage{21}
+  \item {Shared\+Code.\+Parsers.\+Json}, \hyperpage{21}
+  \item {Shared\+Code.\+Parsers.\+Json.\+Model}, \hyperpage{22}
+  \item {Shared\+Code.\+Parsers.\+Models}, \hyperpage{22}
+  \item {Shared\+Code.\+Parsers.\+Models.\+Configuration\+X\+M\+L}, 
+		\hyperpage{22}
+  \item {Shared\+Code.\+Parsers.\+Models.\+Properties}, \hyperpage{22}
+  \item {Shared\+Code.\+Tasks}, \hyperpage{23}
+  \item {Shared\+Code.\+Tasks.\+Models}, \hyperpage{23}
+  \item {Shared\+Code.\+Utilities}, \hyperpage{23}
+  \item {Shared\+Code.\+Version\+Control}, \hyperpage{23}
+  \item {Shared\+Code.\+Version\+Control.\+Models}, \hyperpage{23}
+  \item {Shared\+Code\+::\+Data\+Managment\+::\+Data\+Manager}
+    \subitem {\+\_\+read\+Data}, \hyperpage{42}
+    \subitem {\+\_\+write\+Data}, \hyperpage{42}
+    \subitem {Restore\+Data$<$\+T$>$}, \hyperpage{41}
+    \subitem {Store\+Data$<$\+T$>$}, \hyperpage{42}
+  \item {Shared\+Code\+::\+History\+Stack}
+    \subitem {\+\_\+current\+Index}, \hyperpage{47}
+    \subitem {\+\_\+history\+Stack}, \hyperpage{47}
+    \subitem {\+\_\+previous}, \hyperpage{47}
+    \subitem {\+\_\+previous\+Index}, \hyperpage{47}
+    \subitem {Clear}, \hyperpage{46}
+    \subitem {History\+Stack}, \hyperpage{46}
+    \subitem {Peek}, \hyperpage{46}
+    \subitem {Pop}, \hyperpage{46}
+    \subitem {Push}, \hyperpage{46}
+    \subitem {To\+Array}, \hyperpage{46}
+  \item {Shared\+Code\+::\+I\+O}
+    \subitem {Download\+Info}, \hyperpage{21}
+    \subitem {Stream\+Type}, \hyperpage{21}
+  \item {Shared\+Code\+::\+I\+O\+::\+Download\+Result}
+    \subitem {Add\+Exception}, \hyperpage{43}
+    \subitem {Information}, \hyperpage{43}
+  \item {Shared\+Code\+::\+Institiute\+Model}
+    \subitem {Equals}, \hyperpage{48}
+    \subitem {Get\+Hash\+Code}, \hyperpage{48}
+    \subitem {Icon\+Path}, \hyperpage{48}
+    \subitem {Name}, \hyperpage{48}
+    \subitem {Page}, \hyperpage{48}
+    \subitem {Website}, \hyperpage{48}
+  \item {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Json\+Parser}
+    \subitem {Generate\+Stream\+From\+String}, \hyperpage{60}
+    \subitem {Parse\+Feeds\+Json}, \hyperpage{60}
+  \item {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Model\+::\+Feed}
+    \subitem {\+\_\+date\+Time}, \hyperpage{44}
+    \subitem {Content}, \hyperpage{44}
+    \subitem {Title}, \hyperpage{44}
+  \item {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Model\+::\+Feeds\+Root}
+    \subitem {Feeds}, \hyperpage{44}
+    \subitem {Feeds\+Root}, \hyperpage{44}
+  \item {Shared\+Code\+::\+Parsers\+::\+Xml\+Parser}
+    \subitem {\+\_\+io\+Manager}, \hyperpage{113}
+    \subitem {Deserialize$<$\+T$>$}, \hyperpage{112}
+    \subitem {Serialize$<$\+T$>$}, \hyperpage{113}
+  \item {Shared\+Code\+::\+Result}
+    \subitem {\+\_\+exceptions}, \hyperpage{74}
+    \subitem {Add\+Exception}, \hyperpage{72}
+    \subitem {Add\+Exceptions}, \hyperpage{72}
+    \subitem {Get\+Exceptions}, \hyperpage{72}
+    \subitem {Print\+Exception}, \hyperpage{72}
+    \subitem {Print\+Exceptions}, \hyperpage{74}
+    \subitem {Result}, \hyperpage{72}
+    \subitem {Succeeded}, \hyperpage{74}
+  \item {Shared\+Code\+::\+Tasks\+::\+Models\+::\+Task\+Input}, 
+		\hyperpage{23}
+  \item {Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}
+    \subitem {add}, \hyperpage{96}
+    \subitem {perform\+All}, \hyperpage{97}
+    \subitem {tasks}, \hyperpage{97}
+  \item {Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue\+::\+Task\+Pair}
+    \subitem {task}, \hyperpage{96}
+    \subitem {task\+Input}, \hyperpage{96}
+  \item {Shared\+Code\+::\+Utilities\+::\+Settings\+Categories\+Values\+Wrapper}
+    \subitem {Add\+Value}, \hyperpage{83}
+    \subitem {Get\+Value}, \hyperpage{83}
+    \subitem {Settings\+Categories\+Values}, \hyperpage{83}
+    \subitem {Settings\+Categories\+Values\+Wrapper}, \hyperpage{83}
+  \item {Shared\+Code\+::\+Utilities\+::\+Unit\+Id\+Wrapper}
+    \subitem {Unit\+Id}, \hyperpage{105}
+  \item {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Request}
+    \subitem {Get\+Destination\+File\+Name}, \hyperpage{108}
+    \subitem {Get\+Internet\+File}, \hyperpage{108}
+  \item {Shared\+Code\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}
+    \subitem {Get\+File\+Content}, \hyperpage{109}
+    \subitem {Get\+Versioning\+Request}, \hyperpage{109}
+    \subitem {Set\+File\+Content}, \hyperpage{109}
+    \subitem {Set\+Versioning\+Request}, \hyperpage{110}
+  \item {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller}
+    \subitem {\+\_\+io\+Manager}, \hyperpage{106}
+    \subitem {\+\_\+read\+Data}, \hyperpage{106}
+    \subitem {\+\_\+write\+Data}, \hyperpage{106}
+    \subitem {Check\+If\+File\+Is\+Current}, \hyperpage{105}
+    \subitem {Download\+File}, \hyperpage{105}
+    \subitem {Fill\+Result\+With\+Local\+File}, \hyperpage{106}
+    \subitem {Get\+Internet\+File\+Modification\+Date}, \hyperpage{106}
+    \subitem {Get\+Newest\+File}, \hyperpage{106}
+  \item {Shared\+Code\+::\+Version\+Control\+::\+Version\+Controller\+::\+File\+Modification\+Date}
+    \subitem {Date}, \hyperpage{45}
+    \subitem {Get\+Defaults}, \hyperpage{45}
+  \item {Something\+Wrong\+Page}, \hyperpage{86}
+  \item {Something\+Wrong\+Page\+Description}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Something\+Wrong\+Page\+Refresh\+Round\+Button\+Text}
+    \subitem {Mobi\+Uw\+B\+::\+Resources\+::\+App\+Resources}, 
+		\hyperpage{30}
+  \item {Splash\+Screen\+Page}, \hyperpage{87}
+  \item {Start}
+    \subitem {Mobi\+Uw\+B\+::\+Background\+Agents\+::\+Notification\+Agent}, 
+		\hyperpage{67}
+  \item {Start\+Checker}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{50}
+  \item {start\+Configuration}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{90}
+  \item {Startup\+Background\+Worker}, \hyperpage{87}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{88}
+  \item {Startup\+Background\+Worker\+\_\+\+Do\+Work}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {Startup\+Configuration}, \hyperpage{90}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Startup\+Configuration}, 
+		\hyperpage{90}
+  \item {Startup\+Configuration\+Result}, \hyperpage{91}
+  \item {Static\+Section}, \hyperpage{92}
+  \item {Stop\+Checker}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{50}
+  \item {Store\+Current\+Unit\+Id}
+    \subitem {Mobi\+Uw\+B\+::\+Startup\+Config\+::\+Worker\+::\+Startup\+Background\+Worker}, 
+		\hyperpage{89}
+  \item {Store\+Data$<$\+T$>$}
+    \subitem {Shared\+Code\+::\+Data\+Managment\+::\+Data\+Manager}, 
+		\hyperpage{42}
+  \item {Store\+Unit\+Id}
+    \subitem {Mobi\+Uw\+B\+::\+Unit\+Id\+Storer}, \hyperpage{104}
+  \item {Stream\+Type}
+    \subitem {Shared\+Code\+::\+I\+O}, \hyperpage{21}
+  \item {Succeeded}
+    \subitem {Shared\+Code\+::\+Result}, \hyperpage{74}
+  \item {Switch\+Data\+Template}, \hyperpage{92}
+  \item {Switch\+Template}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Settings\+Template\+Selector}, 
+		\hyperpage{85}
+  \item {Switch\+Template\+Model}, \hyperpage{93}
+
+  \indexspace
+
+  \item {task}
+    \subitem {Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue\+::\+Task\+Pair}, 
+		\hyperpage{96}
+  \item {task\+Input}
+    \subitem {Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue\+::\+Task\+Pair}, 
+		\hyperpage{96}
+  \item {Task\+Output}, \hyperpage{95}
+  \item {tasks}
+    \subitem {Shared\+Code\+::\+Tasks\+::\+Tasks\+Queue}, 
+		\hyperpage{97}
+  \item {Tasks\+Queue$<$\+Out$>$}, \hyperpage{96}
+  \item {Tasks\+Queue$<$\+Out$>$.\+Task\+Pair}, \hyperpage{95}
+  \item {Template\+Model}, \hyperpage{97}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Template\+Model}, 
+		\hyperpage{97}
+  \item {Template\+Selector}, \hyperpage{98}
+  \item {Text}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button\+Model}, 
+		\hyperpage{77}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Template\+Model}, 
+		\hyperpage{98}
+  \item {Text\+Margin\+Property}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{76}
+  \item {Text\+Property}
+    \subitem {Mobi\+Uw\+B\+::\+Controls\+::\+Round\+Buttons\+::\+Round\+Button}, 
+		\hyperpage{76}
+  \item {Time\+Picker\+Clickier}, \hyperpage{99}
+  \item {Time\+Picker\+Template}, \hyperpage{99}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Selector\+::\+Settings\+Template\+Selector}, 
+		\hyperpage{85}
+  \item {Time\+Picker\+Template\+Model}, \hyperpage{100}
+  \item {time\+Range\+From}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{41}
+  \item {Time\+Range\+Notifications\+Execute}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{80}
+  \item {time\+Range\+To}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{41}
+  \item {Title}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model\+::\+List\+Picker\+Item}, 
+		\hyperpage{62}
+    \subitem {Shared\+Code\+::\+Parsers\+::\+Json\+::\+Model\+::\+Feed}, 
+		\hyperpage{44}
+  \item {To\+Array}
+    \subitem {Shared\+Code\+::\+History\+Stack}, \hyperpage{46}
+  \item {To\+String}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model\+::\+List\+Picker\+Item}, 
+		\hyperpage{61}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Template\+Model}, 
+		\hyperpage{98}
+  \item {Tutors}, \hyperpage{101}
+
+  \indexspace
+
+  \item {Unhandled\+Exception}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+  \item {Unit}, \hyperpage{102}
+  \item {Unit\+Conventer}, \hyperpage{102}
+  \item {Unit\+Id}
+    \subitem {Shared\+Code\+::\+Utilities\+::\+Unit\+Id\+Wrapper}, 
+		\hyperpage{105}
+  \item {Unit\+Id\+Finder\+Task}, \hyperpage{103}
+  \item {Unit\+Id\+Storer}, \hyperpage{103}
+  \item {Unit\+Id\+Wrapper}, \hyperpage{104}
+  \item {Use\+Response}
+    \subitem {Mobi\+Uw\+B\+::\+Connection\+::\+Internet\+Checker}, 
+		\hyperpage{51}
+
+  \indexspace
+
+  \item {Validate}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+Model\+::\+Time\+Picker\+Template\+Model}, 
+		\hyperpage{101}
+  \item {Validate\+Event}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+Time\+Picker\+::\+Model}, 
+		\hyperpage{18}
+  \item {Value}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model}, 
+		\hyperpage{64}
+    \subitem {Mobi\+Uw\+B\+::\+Views\+::\+Settings\+::\+Templates\+::\+List\+Picker\+::\+Model\+::\+List\+Picker\+Template\+Model\+::\+List\+Picker\+Item}, 
+		\hyperpage{62}
+  \item {Version\+Controller}, \hyperpage{105}
+  \item {Version\+Controller.\+File\+Modification\+Date}, 
+		\hyperpage{45}
+  \item {Version\+Controller\+Task}, \hyperpage{107}
+  \item {Version\+Controller\+Task\+Input}, \hyperpage{107}
+  \item {Versioning\+Request}, \hyperpage{108}
+  \item {Versioning\+Result}, \hyperpage{109}
+  \item {versioning\+Result}
+    \subitem {Notifications\+Agent\+::\+Data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{41}
+
+  \indexspace
+
+  \item {Web\+Browser\+State}
+    \subitem {Mobi\+Uw\+B}, \hyperpage{13}
+  \item {Website}, \hyperpage{110}
+    \subitem {Shared\+Code\+::\+Institiute\+Model}, \hyperpage{48}
+  \item {Websites}, \hyperpage{110}
+  \item {Write$<$\+T$>$}
+    \subitem {Mobi\+Uw\+B\+::\+Data\+Access\+::\+Write\+Data}, 
+		\hyperpage{111}
+    \subitem {Notifications\+Agent\+::\+Data\+Access\+::\+Write\+Data}, 
+		\hyperpage{112}
+  \item {Write\+Data}, \hyperpage{111}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+
+  \indexspace
+
+  \item {Xml\+Parser}, \hyperpage{112}
+    \subitem {Notifications\+Agent\+::\+Scheduled\+Agent}, 
+		\hyperpage{81}
+
+\end{theindex}

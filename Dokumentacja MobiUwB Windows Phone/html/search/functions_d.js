@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['scheduledagent',['ScheduledAgent',['../d1/d84/a00052.html#a76c7bc25d5cb94c3c60006a010c685d6',1,'NotificationsAgent::ScheduledAgent']]],
+  ['selecttemplate',['SelectTemplate',['../d1/d22/a00057.html#a8c3de699f8255b09b825095e567d5695',1,'MobiUwB.Views.Settings.Templates.Selector.SettingsTemplateSelector.SelectTemplate()'],['../d0/d89/a00071.html#a68db1e3f120f6c1a0fbedda33612b2df',1,'MobiUwB.Views.Settings.Templates.Selector.TemplateSelector.SelectTemplate()']]],
+  ['serialize_3ct_3e',['Serialize&lt;T&gt;',['../d9/dec/a00090.html#acd13c81cafa2da5d895524bf7c51f548',1,'SharedCode::Parsers::XmlParser']]],
+  ['serializeunitidwrapper',['SerializeUnitIdWrapper',['../d1/d51/a00079.html#ae718c1981826dc4a03da726c5eec5024',1,'MobiUwB::UnitIdStorer']]],
+  ['setevents',['SetEvents',['../d9/d73/a00060.html#a0f2312f421dcf05f111510bd19b651e2',1,'MobiUwB::StartupConfig::Worker::StartupBackgroundWorker']]],
+  ['setfilecontent',['SetFileContent',['../df/d13/a00085.html#a69dd2121977cd7cc787bd266c5bc03b9',1,'SharedCode::VersionControl::Models::VersioningResult']]],
+  ['settingscategoriesvalueswrapper',['SettingsCategoriesValuesWrapper',['../d4/d6d/a00055.html#a814688887794a5d880e68ab679d53774',1,'SharedCode::Utilities::SettingsCategoriesValuesWrapper']]],
+  ['setversioningrequest',['SetVersioningRequest',['../df/d13/a00085.html#a0ebdcd22ebef3b828bd46991037a3971',1,'SharedCode::VersionControl::Models::VersioningResult']]],
+  ['start',['Start',['../dd/d32/a00041.html#a4bc57b62ed099b721f2c4281e2aeed5b',1,'MobiUwB::BackgroundAgents::NotificationAgent']]],
+  ['startchecker',['StartChecker',['../d6/d5b/a00026.html#a07036d7774fb931b43d7df4974a3f80b',1,'MobiUwB::Connection::InternetChecker']]],
+  ['startconfiguration',['startConfiguration',['../d4/de8/a00061.html#a3f08b1fb7f7256c290c1dc442b971a84',1,'MobiUwB::StartupConfig::StartupConfiguration']]],
+  ['startupbackgroundworker',['StartupBackgroundWorker',['../d9/d73/a00060.html#a65e018a132cf991786690cb73e301736',1,'MobiUwB::StartupConfig::Worker::StartupBackgroundWorker']]],
+  ['startupbackgroundworker_5fdowork',['StartupBackgroundWorker_DoWork',['../d9/d73/a00060.html#ab58aedc841b1d741d05405347dee0bed',1,'MobiUwB::StartupConfig::Worker::StartupBackgroundWorker']]],
+  ['startupconfiguration',['StartupConfiguration',['../d4/de8/a00061.html#ad10b959089ae739281cab114694c85e1',1,'MobiUwB::StartupConfig::StartupConfiguration']]],
+  ['stopchecker',['StopChecker',['../d6/d5b/a00026.html#aa3d9b81b4986f94b4a4437fcfc94bd9f',1,'MobiUwB::Connection::InternetChecker']]],
+  ['storecurrentunitid',['StoreCurrentUnitId',['../d9/d73/a00060.html#aa2c264d14f14b6582d2ba97d3f7e0ac5',1,'MobiUwB::StartupConfig::Worker::StartupBackgroundWorker']]],
+  ['storedata_3ct_3e',['StoreData&lt;T&gt;',['../d4/d51/a00017.html#ab4e42150083b861b187f6a6eec37e54a',1,'SharedCode::DataManagment::DataManager']]],
+  ['storeunitid',['StoreUnitId',['../d1/d51/a00079.html#a58c2effe7fbc29fdca2cd9fb505c326d',1,'MobiUwB::UnitIdStorer']]]
+];

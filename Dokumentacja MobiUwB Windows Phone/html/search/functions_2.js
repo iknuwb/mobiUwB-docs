@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['datainitializetaskoutput',['DataInitializeTaskOutput',['../d7/d7a/a00016.html#a75f649f26a51db0d2da2795a0fba6aee',1,'NotificationsAgent::DataInitialize::DataInitializeTaskOutput']]],
+  ['deserialize_3ct_3e',['Deserialize&lt;T&gt;',['../d9/dec/a00090.html#af9e8df45a4b26896a71e8e4a3d8a5df2',1,'SharedCode::Parsers::XmlParser']]],
+  ['deserializeconfigurationxml',['DeserializeConfigurationXml',['../d9/d73/a00060.html#aed1b0d94d081ec54bcec4c1af1f71490',1,'MobiUwB::StartupConfig::Worker::StartupBackgroundWorker']]],
+  ['deserializepropertiesxml',['DeserializePropertiesXml',['../d9/d73/a00060.html#adbba2fd8896af22c96342324cf80e851',1,'MobiUwB::StartupConfig::Worker::StartupBackgroundWorker']]],
+  ['determinereportprogress',['DetermineReportProgress',['../d6/d5b/a00026.html#a18f7d5adec747024fdaac384fa861c1b',1,'MobiUwB::Connection::InternetChecker']]],
+  ['downloadfile',['DownloadFile',['../dc/d3c/a00028.html#ac3e38a67e81f90278f7e8408741291fa',1,'NotificationsAgent.IoManager.DownloadFile()'],['../d8/d53/a00081.html#a362e2927cd223b61bdb651a34e423d8d',1,'SharedCode.VersionControl.VersionController.DownloadFile()']]],
+  ['downloadfilefromwebtostoragefolder',['DownloadFileFromWebToStorageFolder',['../d0/d33/a00027.html#a6e8946f90b9e47faeac27e110aa41827',1,'MobiUwB.IO.IoManager.DownloadFileFromWebToStorageFolder(Uri uriToDownload, string destinationFileName, CancellationToken cToken) '],['../d0/d33/a00027.html#a95aac221d7b47c3f70ee18041026be50',1,'MobiUwB.IO.IoManager.DownloadFileFromWebToStorageFolder(string internetFilePath, string destinationFileName, CancellationToken cToken) '],['../dc/d3c/a00028.html#a6e8946f90b9e47faeac27e110aa41827',1,'NotificationsAgent.IoManager.DownloadFileFromWebToStorageFolder(Uri uriToDownload, string destinationFileName, CancellationToken cToken) '],['../dc/d3c/a00028.html#a95aac221d7b47c3f70ee18041026be50',1,'NotificationsAgent.IoManager.DownloadFileFromWebToStorageFolder(string internetFilePath, string destinationFileName, CancellationToken cToken) ']]]
+];
