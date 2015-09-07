@@ -1,0 +1,50 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Version\+Controller}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller}\index{pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Version\+Controller@{pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Version\+Controller}}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller_a8726297ad7885c280c49226ef8376e1b}{Version\+Controller} (Shared\+Preferences shareds)
+\item 
+\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_models_1_1_versioning_result}{Versioning\+Result} \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller_a54746592717d40a84e5ac9a1810d5ca1}{get\+Newest\+File} (\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_models_1_1_versioning_request}{Versioning\+Request} versioning\+Request)
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Jest to kontroler wersji pliku. Podstawowym jego zadaniem jest zapewnienie korzystającego, że plik jest w najnowszej możliwej wersji. 
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller_a8726297ad7885c280c49226ef8376e1b}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller@{pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller}!Version\+Controller@{Version\+Controller}}
+\index{Version\+Controller@{Version\+Controller}!pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller@{pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{Version\+Controller(\+Shared\+Preferences shareds)}]{\setlength{\rightskip}{0pt plus 5cm}pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Version\+Controller.\+Version\+Controller (
+\begin{DoxyParamCaption}
+\item[{Shared\+Preferences}]{shareds}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller_a8726297ad7885c280c49226ef8376e1b}
+Inicjalizuje zmienne. 
+\begin{DoxyParams}{Parametry}
+{\em shareds} & Preferencje systemu operacyjnego Android. \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller_a54746592717d40a84e5ac9a1810d5ca1}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller@{pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller}!get\+Newest\+File@{get\+Newest\+File}}
+\index{get\+Newest\+File@{get\+Newest\+File}!pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller@{pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller}}
+\subsubsection[{get\+Newest\+File(\+Versioning\+Request versioning\+Request)}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Versioning\+Result} pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Version\+Controller.\+get\+Newest\+File (
+\begin{DoxyParamCaption}
+\item[{{\bf Versioning\+Request}}]{versioning\+Request}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller_a54746592717d40a84e5ac9a1810d5ca1}
+Metoda ta pobiera możliwie najnowszy plik, niezależnie od tego, czy znajduje się on lokalnie na urządzeniu czy też w Internecie. Jeżeli w Internecie znajduje się jego nowsza wersja, pobiera go po czym wysyła na wyjście (w tym przypadku wypełnia nim zmienną w danych wyjściowych). Jeżeli z kolei jego nowsza wersja znajduje się lokalnie na urządzeniu, to po prostu czyta ją i to nią wypełnia zmienną wyjściową. 
+\begin{DoxyParams}{Parametry}
+{\em versioning\+Request} & Wejściowy obiekt żądania kontroli wersji. Zawiera wszelkie niezbędne startowe dane. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Rezultat funkcji, zawierający dane o najnowszej możliwej wersji zwracanego pliku. 
+\end{DoxyReturn}
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/\+Version\+Control/Version\+Controller.\+java\end{DoxyCompactItemize}

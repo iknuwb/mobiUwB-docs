@@ -1,0 +1,135 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service}\index{pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service@{pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service}}
+Diagram dziedziczenia dla pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service}
+\end{center}
+\end{figure}
+\subsection*{Komponenty}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_1_1_progress_update_data}{Progress\+Update\+Data}
+\end{DoxyCompactItemize}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a76964a3cec3dac12c9046d697cca6cb0}{set\+Wifi\+Internet\+Checker} (\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker}{Internet\+Checker} wifi\+Internet\+Checker)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_af77f710f287ddf2b5c84ac6dbadd2e88}{set\+Mobile\+Internet\+Checker} (\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker}{Internet\+Checker} mobile\+Internet\+Checker)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_adf8a27c2227fc0d6c180e5e53757d0ee}{set\+On\+Connection\+Lost\+Listener} (\hyperlink{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1interfaces_1_1_on_connection_changed_listener}{On\+Connection\+Changed\+Listener} on\+Connection\+Lost\+Listener)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a43e8395b5f489e4dc2437459eca89696}{set\+On\+Connection\+Recived\+Listener} (\hyperlink{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1interfaces_1_1_on_connection_changed_listener}{On\+Connection\+Changed\+Listener} on\+Connection\+Recived\+Listener)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a5ec568bba346e9a9932182e5a2d660a9}{stop\+Service} ()
+\end{DoxyCompactItemize}
+\subsection*{Metody chronione}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_aecd31cf253320a20b0165e4f2e34cd29}{on\+Pre\+Execute} ()
+\item 
+Void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a4046d1c4a3d83c6e3b14bbe03816af8e}{do\+In\+Background} (Void...\+params)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_add8a27840d56f7e64bae29664a186e57}{on\+Progress\+Update} (Progress\+Update\+Data...\+values)
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Jest to wątek odpowiedzialny za sprawdzanie stanu połączenia z Internetem. 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a4046d1c4a3d83c6e3b14bbe03816af8e}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!do\+In\+Background@{do\+In\+Background}}
+\index{do\+In\+Background@{do\+In\+Background}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{do\+In\+Background(\+Void...\+params)}]{\setlength{\rightskip}{0pt plus 5cm}Void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+do\+In\+Background (
+\begin{DoxyParamCaption}
+\item[{Void...}]{params}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [protected]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a4046d1c4a3d83c6e3b14bbe03816af8e}
+Metoda ta wywołuje się w oddzielnym wątku. Odpowiada ona za ciągłe sprawdzanie Internetu w aplikacji. Determinuje typ aktualnego Internetu. Wysyła powiadomienia do on\+Progress\+Update o zmienionym typie połączenia. 
+\begin{DoxyParams}{Parametry}
+{\em params} & Te parametry są nieużywane. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Typ zwracany jest nieużywany. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_aecd31cf253320a20b0165e4f2e34cd29}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!on\+Pre\+Execute@{on\+Pre\+Execute}}
+\index{on\+Pre\+Execute@{on\+Pre\+Execute}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{on\+Pre\+Execute()}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+on\+Pre\+Execute (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [protected]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_aecd31cf253320a20b0165e4f2e34cd29}
+Wydarza się, zanim wywoła się wątek. Nadaje zmienną, że wątek działa. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_add8a27840d56f7e64bae29664a186e57}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!on\+Progress\+Update@{on\+Progress\+Update}}
+\index{on\+Progress\+Update@{on\+Progress\+Update}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{on\+Progress\+Update(\+Progress\+Update\+Data...\+values)}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+on\+Progress\+Update (
+\begin{DoxyParamCaption}
+\item[{Progress\+Update\+Data...}]{values}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [protected]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_add8a27840d56f7e64bae29664a186e57}
+Wydarza się, gdy wątek powiadomi o zmianie typu połączenia. Uruchamia zdarzenie o zmianie typu połączenia. 
+\begin{DoxyParams}{Parametry}
+{\em values} & Zawiera informacje o typie połączenia. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_af77f710f287ddf2b5c84ac6dbadd2e88}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!set\+Mobile\+Internet\+Checker@{set\+Mobile\+Internet\+Checker}}
+\index{set\+Mobile\+Internet\+Checker@{set\+Mobile\+Internet\+Checker}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{set\+Mobile\+Internet\+Checker(\+Internet\+Checker mobile\+Internet\+Checker)}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+set\+Mobile\+Internet\+Checker (
+\begin{DoxyParamCaption}
+\item[{{\bf Internet\+Checker}}]{mobile\+Internet\+Checker}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_af77f710f287ddf2b5c84ac6dbadd2e88}
+Nadaje sprawdzacz typu połączenia z Internetem mobilnym. 
+\begin{DoxyParams}{Parametry}
+{\em mobile\+Internet\+Checker} & Sprawdzacz typu połączenia z Internetem mobilnym. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_adf8a27c2227fc0d6c180e5e53757d0ee}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!set\+On\+Connection\+Lost\+Listener@{set\+On\+Connection\+Lost\+Listener}}
+\index{set\+On\+Connection\+Lost\+Listener@{set\+On\+Connection\+Lost\+Listener}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{set\+On\+Connection\+Lost\+Listener(\+On\+Connection\+Changed\+Listener on\+Connection\+Lost\+Listener)}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+set\+On\+Connection\+Lost\+Listener (
+\begin{DoxyParamCaption}
+\item[{{\bf On\+Connection\+Changed\+Listener}}]{on\+Connection\+Lost\+Listener}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_adf8a27c2227fc0d6c180e5e53757d0ee}
+Nadaje nasłuchiwacz na wydarzenie o zmianie stanu połączenia. 
+\begin{DoxyParams}{Parametry}
+{\em on\+Connection\+Lost\+Listener} & Nowy nasłuchiwacz na wydarzenie o zmianie stanu połączenia. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a43e8395b5f489e4dc2437459eca89696}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!set\+On\+Connection\+Recived\+Listener@{set\+On\+Connection\+Recived\+Listener}}
+\index{set\+On\+Connection\+Recived\+Listener@{set\+On\+Connection\+Recived\+Listener}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{set\+On\+Connection\+Recived\+Listener(\+On\+Connection\+Changed\+Listener on\+Connection\+Recived\+Listener)}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+set\+On\+Connection\+Recived\+Listener (
+\begin{DoxyParamCaption}
+\item[{{\bf On\+Connection\+Changed\+Listener}}]{on\+Connection\+Recived\+Listener}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a43e8395b5f489e4dc2437459eca89696}
+Nadaje nasłuchiwacz na nowe połączenie Internetowe. 
+\begin{DoxyParams}{Parametry}
+{\em on\+Connection\+Recived\+Listener} & Nasłuchiwacz na nowe połączenie Internetowe. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a76964a3cec3dac12c9046d697cca6cb0}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!set\+Wifi\+Internet\+Checker@{set\+Wifi\+Internet\+Checker}}
+\index{set\+Wifi\+Internet\+Checker@{set\+Wifi\+Internet\+Checker}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{set\+Wifi\+Internet\+Checker(\+Internet\+Checker wifi\+Internet\+Checker)}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+set\+Wifi\+Internet\+Checker (
+\begin{DoxyParamCaption}
+\item[{{\bf Internet\+Checker}}]{wifi\+Internet\+Checker}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a76964a3cec3dac12c9046d697cca6cb0}
+Nadaje sprawdzacz typu połączenia z Internetem Wi\+Fi. 
+\begin{DoxyParams}{Parametry}
+{\em wifi\+Internet\+Checker} & Sprawdzacz typu połączenia z Internetem Wi\+Fi. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a5ec568bba346e9a9932182e5a2d660a9}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}!stop\+Service@{stop\+Service}}
+\index{stop\+Service@{stop\+Service}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}}
+\subsubsection[{stop\+Service()}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+stop\+Service (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_a5ec568bba346e9a9932182e5a2d660a9}
+Sprawia, że wątek przestaje działać. 
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/connection/Internet\+Checking\+Service.\+java\end{DoxyCompactItemize}

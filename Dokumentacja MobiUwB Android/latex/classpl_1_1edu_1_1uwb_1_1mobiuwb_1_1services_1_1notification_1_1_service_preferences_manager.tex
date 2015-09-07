@@ -1,0 +1,76 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Preferences\+Manager}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager}\index{pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Preferences\+Manager@{pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Preferences\+Manager}}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+Date \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a7849460b2fcbb87a344c2ae227562a9b}{get\+Last\+Known\+Date} (String university\+Unit\+Name, String section\+Id)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a355aeec5e3f6aab43a0348d2765ced82}{set\+Last\+Known\+Date} (String university\+Unit\+Name, String section\+Id, Date date)
+\end{DoxyCompactItemize}
+\subsection*{Statyczne metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager}{Service\+Preferences\+Manager} \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a47579688a30f1a8c66e60a51c4ae0e6a}{get\+Instance} (Context context)
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Jest to zarządca współdzielonymi preferencjami systemu operacyjnego Android. 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a47579688a30f1a8c66e60a51c4ae0e6a}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}!get\+Instance@{get\+Instance}}
+\index{get\+Instance@{get\+Instance}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}}
+\subsubsection[{get\+Instance(\+Context context)}]{\setlength{\rightskip}{0pt plus 5cm}static {\bf Service\+Preferences\+Manager} pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Preferences\+Manager.\+get\+Instance (
+\begin{DoxyParamCaption}
+\item[{Context}]{context}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a47579688a30f1a8c66e60a51c4ae0e6a}
+Metoda pobierająca jedyną instancję zarządcy. Metoda ta inicjalizuje pola w klasie. 
+\begin{DoxyParams}{Parametry}
+{\em context} & Kontekst aplikacji bądź też widoku. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Jedyna instancja zarządzacza. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a7849460b2fcbb87a344c2ae227562a9b}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}!get\+Last\+Known\+Date@{get\+Last\+Known\+Date}}
+\index{get\+Last\+Known\+Date@{get\+Last\+Known\+Date}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}}
+\subsubsection[{get\+Last\+Known\+Date(\+String university\+Unit\+Name, String section\+Id)}]{\setlength{\rightskip}{0pt plus 5cm}Date pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Preferences\+Manager.\+get\+Last\+Known\+Date (
+\begin{DoxyParamCaption}
+\item[{String}]{university\+Unit\+Name, }
+\item[{String}]{section\+Id}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a7849460b2fcbb87a344c2ae227562a9b}
+Pobiera ostatnio zapisaną datę. 
+\begin{DoxyParams}{Parametry}
+{\em university\+Unit\+Name} & Nazwa jednostki. \\
+\hline
+{\em section\+Id} & I\+D sekcji. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Ostatnio zapisana data. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a355aeec5e3f6aab43a0348d2765ced82}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}!set\+Last\+Known\+Date@{set\+Last\+Known\+Date}}
+\index{set\+Last\+Known\+Date@{set\+Last\+Known\+Date}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}}
+\subsubsection[{set\+Last\+Known\+Date(\+String university\+Unit\+Name, String section\+Id, Date date)}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Preferences\+Manager.\+set\+Last\+Known\+Date (
+\begin{DoxyParamCaption}
+\item[{String}]{university\+Unit\+Name, }
+\item[{String}]{section\+Id, }
+\item[{Date}]{date}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager_a355aeec5e3f6aab43a0348d2765ced82}
+Nadaje ostatnio znaną datę. 
+\begin{DoxyParams}{Parametry}
+{\em university\+Unit\+Name} & Nazwa jednostki. \\
+\hline
+{\em section\+Id} & I\+D sekcji. \\
+\hline
+{\em date} & Data do nadania. \\
+\hline
+\end{DoxyParams}
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/services/notification/Service\+Preferences\+Manager.\+java\end{DoxyCompactItemize}

@@ -1,0 +1,65 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+view.\+adapter.\+Drawer\+List\+Adapter}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter}\index{pl.\+edu.\+uwb.\+mobiuwb.\+view.\+adapter.\+Drawer\+List\+Adapter@{pl.\+edu.\+uwb.\+mobiuwb.\+view.\+adapter.\+Drawer\+List\+Adapter}}
+Diagram dziedziczenia dla pl.\+edu.\+uwb.\+mobiuwb.\+view.\+adapter.\+Drawer\+List\+Adapter\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter}
+\end{center}
+\end{figure}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter_a2dbd069db7a9348ff181553f4289a347}{Drawer\+List\+Adapter} (Context context, List$<$ \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1model_1_1_drawer_list_adapter_model}{Drawer\+List\+Adapter\+Model} $>$ items)
+\item 
+View \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter_aa019e0dd8af0ca96ff8cb5ec4a6c081a}{get\+View} (int position, View convert\+View, View\+Group parent)
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Jest to adapter listy bocznej wysuwanej. 
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter_a2dbd069db7a9348ff181553f4289a347}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter}!Drawer\+List\+Adapter@{Drawer\+List\+Adapter}}
+\index{Drawer\+List\+Adapter@{Drawer\+List\+Adapter}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter}}
+\subsubsection[{Drawer\+List\+Adapter(\+Context context, List$<$ Drawer\+List\+Adapter\+Model $>$ items)}]{\setlength{\rightskip}{0pt plus 5cm}pl.\+edu.\+uwb.\+mobiuwb.\+view.\+adapter.\+Drawer\+List\+Adapter.\+Drawer\+List\+Adapter (
+\begin{DoxyParamCaption}
+\item[{Context}]{context, }
+\item[{List$<$ {\bf Drawer\+List\+Adapter\+Model} $>$}]{items}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter_a2dbd069db7a9348ff181553f4289a347}
+Nadaje zmienne. 
+\begin{DoxyParams}{Parametry}
+{\em context} & Kontekst widoku lub aplikacji. \\
+\hline
+{\em items} & Modele tego adaptera. \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter_aa019e0dd8af0ca96ff8cb5ec4a6c081a}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter}!get\+View@{get\+View}}
+\index{get\+View@{get\+View}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter}}
+\subsubsection[{get\+View(int position, View convert\+View, View\+Group parent)}]{\setlength{\rightskip}{0pt plus 5cm}View pl.\+edu.\+uwb.\+mobiuwb.\+view.\+adapter.\+Drawer\+List\+Adapter.\+get\+View (
+\begin{DoxyParamCaption}
+\item[{int}]{position, }
+\item[{View}]{convert\+View, }
+\item[{View\+Group}]{parent}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter_aa019e0dd8af0ca96ff8cb5ec4a6c081a}
+Wydarza się, gdy system zechce utworzyć pojedynczy element kontrolki List\+View. Ta funkcja służy za twórcę elementu prezentującego element bocznego menu będący Jednostką, bazując na skonfigurowanym przez programistę modelu kontrolki. Event ten korzysta z wzorca View\+Holder, który zapamiętuje wygenerowane kontrolki, aby system nie musiał tworzyć ich ponownie. 
+\begin{DoxyParams}{Parametry}
+{\em position} & Który element z listy jest aktualnie tworzony. \\
+\hline
+{\em convert\+View} & Kontrolka listy. \\
+\hline
+{\em parent} & Rodzic kontrolki. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Utworzona kontrolka, wypełniona. 
+\end{DoxyReturn}
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/view/adapter/Drawer\+List\+Adapter.\+java\end{DoxyCompactItemize}

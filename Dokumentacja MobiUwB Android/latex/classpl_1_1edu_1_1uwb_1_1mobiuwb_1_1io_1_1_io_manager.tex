@@ -1,0 +1,163 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager}\index{pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager@{pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager}}
+\subsection*{Statyczne metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+static boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_ab3e38ae5e5bd2bec785f1a166d4cadd4}{copy\+Assets\+File} (Input\+Stream assets\+Imput\+Stream, String assets\+File\+Name, String destination\+Folder\+Path)
+\item 
+static void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a99eedf375c68628eff07bab00215c54b}{download\+File} (String file\+Link, String destination\+File\+Name, String destination\+Folder\+Path)  throws I\+O\+Exception     
+\item 
+static void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_ab407aa924de6f515b83cb07464bb64f5}{download\+File} (String file\+Link, String destination\+File\+Full\+Path)  throws I\+O\+Exception     
+\item 
+static boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_aee8ba74598e072cdfb1ae4473a3f71b5}{check\+If\+File\+Exists} (String full\+File\+Path)
+\item 
+static String \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_aced8bbba4256ff397170eaa6ed4092e7}{get\+File\+Content} (String full\+File\+Path)  throws I\+O\+Exception     
+\item 
+static File\+Input\+Stream \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a290a552e48bbd1a949566c376148bfcb}{get\+File\+Input\+Stream} (String full\+File\+Path)  throws File\+Not\+Found\+Exception     
+\end{DoxyCompactItemize}
+\subsection*{Statyczne atrybuty publiczne}
+\begin{DoxyCompactItemize}
+\item 
+static final String \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_afe85a73ba16f0c4c6dcaa0f92278e567}{P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E} = \char`\"{}properties.\+xml\char`\"{}
+\item 
+static final String \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a63ac59bc913302350eee7f52e99d087d}{C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E} = \char`\"{}config.\+xml\char`\"{}
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Reprezentuje pomocniczego zarządcę operacjami wejścia/wyjścia 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_aee8ba74598e072cdfb1ae4473a3f71b5}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!check\+If\+File\+Exists@{check\+If\+File\+Exists}}
+\index{check\+If\+File\+Exists@{check\+If\+File\+Exists}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{check\+If\+File\+Exists(\+String full\+File\+Path)}]{\setlength{\rightskip}{0pt plus 5cm}static boolean pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+check\+If\+File\+Exists (
+\begin{DoxyParamCaption}
+\item[{String}]{full\+File\+Path}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_aee8ba74598e072cdfb1ae4473a3f71b5}
+Sprawdza, czy plik istnieje w danej lokalizacji. 
+\begin{DoxyParams}{Parametry}
+{\em full\+File\+Path} & Pełna ścieżka do pliku. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Czy plik istnieje. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_ab3e38ae5e5bd2bec785f1a166d4cadd4}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!copy\+Assets\+File@{copy\+Assets\+File}}
+\index{copy\+Assets\+File@{copy\+Assets\+File}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{copy\+Assets\+File(\+Input\+Stream assets\+Imput\+Stream, String assets\+File\+Name, String destination\+Folder\+Path)}]{\setlength{\rightskip}{0pt plus 5cm}static boolean pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+copy\+Assets\+File (
+\begin{DoxyParamCaption}
+\item[{Input\+Stream}]{assets\+Imput\+Stream, }
+\item[{String}]{assets\+File\+Name, }
+\item[{String}]{destination\+Folder\+Path}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_ab3e38ae5e5bd2bec785f1a166d4cadd4}
+Funkcja ta kopiuje wskazany plik Assetsów do folderu pamięci wewnętrznej urządzenia. 
+\begin{DoxyParams}{Parametry}
+{\em assets\+Imput\+Stream} & Strumień pochodzący z Assetsów. \\
+\hline
+{\em assets\+File\+Name} & Nazwa pliku w Assetsach. \\
+\hline
+{\em destination\+Folder\+Path} & Do którego folderu zostanie wkopiowany plik. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Czy udało się skopiować plik. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a99eedf375c68628eff07bab00215c54b}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!download\+File@{download\+File}}
+\index{download\+File@{download\+File}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{download\+File(\+String file\+Link, String destination\+File\+Name, String destination\+Folder\+Path)}]{\setlength{\rightskip}{0pt plus 5cm}static void pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+download\+File (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Link, }
+\item[{String}]{destination\+File\+Name, }
+\item[{String}]{destination\+Folder\+Path}
+\end{DoxyParamCaption}
+) throws I\+O\+Exception\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a99eedf375c68628eff07bab00215c54b}
+Pobiera plik z Internetu. 
+\begin{DoxyParams}{Parametry}
+{\em file\+Link} & Link do pobrania pliku. \\
+\hline
+{\em destination\+File\+Name} & Jak plik ma się nazywać po pobraniu. \\
+\hline
+{\em destination\+Folder\+Path} & Gdzie pobrać dany plik. \\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Wyjątki}
+{\em I\+O\+Exception} & Jeżeli wystąpi jakikolwiek błąd związany z zapisem pliku. \\
+\hline
+\end{DoxyExceptions}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_ab407aa924de6f515b83cb07464bb64f5}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!download\+File@{download\+File}}
+\index{download\+File@{download\+File}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{download\+File(\+String file\+Link, String destination\+File\+Full\+Path)}]{\setlength{\rightskip}{0pt plus 5cm}static void pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+download\+File (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Link, }
+\item[{String}]{destination\+File\+Full\+Path}
+\end{DoxyParamCaption}
+) throws I\+O\+Exception\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_ab407aa924de6f515b83cb07464bb64f5}
+Pobiera plik z Internetu. 
+\begin{DoxyParams}{Parametry}
+{\em file\+Link} & Link do pobrania pliku. \\
+\hline
+{\em destination\+File\+Full\+Path} & Gdzie pobrać dany plik. Razem z nazwą tegoż pliku. \\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Wyjątki}
+{\em I\+O\+Exception} & Jeżeli wystąpi jakikolwiek błąd związany z zapisem pliku. \\
+\hline
+\end{DoxyExceptions}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_aced8bbba4256ff397170eaa6ed4092e7}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!get\+File\+Content@{get\+File\+Content}}
+\index{get\+File\+Content@{get\+File\+Content}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{get\+File\+Content(\+String full\+File\+Path)}]{\setlength{\rightskip}{0pt plus 5cm}static String pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+get\+File\+Content (
+\begin{DoxyParamCaption}
+\item[{String}]{full\+File\+Path}
+\end{DoxyParamCaption}
+) throws I\+O\+Exception\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_aced8bbba4256ff397170eaa6ed4092e7}
+Pobiera zawartość pliku. 
+\begin{DoxyParams}{Parametry}
+{\em full\+File\+Path} & ścieżka dostępu do pliku. łącznie z nazwą. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Zawartość pliku ze ścieżki. 
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Wyjątki}
+{\em I\+O\+Exception} & Gdy wystąpi jakikolwiek błąd związany z odczytem. \\
+\hline
+\end{DoxyExceptions}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a290a552e48bbd1a949566c376148bfcb}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!get\+File\+Input\+Stream@{get\+File\+Input\+Stream}}
+\index{get\+File\+Input\+Stream@{get\+File\+Input\+Stream}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{get\+File\+Input\+Stream(\+String full\+File\+Path)}]{\setlength{\rightskip}{0pt plus 5cm}static File\+Input\+Stream pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+get\+File\+Input\+Stream (
+\begin{DoxyParamCaption}
+\item[{String}]{full\+File\+Path}
+\end{DoxyParamCaption}
+) throws File\+Not\+Found\+Exception\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a290a552e48bbd1a949566c376148bfcb}
+Pobiera strumień danego pliku. 
+\begin{DoxyParams}{Parametry}
+{\em full\+File\+Path} & ścieżka dostępu do pliku. łącznie z nazwą. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Strumień danego pliku do odczytu. 
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Wyjątki}
+{\em File\+Not\+Found\+Exception} & Gdy funkcja nie znajdzie pliku. \\
+\hline
+\end{DoxyExceptions}
+
+
+\subsection{Dokumentacja atrybutów składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a63ac59bc913302350eee7f52e99d087d}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E@{C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}}
+\index{C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E@{C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}]{\setlength{\rightskip}{0pt plus 5cm}final String pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E = \char`\"{}config.\+xml\char`\"{}\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_a63ac59bc913302350eee7f52e99d087d}
+Jest to zmienna przechowująca nazwę aktualnego pliku X\+M\+L Konfiguracji do parsowania. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_afe85a73ba16f0c4c6dcaa0f92278e567}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}!P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E@{P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}}
+\index{P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E@{P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}!pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager@{pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}}
+\subsubsection[{P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}]{\setlength{\rightskip}{0pt plus 5cm}final String pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager.\+P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E = \char`\"{}properties.\+xml\char`\"{}\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager_afe85a73ba16f0c4c6dcaa0f92278e567}
+Jest to zmienna przechowująca nazwę aktualnego pliku X\+M\+L Właściwości do parsowania. 
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/io/Io\+Manager.\+java\end{DoxyCompactItemize}

@@ -1,0 +1,97 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service}\index{pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service@{pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service}}
+Diagram dziedziczenia dla pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service}
+\end{center}
+\end{figure}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+int \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a1ab6f876a6c0ccaab951257cb8cfed86}{on\+Start\+Command} (Intent intent, int flags, int start\+Id)
+\item 
+I\+Binder \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a88df922180b31377225feb105eec8d3e}{on\+Bind} (Intent intent)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a2f67e5b85973b36aa293f3a34303b2af}{on\+Destroy} ()
+\end{DoxyCompactItemize}
+\subsection*{Statyczne atrybuty publiczne}
+\begin{DoxyCompactItemize}
+\item 
+static final int \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_af47344f5ea5a7674e704c31b630a855c}{R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N} = 0
+\item 
+static final int \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a7df660c9c1caae313b35c79d7b90316e}{R\+E\+S\+T\+A\+R\+T} = 1
+\item 
+static final int \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_ae809e18e9060af52219971019a948626}{S\+T\+O\+P} = 2
+\item 
+static final int \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_ae57cee289223135a2aaf9c711f54b689}{S\+T\+A\+R\+T} = 3
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Jest to usługa obsługująca Powiadomienia w aplikacji. Jako oddzielny proces, działa ona w tle wtedy, kiedy aplikacja jest wyłączona. Dane są pozyskiwane poprzez deserializację wcześniej zserializowanych danych w samej aplikacji. 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a88df922180b31377225feb105eec8d3e}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}!on\+Bind@{on\+Bind}}
+\index{on\+Bind@{on\+Bind}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}}
+\subsubsection[{on\+Bind(\+Intent intent)}]{\setlength{\rightskip}{0pt plus 5cm}I\+Binder pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service.\+on\+Bind (
+\begin{DoxyParamCaption}
+\item[{Intent}]{intent}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a88df922180b31377225feb105eec8d3e}
+Wewnętrzna metoda systemu Android, nieużywana. 
+\begin{DoxyParams}{Parametry}
+{\em intent} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a2f67e5b85973b36aa293f3a34303b2af}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}!on\+Destroy@{on\+Destroy}}
+\index{on\+Destroy@{on\+Destroy}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}}
+\subsubsection[{on\+Destroy()}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service.\+on\+Destroy (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a2f67e5b85973b36aa293f3a34303b2af}
+Wydarza się, gdy usługa kończy swoje działanie. Stopowany jest wtedy wątek wewnętrzny usługi. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a1ab6f876a6c0ccaab951257cb8cfed86}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}!on\+Start\+Command@{on\+Start\+Command}}
+\index{on\+Start\+Command@{on\+Start\+Command}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}}
+\subsubsection[{on\+Start\+Command(\+Intent intent, int flags, int start\+Id)}]{\setlength{\rightskip}{0pt plus 5cm}int pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service.\+on\+Start\+Command (
+\begin{DoxyParamCaption}
+\item[{Intent}]{intent, }
+\item[{int}]{flags, }
+\item[{int}]{start\+Id}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a1ab6f876a6c0ccaab951257cb8cfed86}
+Wydarza się gdy wydajemy jakąś komendę usłudze. Konfigurujemy co usługa ma zrobić za pomocą flag. 
+\begin{DoxyParams}{Parametry}
+{\em intent} & Intencja wchodząca w tą usługę. \\
+\hline
+{\em flags} & Flagi do kontroli usługi. \\
+\hline
+{\em start\+Id} & Startowe I\+D, nieużywany parametr. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Zawsze zwraca flagę, która informuje system operacyjny, że ta usługa powinna zostać ponownie uruchamiana w przyszłości. 
+\end{DoxyReturn}
+
+
+\subsection{Dokumentacja atrybutów składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_af47344f5ea5a7674e704c31b630a855c}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}!R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N@{R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N}}
+\index{R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N@{R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}}
+\subsubsection[{R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N}]{\setlength{\rightskip}{0pt plus 5cm}final int pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service.\+R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N = 0\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_af47344f5ea5a7674e704c31b630a855c}
+Flaga oznaczająca \char`\"{}ładuj ponownie konfigurację\char`\"{}. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a7df660c9c1caae313b35c79d7b90316e}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}!R\+E\+S\+T\+A\+R\+T@{R\+E\+S\+T\+A\+R\+T}}
+\index{R\+E\+S\+T\+A\+R\+T@{R\+E\+S\+T\+A\+R\+T}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}}
+\subsubsection[{R\+E\+S\+T\+A\+R\+T}]{\setlength{\rightskip}{0pt plus 5cm}final int pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service.\+R\+E\+S\+T\+A\+R\+T = 1\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_a7df660c9c1caae313b35c79d7b90316e}
+Flaga oznaczająca \char`\"{}restartuj usługę\char`\"{}. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_ae57cee289223135a2aaf9c711f54b689}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}!S\+T\+A\+R\+T@{S\+T\+A\+R\+T}}
+\index{S\+T\+A\+R\+T@{S\+T\+A\+R\+T}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}}
+\subsubsection[{S\+T\+A\+R\+T}]{\setlength{\rightskip}{0pt plus 5cm}final int pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service.\+S\+T\+A\+R\+T = 3\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_ae57cee289223135a2aaf9c711f54b689}
+Flaga oznaczająca \char`\"{}wystartuj usługę\char`\"{}. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_ae809e18e9060af52219971019a948626}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}!S\+T\+O\+P@{S\+T\+O\+P}}
+\index{S\+T\+O\+P@{S\+T\+O\+P}!pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service@{pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}}
+\subsubsection[{S\+T\+O\+P}]{\setlength{\rightskip}{0pt plus 5cm}final int pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service.\+S\+T\+O\+P = 2\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service_ae809e18e9060af52219971019a948626}
+Flaga oznaczająca \char`\"{}stop usłudze\char`\"{}. 
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/services/notification/Notification\+Service.\+java\end{DoxyCompactItemize}
