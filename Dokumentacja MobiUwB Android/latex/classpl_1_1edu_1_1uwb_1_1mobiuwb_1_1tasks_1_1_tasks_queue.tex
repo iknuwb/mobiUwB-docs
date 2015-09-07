@@ -1,0 +1,59 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue}{}\section{Dokumentacja szablonu klasy pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Tasks\+Queue$<$ Out extends Task\+Output $>$}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue}\index{pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Tasks\+Queue$<$ Out extends Task\+Output $>$@{pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Tasks\+Queue$<$ Out extends Task\+Output $>$}}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_a60832783af9146d33f6ac0861425d889}{Tasks\+Queue} ()
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_a7084890f5443a1133713e058001c0142}{add} (\hyperlink{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_task}{Task}$<$ Out $>$ task, \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1models_1_1_task_input}{Task\+Input} task\+Input)
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_aa08a5bda96e6d84c75744e6757f2f8a4}{perform\+All} (Out output\+To\+Fill)
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Jest to reprezentacja kolejki Zadań typu \hyperlink{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_task}{Task}. 
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_a60832783af9146d33f6ac0861425d889}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue@{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}!Tasks\+Queue@{Tasks\+Queue}}
+\index{Tasks\+Queue@{Tasks\+Queue}!pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue@{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}}
+\subsubsection[{Tasks\+Queue()}]{\setlength{\rightskip}{0pt plus 5cm}{\bf pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Tasks\+Queue}$<$ Out extends {\bf Task\+Output} $>$.{\bf Tasks\+Queue} (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_a60832783af9146d33f6ac0861425d889}
+Tworzy obiekt i wypełnia pola. 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_a7084890f5443a1133713e058001c0142}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue@{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}!add@{add}}
+\index{add@{add}!pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue@{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}}
+\subsubsection[{add(\+Task$<$ Out $>$ task, Task\+Input task\+Input)}]{\setlength{\rightskip}{0pt plus 5cm}void {\bf pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Tasks\+Queue}$<$ Out extends {\bf Task\+Output} $>$.add (
+\begin{DoxyParamCaption}
+\item[{{\bf Task}$<$ Out $>$}]{task, }
+\item[{{\bf Task\+Input}}]{task\+Input}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_a7084890f5443a1133713e058001c0142}
+Dodaje zadanie do kolejki, razem z towarzyszącymi zadaniu danymi wejściowymi. 
+\begin{DoxyParams}{Parametry}
+{\em task} & Zadanie do wykonania przez tą kolejkę. \\
+\hline
+{\em task\+Input} & Dane wejściowe do tegoż zadania. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_aa08a5bda96e6d84c75744e6757f2f8a4}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue@{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}!perform\+All@{perform\+All}}
+\index{perform\+All@{perform\+All}!pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue@{pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}}
+\subsubsection[{perform\+All(\+Out output\+To\+Fill)}]{\setlength{\rightskip}{0pt plus 5cm}void {\bf pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Tasks\+Queue}$<$ Out extends {\bf Task\+Output} $>$.perform\+All (
+\begin{DoxyParamCaption}
+\item[{Out}]{output\+To\+Fill}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue_aa08a5bda96e6d84c75744e6757f2f8a4}
+Wywołuje sekwencyjnie wszystkie zadania z kolejki. 
+\begin{DoxyParams}{Parametry}
+{\em output\+To\+Fill} & Zadania wypełniają niniejszy parametr danych wyjściowych. \\
+\hline
+\end{DoxyParams}
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/tasks/Tasks\+Queue.\+java\end{DoxyCompactItemize}

@@ -1,0 +1,243 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter}\index{pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter@{pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter}}
+Diagram dziedziczenia dla pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter}
+\end{center}
+\end{figure}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a1aca8d564da4844a56b14776f7a9a0fc}{Settings\+Adapter} (List$<$ \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1_item_model}{Item\+Model} $>$ data)
+\item 
+\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a500cb453dd2a890db9ca5a21a246a7c8}{Settings\+Adapter} (\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1_item_model}{Item\+Model} data)
+\item 
+int \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a8c226a6283ffaaec32fe96e91bf39b0f}{get\+Group\+Count} ()
+\item 
+int \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_af655795610d66a55e801ead9bc860e65}{get\+Children\+Count} (int group\+Position)
+\item 
+Object \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a2c818201307b0df2c321c54fad53a408}{get\+Group} (int group\+Position)
+\item 
+Object \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ae3be6d2465a2729aa7c7e6cbce2bdbc3}{get\+Child} (int group\+Position, int child\+Position)
+\item 
+View \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ac4786fa0f0507c5773ab0e1a3e562a03}{get\+Group\+View} (int group\+Position, boolean is\+Expanded, View convert\+View, View\+Group parent)
+\item 
+View \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a50f1520d4716c257c4e8af4750239814}{get\+Child\+View} (int group\+Position, int child\+Position, boolean is\+Last\+Child, View convert\+View, View\+Group parent)
+\item 
+boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_af54433f2e32b5f4a3c27c16de994f465}{is\+Child\+Selectable} (int group\+Position, int child\+Position)
+\item 
+long \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a5e3647815a708b610363f8b6aeca37ae}{get\+Group\+Id} (int group\+Position)
+\item 
+long \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_aed21dedf263684e4f5e569344cada318}{get\+Child\+Id} (int group\+Position, int child\+Position)
+\item 
+boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ab6ca0a528d2fcff87100425c1c1ea8a6}{has\+Stable\+Ids} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Ten adapter reprezentuje kolekcję opcji w ekranie Opcji/\+Ustawień. Lista na tym ekranie zawiera wiele takich adapterów, każdy zagnieżdżony. Oznacza to, że adaptery te działają w efekcie rekurencyjnie. 
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a1aca8d564da4844a56b14776f7a9a0fc}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!Settings\+Adapter@{Settings\+Adapter}}
+\index{Settings\+Adapter@{Settings\+Adapter}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{Settings\+Adapter(\+List$<$ Item\+Model $>$ data)}]{\setlength{\rightskip}{0pt plus 5cm}pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+Settings\+Adapter (
+\begin{DoxyParamCaption}
+\item[{List$<$ {\bf Item\+Model} $>$}]{data}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a1aca8d564da4844a56b14776f7a9a0fc}
+Nadaje zmienne, loguje rozmiar tych zmiennych. 
+\begin{DoxyParams}{Parametry}
+{\em data} & Lista modeli elementów Opcji/\+Ustawień. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a500cb453dd2a890db9ca5a21a246a7c8}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!Settings\+Adapter@{Settings\+Adapter}}
+\index{Settings\+Adapter@{Settings\+Adapter}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{Settings\+Adapter(\+Item\+Model data)}]{\setlength{\rightskip}{0pt plus 5cm}pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+Settings\+Adapter (
+\begin{DoxyParamCaption}
+\item[{{\bf Item\+Model}}]{data}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a500cb453dd2a890db9ca5a21a246a7c8}
+Nadaje zmienne, loguje rozmiar tych zmiennych. 
+\begin{DoxyParams}{Parametry}
+{\em data} & Lista modeli elementów Opcji/\+Ustawień. \\
+\hline
+\end{DoxyParams}
+
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ae3be6d2465a2729aa7c7e6cbce2bdbc3}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Child@{get\+Child}}
+\index{get\+Child@{get\+Child}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Child(int group\+Position, int child\+Position)}]{\setlength{\rightskip}{0pt plus 5cm}Object pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Child (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position, }
+\item[{int}]{child\+Position}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ae3be6d2465a2729aa7c7e6cbce2bdbc3}
+Pobiera określone dziecko z listy dzieci. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Pozycja grupy z jakiej ma pobrać owe dziecko. \\
+\hline
+{\em child\+Position} & Pozycja dziecka w liście dzieci. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Dziecko. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_aed21dedf263684e4f5e569344cada318}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Child\+Id@{get\+Child\+Id}}
+\index{get\+Child\+Id@{get\+Child\+Id}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Child\+Id(int group\+Position, int child\+Position)}]{\setlength{\rightskip}{0pt plus 5cm}long pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Child\+Id (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position, }
+\item[{int}]{child\+Position}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_aed21dedf263684e4f5e569344cada318}
+Pobiera I\+D dziecka w grupie. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Pozycja grupy. \\
+\hline
+{\em child\+Position} & Pozycja dziecka. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+I\+D dziecka. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_af655795610d66a55e801ead9bc860e65}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Children\+Count@{get\+Children\+Count}}
+\index{get\+Children\+Count@{get\+Children\+Count}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Children\+Count(int group\+Position)}]{\setlength{\rightskip}{0pt plus 5cm}int pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Children\+Count (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_af655795610d66a55e801ead9bc860e65}
+Pobiera liczbę elementów-\/dzieci. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Grupa, która ma zawierać elementy-\/dzieci. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Ilość elementów-\/dzieci. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a50f1520d4716c257c4e8af4750239814}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Child\+View@{get\+Child\+View}}
+\index{get\+Child\+View@{get\+Child\+View}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Child\+View(int group\+Position, int child\+Position, boolean is\+Last\+Child, View convert\+View, View\+Group parent)}]{\setlength{\rightskip}{0pt plus 5cm}View pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Child\+View (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position, }
+\item[{int}]{child\+Position, }
+\item[{boolean}]{is\+Last\+Child, }
+\item[{View}]{convert\+View, }
+\item[{View\+Group}]{parent}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a50f1520d4716c257c4e8af4750239814}
+Pobiera dziecko-\/widok. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Pozycja grupy. \\
+\hline
+{\em child\+Position} & Pozycja dziecka do pobrania. \\
+\hline
+{\em is\+Last\+Child} & Czy jest ostatnim dzieckiem. \\
+\hline
+{\em convert\+View} & Widok. \\
+\hline
+{\em parent} & Rozdzic widoku. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Zagnieżdżone dziecko-\/widok. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a2c818201307b0df2c321c54fad53a408}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Group@{get\+Group}}
+\index{get\+Group@{get\+Group}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Group(int group\+Position)}]{\setlength{\rightskip}{0pt plus 5cm}Object pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Group (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a2c818201307b0df2c321c54fad53a408}
+Pobiera grupę elementów-\/dzieci. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Pozycja grupy. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Grupa. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a8c226a6283ffaaec32fe96e91bf39b0f}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Group\+Count@{get\+Group\+Count}}
+\index{get\+Group\+Count@{get\+Group\+Count}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Group\+Count()}]{\setlength{\rightskip}{0pt plus 5cm}int pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Group\+Count (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a8c226a6283ffaaec32fe96e91bf39b0f}
+Zwraca ilość modeli elementów w tym adapterze. \begin{DoxyReturn}{Zwraca}
+Ilość modeli elementów. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a5e3647815a708b610363f8b6aeca37ae}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Group\+Id@{get\+Group\+Id}}
+\index{get\+Group\+Id@{get\+Group\+Id}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Group\+Id(int group\+Position)}]{\setlength{\rightskip}{0pt plus 5cm}long pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Group\+Id (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_a5e3647815a708b610363f8b6aeca37ae}
+Pobiera I\+D grupy. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Pozycja grupy. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+I\+D grupy. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ac4786fa0f0507c5773ab0e1a3e562a03}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!get\+Group\+View@{get\+Group\+View}}
+\index{get\+Group\+View@{get\+Group\+View}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{get\+Group\+View(int group\+Position, boolean is\+Expanded, View convert\+View, View\+Group parent)}]{\setlength{\rightskip}{0pt plus 5cm}View pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+get\+Group\+View (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position, }
+\item[{boolean}]{is\+Expanded, }
+\item[{View}]{convert\+View, }
+\item[{View\+Group}]{parent}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ac4786fa0f0507c5773ab0e1a3e562a03}
+Pobiera zagnieżdżony widok. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Pozycja grupy. \\
+\hline
+{\em is\+Expanded} & Czy jest rozszerzona. \\
+\hline
+{\em convert\+View} & Widok. \\
+\hline
+{\em parent} & Rozdzic widoku. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Zanieżdżony widok. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ab6ca0a528d2fcff87100425c1c1ea8a6}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!has\+Stable\+Ids@{has\+Stable\+Ids}}
+\index{has\+Stable\+Ids@{has\+Stable\+Ids}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{has\+Stable\+Ids()}]{\setlength{\rightskip}{0pt plus 5cm}boolean pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+has\+Stable\+Ids (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_ab6ca0a528d2fcff87100425c1c1ea8a6}
+Czy posiada ustabilizowane I\+D. \begin{DoxyReturn}{Zwraca}
+Czy posiada ustabilizowane I\+D. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_af54433f2e32b5f4a3c27c16de994f465}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}!is\+Child\+Selectable@{is\+Child\+Selectable}}
+\index{is\+Child\+Selectable@{is\+Child\+Selectable}!pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter@{pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}}
+\subsubsection[{is\+Child\+Selectable(int group\+Position, int child\+Position)}]{\setlength{\rightskip}{0pt plus 5cm}boolean pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter.\+is\+Child\+Selectable (
+\begin{DoxyParamCaption}
+\item[{int}]{group\+Position, }
+\item[{int}]{child\+Position}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter_af54433f2e32b5f4a3c27c16de994f465}
+Czy można zaznaczyć dane dziecko. 
+\begin{DoxyParams}{Parametry}
+{\em group\+Position} & Pozycja grupy. \\
+\hline
+{\em child\+Position} & Pozycja dziecka. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Czy można zaznaczyć dane dziecko. 
+\end{DoxyReturn}
+
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/view/settings/adapter/Settings\+Adapter.\+java\end{DoxyCompactItemize}

@@ -1,0 +1,105 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config}\index{pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config@{pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config}}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a55b1f75d60bc6b5e4a3b50906cf6ef8d}{is\+First\+App\+Start} ()
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a3e21bdf9e381f1a8fb574b19766694a0}{execute\+Startup\+Async\+Task} ()
+\item 
+void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_add0beb9b56bba873f8a6e2e2b63c7a31}{add\+On\+Configuration\+Event\+Listener} (\hyperlink{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_configure_events}{Configure\+Events} configure\+Events)
+\end{DoxyCompactItemize}
+\subsection*{Statyczne metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+static boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a480861c4a10f86387fb420869fa53c91}{is\+Wi\+Fi\+Available} ()
+\item 
+static boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a0a94d7d51fd7fa3e3e76b88b0eccf067}{is\+Mobile\+Available} ()
+\item 
+static String \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_abdff51f318abea6cf97b026b5cc49bac}{download\+Configuration\+File\+Into\+Internal\+Storage} ()
+\end{DoxyCompactItemize}
+\subsection*{Statyczne atrybuty publiczne}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_x_m_l_parser}{X\+M\+L\+Parser} \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a015db43e9326c413b6caf4ed155fdf28}{xml\+Parser}
+\item 
+static \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_config_xml_result}{Config\+Xml\+Result} \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a553d895b6e31e82dcd05ab6a4b6a0b1c}{config\+Xml\+Result}
+\item 
+static \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1result_1_1model_1_1_properties_xml_result}{Properties\+Xml\+Result} \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a320814a7c5ad1d065922dec45ea1e2ea}{properties\+Xml\+Result}
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Opisuje proces konfiguracji aplikacji w trakcie jej startu. 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_add0beb9b56bba873f8a6e2e2b63c7a31}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!add\+On\+Configuration\+Event\+Listener@{add\+On\+Configuration\+Event\+Listener}}
+\index{add\+On\+Configuration\+Event\+Listener@{add\+On\+Configuration\+Event\+Listener}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{add\+On\+Configuration\+Event\+Listener(\+Configure\+Events configure\+Events)}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+add\+On\+Configuration\+Event\+Listener (
+\begin{DoxyParamCaption}
+\item[{{\bf Configure\+Events}}]{configure\+Events}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_add0beb9b56bba873f8a6e2e2b63c7a31}
+Dodaje nasłuchiwacz, którego wydarzenie wydarzy się gdy pierwsza konfiguracja zostanie zakończona. 
+\begin{DoxyParams}{Parametry}
+{\em configure\+Events} & Nasłuchiwacz, który zostanie nadany. \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_abdff51f318abea6cf97b026b5cc49bac}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!download\+Configuration\+File\+Into\+Internal\+Storage@{download\+Configuration\+File\+Into\+Internal\+Storage}}
+\index{download\+Configuration\+File\+Into\+Internal\+Storage@{download\+Configuration\+File\+Into\+Internal\+Storage}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{download\+Configuration\+File\+Into\+Internal\+Storage()}]{\setlength{\rightskip}{0pt plus 5cm}static String pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+download\+Configuration\+File\+Into\+Internal\+Storage (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_abdff51f318abea6cf97b026b5cc49bac}
+Metoda ta pobiera zawsze najnowszy plik Konfiguracji. Jeżeli nowszy jest w serwisie W\+W\+W, to pobierze jego zawartość, jeżeli nie, to pobierze lokalny plik Konfiguracji. \begin{DoxyReturn}{Zwraca}
+Zawartość najnowszego pliku konfiguracji. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a3e21bdf9e381f1a8fb574b19766694a0}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!execute\+Startup\+Async\+Task@{execute\+Startup\+Async\+Task}}
+\index{execute\+Startup\+Async\+Task@{execute\+Startup\+Async\+Task}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{execute\+Startup\+Async\+Task()}]{\setlength{\rightskip}{0pt plus 5cm}void pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+execute\+Startup\+Async\+Task (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a3e21bdf9e381f1a8fb574b19766694a0}
+Uruchamia proces odpowiedzialny za pierwszą konfigurację aplikacji. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a55b1f75d60bc6b5e4a3b50906cf6ef8d}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!is\+First\+App\+Start@{is\+First\+App\+Start}}
+\index{is\+First\+App\+Start@{is\+First\+App\+Start}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{is\+First\+App\+Start()}]{\setlength{\rightskip}{0pt plus 5cm}boolean pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+is\+First\+App\+Start (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a55b1f75d60bc6b5e4a3b50906cf6ef8d}
+Sprawdza, czy to jest pierwsze uruchomienie aplikacji na tym urządzeniu. \begin{DoxyReturn}{Zwraca}
+True, jeżeli to jest pierwsze uruchomienie, false w przeciwnym wypadku. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a0a94d7d51fd7fa3e3e76b88b0eccf067}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!is\+Mobile\+Available@{is\+Mobile\+Available}}
+\index{is\+Mobile\+Available@{is\+Mobile\+Available}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{is\+Mobile\+Available()}]{\setlength{\rightskip}{0pt plus 5cm}static boolean pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+is\+Mobile\+Available (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a0a94d7d51fd7fa3e3e76b88b0eccf067}
+Determinuje, czy mobilne połączenie z Internetem jest dostępne. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a480861c4a10f86387fb420869fa53c91}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!is\+Wi\+Fi\+Available@{is\+Wi\+Fi\+Available}}
+\index{is\+Wi\+Fi\+Available@{is\+Wi\+Fi\+Available}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{is\+Wi\+Fi\+Available()}]{\setlength{\rightskip}{0pt plus 5cm}static boolean pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+is\+Wi\+Fi\+Available (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a480861c4a10f86387fb420869fa53c91}
+Determinuje, czy połączenie Wi\+Fi z Internetem jest dostępne. 
+
+\subsection{Dokumentacja atrybutów składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a553d895b6e31e82dcd05ab6a4b6a0b1c}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!config\+Xml\+Result@{config\+Xml\+Result}}
+\index{config\+Xml\+Result@{config\+Xml\+Result}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{config\+Xml\+Result}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Config\+Xml\+Result} pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+config\+Xml\+Result\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a553d895b6e31e82dcd05ab6a4b6a0b1c}
+Jest to to, co zostanie zwrócone przez proces konfiguracji startowej. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a320814a7c5ad1d065922dec45ea1e2ea}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!properties\+Xml\+Result@{properties\+Xml\+Result}}
+\index{properties\+Xml\+Result@{properties\+Xml\+Result}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{properties\+Xml\+Result}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Properties\+Xml\+Result} pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+properties\+Xml\+Result\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a320814a7c5ad1d065922dec45ea1e2ea}
+Jest to to, co zostanie zwrócone po przeanalizowaniu pliku Właściwości. \hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a015db43e9326c413b6caf4ed155fdf28}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}!xml\+Parser@{xml\+Parser}}
+\index{xml\+Parser@{xml\+Parser}!pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config@{pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}}
+\subsubsection[{xml\+Parser}]{\setlength{\rightskip}{0pt plus 5cm}{\bf X\+M\+L\+Parser} pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config.\+xml\+Parser\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config_a015db43e9326c413b6caf4ed155fdf28}
+Jest to globalny egzemplarz analizatora języka X\+M\+L. 
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/configuration/Startup\+Config.\+java\end{DoxyCompactItemize}

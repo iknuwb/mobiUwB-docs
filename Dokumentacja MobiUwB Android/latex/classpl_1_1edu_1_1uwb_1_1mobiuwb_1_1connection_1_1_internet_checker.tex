@@ -1,0 +1,101 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker}\index{pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker@{pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker}}
+Diagram dziedziczenia dla pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=1.031308cm]{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker}
+\end{center}
+\end{figure}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_abf0bb2eaeab83df0072e2d22a5465751}{Internet\+Checker} ()
+\item 
+boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_ab5056eecdb0947216b38ead65c5682c3}{check} ()
+\item 
+boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a1e017231ef654d5ca99817522fbeb5ce}{is\+Available} ()
+\end{DoxyCompactItemize}
+\subsection*{Metody chronione}
+\begin{DoxyCompactItemize}
+\item 
+abstract void \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a5b70be000c90b2e3a5660f0d7db4a162}{fill\+Network\+Info} (Connectivity\+Manager connectivity\+Manager, Array\+List$<$ Network\+Info $>$ \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a2edc06b95c5a74eee801d1dd2643b464}{network\+Infos})
+\item 
+abstract boolean \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a5dbe35705cd9ad04d08811e447632f2b}{make\+Check} ()
+\end{DoxyCompactItemize}
+\subsection*{Atrybuty chronione}
+\begin{DoxyCompactItemize}
+\item 
+Array\+List$<$ Network\+Info $>$ \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a2edc06b95c5a74eee801d1dd2643b464}{network\+Infos}
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Rozpoznaje typ Internetu, z jakiego korzysta urządzenie. 
+
+\subsection{Dokumentacja konstruktora i destruktora}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_abf0bb2eaeab83df0072e2d22a5465751}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}!Internet\+Checker@{Internet\+Checker}}
+\index{Internet\+Checker@{Internet\+Checker}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}}
+\subsubsection[{Internet\+Checker()}]{\setlength{\rightskip}{0pt plus 5cm}pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker.\+Internet\+Checker (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_abf0bb2eaeab83df0072e2d22a5465751}
+Inicjuje zmienne oraz pobiera z systemu instancję menedżera systemu. Wywołuje metodę wypełnienia listy z informacjami o połączeniu, która jest delegowana do podklas. 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_ab5056eecdb0947216b38ead65c5682c3}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}!check@{check}}
+\index{check@{check}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}}
+\subsubsection[{check()}]{\setlength{\rightskip}{0pt plus 5cm}boolean pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker.\+check (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_ab5056eecdb0947216b38ead65c5682c3}
+Sprawdza, czy mamy do czynienia z połączeniem obsługiwanym przez tą podklasą. Wywołuje metodę wypełnienia listy z informacjami o połączeniu, która jest delegowana do podklas. \begin{DoxyReturn}{Zwraca}
+Czy to jest to połączenie, w zależności od podklasy. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a5b70be000c90b2e3a5660f0d7db4a162}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}!fill\+Network\+Info@{fill\+Network\+Info}}
+\index{fill\+Network\+Info@{fill\+Network\+Info}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}}
+\subsubsection[{fill\+Network\+Info(\+Connectivity\+Manager connectivity\+Manager, Array\+List$<$ Network\+Info $>$ network\+Infos)}]{\setlength{\rightskip}{0pt plus 5cm}abstract void pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker.\+fill\+Network\+Info (
+\begin{DoxyParamCaption}
+\item[{Connectivity\+Manager}]{connectivity\+Manager, }
+\item[{Array\+List$<$ Network\+Info $>$}]{network\+Infos}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [abstract]}, {\ttfamily [protected]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a5b70be000c90b2e3a5660f0d7db4a162}
+Metoda ta wypełnia, w zależności od implementacji, listę informacji o połączeniu. 
+\begin{DoxyParams}{Parametry}
+{\em connectivity\+Manager} & Menedżer połączeń systemu operacyjnego. \\
+\hline
+{\em network\+Infos} & Lista połączeń do wypełnienia \\
+\hline
+\end{DoxyParams}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a1e017231ef654d5ca99817522fbeb5ce}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}!is\+Available@{is\+Available}}
+\index{is\+Available@{is\+Available}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}}
+\subsubsection[{is\+Available()}]{\setlength{\rightskip}{0pt plus 5cm}boolean pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker.\+is\+Available (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a1e017231ef654d5ca99817522fbeb5ce}
+Sprawdza, czy określone typy połączeń reprezentowane przez tą podklasę są dostępne na urządzeniu. \begin{DoxyReturn}{Zwraca}
+true, jeśli wszystkie są dostępne, false, jeśli choćby jeden był niedostępny. 
+\end{DoxyReturn}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a5dbe35705cd9ad04d08811e447632f2b}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}!make\+Check@{make\+Check}}
+\index{make\+Check@{make\+Check}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}}
+\subsubsection[{make\+Check()}]{\setlength{\rightskip}{0pt plus 5cm}abstract boolean pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker.\+make\+Check (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [abstract]}, {\ttfamily [protected]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a5dbe35705cd9ad04d08811e447632f2b}
+Implementacja tej metody sprawdza, czy ta podklasa zawiera w sobie aktualnie obsługiwany typ połączenia. \begin{DoxyReturn}{Zwraca}
+true, jeżeli spośród obsługiwanych typów połączenia jest ten aktualny, false, jeśli nie. 
+\end{DoxyReturn}
+
+
+\subsection{Dokumentacja atrybutów składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a2edc06b95c5a74eee801d1dd2643b464}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}!network\+Infos@{network\+Infos}}
+\index{network\+Infos@{network\+Infos}!pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker@{pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}}
+\subsubsection[{network\+Infos}]{\setlength{\rightskip}{0pt plus 5cm}Array\+List$<$Network\+Info$>$ pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker.\+network\+Infos\hspace{0.3cm}{\ttfamily [protected]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker_a2edc06b95c5a74eee801d1dd2643b464}
+Jest odpowiedzialna za listę informacji o połączeniu. Podklasy wypełniają tą listę w metodzie fill\+Network\+Info. 
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/connection/Internet\+Checker.\+java\end{DoxyCompactItemize}

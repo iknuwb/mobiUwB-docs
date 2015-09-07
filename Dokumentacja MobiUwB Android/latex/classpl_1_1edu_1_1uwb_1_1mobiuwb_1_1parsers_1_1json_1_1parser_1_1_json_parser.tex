@@ -1,0 +1,49 @@
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser}{}\section{Dokumentacja klasy pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+json.\+parser.\+Json\+Parser}
+\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser}\index{pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+json.\+parser.\+Json\+Parser@{pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+json.\+parser.\+Json\+Parser}}
+\subsection*{Metody publiczne}
+\begin{DoxyCompactItemize}
+\item 
+List$<$ \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1model_1_1_feed}{Feed} $>$ \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser_a043b56cb439e04d6c214526bcddff3b4}{parse\+Feeds\+Json} (String file\+Content)  throws J\+S\+O\+N\+Exception     
+\end{DoxyCompactItemize}
+\subsection*{Statyczne atrybuty publiczne}
+\begin{DoxyCompactItemize}
+\item 
+static final String \hyperlink{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser_a80e2c60ee4706eb4fd301c9707a32e6f}{D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T} = \char`\"{}yyyy-\/M\+M-\/dd\textquotesingle{}T\textquotesingle{}H\+H\+:mm\+:ss\textquotesingle{}Z\textquotesingle{}\char`\"{}
+\end{DoxyCompactItemize}
+
+
+\subsection{Opis szczegółowy}
+Jest to reprezentacja analizatora formatu J\+S\+O\+N. 
+
+\subsection{Dokumentacja funkcji składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser_a043b56cb439e04d6c214526bcddff3b4}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser@{pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser}!parse\+Feeds\+Json@{parse\+Feeds\+Json}}
+\index{parse\+Feeds\+Json@{parse\+Feeds\+Json}!pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser@{pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser}}
+\subsubsection[{parse\+Feeds\+Json(\+String file\+Content)}]{\setlength{\rightskip}{0pt plus 5cm}List$<${\bf Feed}$>$ pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+json.\+parser.\+Json\+Parser.\+parse\+Feeds\+Json (
+\begin{DoxyParamCaption}
+\item[{String}]{file\+Content}
+\end{DoxyParamCaption}
+) throws J\+S\+O\+N\+Exception}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser_a043b56cb439e04d6c214526bcddff3b4}
+Analizuje format J\+S\+O\+N zawierający listę kanałów informacyjnych typu Feed. 
+\begin{DoxyParams}{Parametry}
+{\em file\+Content} & Format J\+S\+O\+N. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Zwraca}
+Lista kanałów informatycjnych typu Feed. 
+\end{DoxyReturn}
+
+\begin{DoxyExceptions}{Wyjątki}
+{\em J\+S\+O\+N\+Exception} & Zostaje on zgłoszony, gdy wystąpi problem z analizą formatu J\+S\+O\+N. \\
+\hline
+\end{DoxyExceptions}
+
+
+\subsection{Dokumentacja atrybutów składowych}
+\hypertarget{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser_a80e2c60ee4706eb4fd301c9707a32e6f}{}\index{pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser@{pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser}!D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T@{D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T}}
+\index{D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T@{D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T}!pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser@{pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser}}
+\subsubsection[{D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T}]{\setlength{\rightskip}{0pt plus 5cm}final String pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+json.\+parser.\+Json\+Parser.\+D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T = \char`\"{}yyyy-\/M\+M-\/dd\textquotesingle{}T\textquotesingle{}H\+H\+:mm\+:ss\textquotesingle{}Z\textquotesingle{}\char`\"{}\hspace{0.3cm}{\ttfamily [static]}}\label{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser_a80e2c60ee4706eb4fd301c9707a32e6f}
+Uogólniony format daty używany w plikach J\+S\+O\+N w aplikacji. 
+
+Dokumentacja dla tej klasy została wygenerowana z pliku\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/programowanie/\+Android\+Studio\+Projects/\+Mobi\+Uw\+B-\/\+Android/app/src/main/java/pl/edu/uwb/mobiuwb/parsers/json/parser/Json\+Parser.\+java\end{DoxyCompactItemize}

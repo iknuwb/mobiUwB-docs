@@ -1,0 +1,244 @@
+\documentclass[twoside]{book}
+
+% Packages required by doxygen
+\usepackage{fixltx2e}
+\usepackage{calc}
+\usepackage{doxygen}
+\usepackage[export]{adjustbox} % also loads graphicx
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage{makeidx}
+\usepackage{multicol}
+\usepackage{multirow}
+\PassOptionsToPackage{warn}{textcomp}
+\usepackage{textcomp}
+\usepackage[nointegrals]{wasysym}
+\usepackage[table]{xcolor}
+
+% NLS support packages
+\usepackage{polski}
+\usepackage[T1]{fontenc}
+
+% Font selection
+\usepackage[T1]{fontenc}
+\usepackage[scaled=.90]{helvet}
+\usepackage{courier}
+\usepackage{amssymb}
+\usepackage{sectsty}
+\renewcommand{\familydefault}{\sfdefault}
+\allsectionsfont{%
+  \fontseries{bc}\selectfont%
+  \color{darkgray}%
+}
+\renewcommand{\DoxyLabelFont}{%
+  \fontseries{bc}\selectfont%
+  \color{darkgray}%
+}
+\newcommand{\+}{\discretionary{\mbox{\scriptsize$\hookleftarrow$}}{}{}}
+
+% Page & text layout
+\usepackage{geometry}
+\geometry{%
+  a4paper,%
+  top=2.5cm,%
+  bottom=2.5cm,%
+  left=2.5cm,%
+  right=2.5cm%
+}
+\tolerance=750
+\hfuzz=15pt
+\hbadness=750
+\setlength{\emergencystretch}{15pt}
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{0.2cm}
+\makeatletter
+\renewcommand{\paragraph}{%
+  \@startsection{paragraph}{4}{0ex}{-1.0ex}{1.0ex}{%
+    \normalfont\normalsize\bfseries\SS@parafont%
+  }%
+}
+\renewcommand{\subparagraph}{%
+  \@startsection{subparagraph}{5}{0ex}{-1.0ex}{1.0ex}{%
+    \normalfont\normalsize\bfseries\SS@subparafont%
+  }%
+}
+\makeatother
+
+% Headers & footers
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\fancyhead[LE]{\fancyplain{}{\bfseries\thepage}}
+\fancyhead[CE]{\fancyplain{}{}}
+\fancyhead[RE]{\fancyplain{}{\bfseries\leftmark}}
+\fancyhead[LO]{\fancyplain{}{\bfseries\rightmark}}
+\fancyhead[CO]{\fancyplain{}{}}
+\fancyhead[RO]{\fancyplain{}{\bfseries\thepage}}
+\fancyfoot[LE]{\fancyplain{}{}}
+\fancyfoot[CE]{\fancyplain{}{}}
+\fancyfoot[RE]{\fancyplain{}{\bfseries\scriptsize Wygenerowano N, 6 wrz 2015 06\+:31\+:56 dla Mobi\+Uw\+B programem Doxygen }}
+\fancyfoot[LO]{\fancyplain{}{\bfseries\scriptsize Wygenerowano N, 6 wrz 2015 06\+:31\+:56 dla Mobi\+Uw\+B programem Doxygen }}
+\fancyfoot[CO]{\fancyplain{}{}}
+\fancyfoot[RO]{\fancyplain{}{}}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand{\chaptermark}[1]{%
+  \markboth{#1}{}%
+}
+\renewcommand{\sectionmark}[1]{%
+  \markright{\thesection\ #1}%
+}
+
+% Indices & bibliography
+\usepackage{natbib}
+\usepackage[titles]{tocloft}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{5}
+\makeindex
+
+% Hyperlinks (required, but should be loaded last)
+\usepackage{ifpdf}
+\ifpdf
+  \usepackage[pdftex,pagebackref=true]{hyperref}
+\else
+  \usepackage[ps2pdf,pagebackref=true]{hyperref}
+\fi
+\hypersetup{%
+  colorlinks=true,%
+  linkcolor=blue,%
+  citecolor=blue,%
+  unicode%
+}
+
+% Custom commands
+\newcommand{\clearemptydoublepage}{%
+  \newpage{\pagestyle{empty}\cleardoublepage}%
+}
+
+
+%===== C O N T E N T S =====
+
+\begin{document}
+
+% Titlepage & ToC
+\hypersetup{pageanchor=false,
+             bookmarks=true,
+             bookmarksnumbered=true,
+             pdfencoding=unicode
+            }
+\pagenumbering{roman}
+\begin{titlepage}
+\vspace*{7cm}
+\begin{center}%
+{\Large Mobi\+Uw\+B }\\
+\vspace*{1cm}
+{\large Wygenerowano przez Doxygen 1.8.10}\\
+\vspace*{0.5cm}
+{\small N, 6 wrz 2015 06:31:56}\\
+\end{center}
+\end{titlepage}
+\clearemptydoublepage
+\tableofcontents
+\clearemptydoublepage
+\pagenumbering{arabic}
+\hypersetup{pageanchor=true}
+
+%--- Begin generated contents ---
+\chapter{Indeks hierarchiczny}
+\input{hierarchy}
+\chapter{Indeks klas}
+\input{annotated}
+\chapter{Dokumentacja klas}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1about_1_1_about_activity}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_action_bar_methods}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1about_1_1adapter_1_1_authors_adapter}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1checkbox_1_1_check_box_item}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1checkbox_1_1_check_box_item_model}
+\input{enumpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_checking_type}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1tasks_1_1conf3c0efff19be36c051c5d2b09cd3e6d08}
+\input{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_configure_events}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_config_xml_result}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1contact_1_1_contact_activity}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_coordinates}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1_data_initialize_task_output}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1broadcast_1_1_device_launched_broadcast_receiver}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1controls_1_1dialogs_1_1_dialog_creator}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1dialog_1_1_dialog_item}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1dialog_1_1_dialog_item_model}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1adapter_1_1_drawer_list_adapter}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1model_1_1_drawer_list_adapter_model}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_drawer_list_methods}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1expandableonoff_1_1_expandable_on_off_item}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1expandableonoff_1_1_expandable_on_off_item_model}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1model_1_1_feed}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1_frequency_list_adapter}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_globals}
+\input{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1interfaces_1_1_gui_access}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checker}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1io_1_1_io_manager}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1_item}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1_item_model}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1json_1_1parser_1_1_json_parser}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1controls_1_1dialogs_1_1_list_dialog}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1dialog_1_1itempicker_1_1_list_picker_item_model}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_list_view_hacks}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1mainactivity_1_1_main_activity}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1mainactivity_1_1fragment_1_1_main_activity_fragment}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_menu_methods}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1checker_1_1_mobile_checker}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_mobi_uwb_app}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_mobi_uw_b_map}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1mainactivity_1_1fragment_1_1_mobi_uw_b_web_view_client}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1controls_1_1_my_expandable_list_view}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_notification_service}
+\input{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1interfaces_1_1_on_connection_changed_listener}
+\input{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1interfaces_1_1_on_value_changed_listener}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1_internet_checking_service_1_1_progress_update_data}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1result_1_1model_1_1_properties_xml_result}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1result_1_1validator_1_1_properties_xml_result_validator}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1tasks_1_1propdc60fe894b08dca88ecfd120106f4e52}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1tasks_1_1prop03c373be1435a0ef0a4271d3f7959d57}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_section}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_manager}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1_service_preferences_manager}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1_settings_activity}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1_settings_adapter}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1tasks_1_1sharfea0e1fb4d2269185de585e411b5e8b3}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1tasks_1_1shar69ec0073db8abb8d962316ce12a7876e}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1_settings_preferences_manager}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1_settings_validator}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_shared_preferences_keyring}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1something_wrong_1_1_something_wrong_activity}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1splash_1_1_splash_screen_activity}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1configuration_1_1_startup_config}
+\input{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1interfaces_1_1_storable}
+\input{interfacepl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_task}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1models_1_1_task_input}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1models_1_1_task_output}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1tasks_1_1_tasks_queue}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_time_conventers}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1controls_1_1dialogs_1_1_time_picker_dialog}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1view_1_1settings_1_1adapter_1_1items_1_1dialog_1_1timepicker_1_1_time_picker_item_model}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1result_1_1model_1_1_unit_address}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1utillities_1_1_unit_converter}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_university_unit}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_version_controller}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1tasks_1_1versb679418f62fa2115aa7975dd3e456693}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1services_1_1notification_1_1data_initialize_1_1tasks_1_1versfd7a1936d3ced5297b4ed00a93d9b277}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_models_1_1_versioning_request}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1_version_control_1_1_models_1_1_versioning_result}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1model_1_1_website}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1checker_1_1_wi_fi_checker}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1connection_1_1checker_1_1_wifi_mobile_checker}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1parser_1_1_x_m_l_parser}
+\input{classpl_1_1edu_1_1uwb_1_1mobiuwb_1_1parsers_1_1xml_1_1model_1_1_xml_properties_root_element}
+%--- End generated contents ---
+
+% Index
+\backmatter
+\newpage
+\phantomsection
+\clearemptydoublepage
+\addcontentsline{toc}{chapter}{Indeks}
+\printindex
+
+\end{document}

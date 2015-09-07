@@ -1,0 +1,1725 @@
+\begin{theindex}
+
+  \item {A\+P\+P\+\_\+\+F\+I\+R\+S\+T\+\_\+\+R\+U\+N}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Shared\+Preferences\+Keyring}, 
+		\hyperpage{87}
+  \item {A\+T\+\_\+\+S\+I\+G\+N\+\_\+\+C\+O\+D\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{105}
+  \item {add}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}, 
+		\hyperpage{95}
+  \item {add\+Error}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::models\+::\+Task\+Output}, 
+		\hyperpage{94}
+  \item {add\+Error\+Message}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+  \item {add\+Errors}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::models\+::\+Task\+Output}, 
+		\hyperpage{94}
+  \item {add\+On\+Configuration\+Event\+Listener}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{90}
+  \item {authors}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Config\+Xml\+Result}, 
+		\hyperpage{14}
+  \item {Authors\+Adapter}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::about\+::adapter\+::\+Authors\+Adapter}, 
+		\hyperpage{9}
+
+  \indexspace
+
+  \item {C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}, 
+		\hyperpage{44}
+  \item {call}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::contact\+::\+Contact\+Activity}, 
+		\hyperpage{15}
+  \item {categories}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {check}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}, 
+		\hyperpage{38}
+  \item {Check\+Box\+Item}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item}, 
+		\hyperpage{10}
+  \item {check\+If\+File\+Exists}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}, 
+		\hyperpage{41}
+  \item {collapse\+Group}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::\+My\+Expandable\+List\+View}, 
+		\hyperpage{65}
+  \item {compose\+Email}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::contact\+::\+Contact\+Activity}, 
+		\hyperpage{15}
+  \item {Config\+Xml\+Result}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Config\+Xml\+Result}, 
+		\hyperpage{14}
+  \item {config\+Xml\+Result}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{91}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {configuration\+File}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {configure\+Group\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item}, 
+		\hyperpage{46}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item}, 
+		\hyperpage{10}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item}, 
+		\hyperpage{23}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item}, 
+		\hyperpage{30}
+  \item {connection\+Changed}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::interfaces\+::\+On\+Connection\+Changed\+Listener}, 
+		\hyperpage{67}
+  \item {copy\+Assets\+File}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}, 
+		\hyperpage{41}
+  \item {counter}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Section}, 
+		\hyperpage{74}
+  \item {create}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Dialog\+Creator}, 
+		\hyperpage{21}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+List\+Dialog}, 
+		\hyperpage{50}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Time\+Picker\+Dialog}, 
+		\hyperpage{96}
+  \item {create\+Strategy}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{47}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}, 
+		\hyperpage{11}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{24}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item\+Model}, 
+		\hyperpage{31}
+
+  \indexspace
+
+  \item {D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser}, 
+		\hyperpage{49}
+  \item {D\+O\+T\+\_\+\+S\+I\+G\+N\+\_\+\+C\+O\+D\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{105}
+  \item {Data\+Initialize\+Task\+Output}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {describe\+Contents}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{47}
+  \item {deserialize\+Configuration\+Xml}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+X\+M\+L\+Parser}, 
+		\hyperpage{116}
+  \item {deserialize\+Properties\+Xml}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+X\+M\+L\+Parser}, 
+		\hyperpage{117}
+  \item {dialog\+Creation\+Strategy}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{26}
+  \item {Dialog\+Creator}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Dialog\+Creator}, 
+		\hyperpage{21}
+  \item {Dialog\+Item}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item}, 
+		\hyperpage{23}
+  \item {Dialog\+Item\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{24}
+  \item {dismiss\+Progress\+Dialog}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Mobi\+Uw\+B\+Web\+View\+Client}, 
+		\hyperpage{63}
+  \item {display\+Metrics}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Unit\+Converter}, 
+		\hyperpage{99}
+  \item {do\+In\+Background}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{39}
+  \item {download\+Configuration\+File\+Into\+Internal\+Storage}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{90}
+  \item {download\+File}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}, 
+		\hyperpage{41}, \hyperpage{43}
+  \item {Drawer\+List\+Adapter}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter}, 
+		\hyperpage{27}
+  \item {Drawer\+List\+Adapter\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{28}
+  \item {drawer\+Toggle}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{56}
+
+  \indexspace
+
+  \item {equals}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}, 
+		\hyperpage{69}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Website}, 
+		\hyperpage{113}
+  \item {errors}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}, 
+		\hyperpage{71}
+  \item {execute}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::configuration\+Xml\+::\+Configuration\+Xml\+Task}, 
+		\hyperpage{13}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::properties\+Xml\+::\+Properties\+Xml\+Task}, 
+		\hyperpage{73}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task}, 
+		\hyperpage{82}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::version\+Controller\+::\+Version\+Controller\+Task}, 
+		\hyperpage{107}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Task}, 
+		\hyperpage{92}
+  \item {execute\+Startup\+Async\+Task}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{90}
+  \item {expand\+Group}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::\+My\+Expandable\+List\+View}, 
+		\hyperpage{65}
+  \item {Expandable\+On\+Off\+Item}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item}, 
+		\hyperpage{30}
+  \item {Expandable\+On\+Off\+Item\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item\+Model}, 
+		\hyperpage{31}
+
+  \indexspace
+
+  \item {Feed}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}, 
+		\hyperpage{33}
+  \item {fill\+Network\+Info}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}, 
+		\hyperpage{38}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Mobile\+Checker}, 
+		\hyperpage{60}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Wi\+Fi\+Checker}, 
+		\hyperpage{114}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Wifi\+Mobile\+Checker}, 
+		\hyperpage{115}
+  \item {finish\+Activity}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::interfaces\+::\+Gui\+Access}, 
+		\hyperpage{36}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{53}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{57}
+  \item {Frequency\+List\+Adapter}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Frequency\+List\+Adapter}, 
+		\hyperpage{35}
+  \item {frequency\+Text}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task}, 
+		\hyperpage{82}
+  \item {from\+Text}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task}, 
+		\hyperpage{82}
+
+  \indexspace
+
+  \item {get\+Adapter}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+List\+Dialog}, 
+		\hyperpage{50}
+  \item {get\+Address}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{100}
+  \item {get\+Api\+Url}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{100}
+  \item {get\+Base\+Context}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::properties\+Xml\+::\+Properties\+Xml\+Task\+Input}, 
+		\hyperpage{73}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task\+Input}, 
+		\hyperpage{83}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::version\+Controller\+::\+Version\+Controller\+Task\+Input}, 
+		\hyperpage{108}
+  \item {get\+Checbox\+Item\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{84}
+  \item {get\+Checking\+Type}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}, 
+		\hyperpage{69}
+  \item {get\+Child}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{79}
+  \item {get\+Child\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{79}
+  \item {get\+Child\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{79}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item}, 
+		\hyperpage{46}
+  \item {get\+Children\+Count}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{79}
+  \item {get\+City}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Unit\+Address}, 
+		\hyperpage{98}
+  \item {get\+Configuration\+File\+Name}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::version\+Controller\+::\+Version\+Controller\+Task\+Input}, 
+		\hyperpage{108}
+  \item {get\+Content}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}, 
+		\hyperpage{33}
+  \item {get\+Context}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Mobi\+Uwb\+App}, 
+		\hyperpage{61}
+  \item {get\+Context\+Access}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::interfaces\+::\+Gui\+Access}, 
+		\hyperpage{36}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{53}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{57}
+  \item {get\+Coordinates}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Mobi\+Uw\+B\+Map}, 
+		\hyperpage{62}
+  \item {get\+Current\+University\+Unit}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Config\+Xml\+Result}, 
+		\hyperpage{14}
+  \item {get\+Current\+Url}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{58}
+  \item {get\+Date}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}, 
+		\hyperpage{33}
+  \item {get\+Default\+Website\+Index}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Xml\+Properties\+Root\+Element}, 
+		\hyperpage{119}
+  \item {get\+Email}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{101}
+  \item {get\+Error\+Messages}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+  \item {get\+Errors}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::models\+::\+Task\+Output}, 
+		\hyperpage{94}
+  \item {get\+Fax}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{101}
+  \item {get\+File\+Content}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}, 
+		\hyperpage{43}
+  \item {get\+File\+Input\+Stream}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}, 
+		\hyperpage{43}
+  \item {get\+Full\+Name}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{101}
+  \item {get\+Group}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{80}
+  \item {get\+Group\+Count}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{80}
+  \item {get\+Group\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{80}
+  \item {get\+Group\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{80}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item}, 
+		\hyperpage{46}
+  \item {get\+Icon}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{28}
+  \item {get\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{28}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}, 
+		\hyperpage{11}
+  \item {get\+Instance}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}, 
+		\hyperpage{75}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{84}
+  \item {get\+Internet\+Checking\+Service}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{53}
+  \item {get\+Internet\+File}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Request}, 
+		\hyperpage{109}
+  \item {get\+Last\+Known\+Date}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}, 
+		\hyperpage{76}
+  \item {get\+Lattitude}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Coordinates}, 
+		\hyperpage{16}
+  \item {get\+Layout}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{48}
+  \item {get\+Longtitude}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Coordinates}, 
+		\hyperpage{16}
+  \item {get\+Mobi\+Uw\+B\+Map}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{101}
+  \item {get\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Dialog\+Creator}, 
+		\hyperpage{21}
+  \item {get\+Name}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Website}, 
+		\hyperpage{113}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{101}
+  \item {get\+Newest\+File}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{106}
+  \item {get\+Number}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Unit\+Address}, 
+		\hyperpage{98}
+  \item {get\+Overwrite\+Destination\+Path}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Request}, 
+		\hyperpage{109}
+  \item {get\+Ping}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Website}, 
+		\hyperpage{113}
+  \item {get\+Postal\+Code}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Unit\+Address}, 
+		\hyperpage{98}
+  \item {get\+Properties\+File\+Name}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::properties\+Xml\+::\+Properties\+Xml\+Task\+Input}, 
+		\hyperpage{74}
+  \item {get\+Section\+By\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{101}
+  \item {get\+Sections}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{102}
+  \item {get\+Static\+Sections}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{102}
+  \item {get\+Succeeded}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+  \item {get\+Tel1}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{102}
+  \item {get\+Tel2}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{102}
+  \item {get\+Text}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{28}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{48}
+  \item {get\+Text\+Control\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{25}
+  \item {get\+Title}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}, 
+		\hyperpage{34}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Mobi\+Uw\+B\+Map}, 
+		\hyperpage{62}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{25}
+  \item {get\+Url}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Website}, 
+		\hyperpage{113}
+  \item {get\+Value}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{25}
+  \item {get\+Versioning\+Request}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+  \item {get\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::about\+::adapter\+::\+Authors\+Adapter}, 
+		\hyperpage{9}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter}, 
+		\hyperpage{27}
+  \item {get\+Website}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{28}
+  \item {get\+Xml\+Properties\+Root\+Element}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}, 
+		\hyperpage{71}
+  \item {go\+Back\+In\+Web\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{58}
+
+  \indexspace
+
+  \item {has\+Stable\+Ids}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{81}
+  \item {hash\+Code}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}, 
+		\hyperpage{69}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Website}, 
+		\hyperpage{113}
+
+  \indexspace
+
+  \item {id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Section}, 
+		\hyperpage{74}
+  \item {init\+Layout}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{48}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}, 
+		\hyperpage{11}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::itempicker\+::\+List\+Picker\+Item\+Model}, 
+		\hyperpage{51}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::timepicker\+::\+Time\+Picker\+Item\+Model}, 
+		\hyperpage{97}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item\+Model}, 
+		\hyperpage{31}
+  \item {Internet\+Checker}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}, 
+		\hyperpage{37}
+  \item {interval}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {interval\+Index}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {is\+Active}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}, 
+		\hyperpage{69}
+  \item {is\+Available}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}, 
+		\hyperpage{38}
+  \item {is\+Checked}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}, 
+		\hyperpage{11}
+  \item {is\+Child\+Selectable}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{81}
+  \item {is\+Expanded}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item\+Model}, 
+		\hyperpage{31}
+  \item {is\+First\+App\+Start}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{91}
+  \item {is\+Mobile\+Available}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{91}
+  \item {is\+Notification\+Active}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {is\+Time\+Range\+Active}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {is\+Valid}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}, 
+		\hyperpage{71}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::models\+::\+Task\+Output}, 
+		\hyperpage{94}
+  \item {is\+Wi\+Fi\+Available}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{91}
+  \item {Item}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item}, 
+		\hyperpage{45}
+  \item {Item\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{47}
+
+  \indexspace
+
+  \item {List\+Dialog}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+List\+Dialog}, 
+		\hyperpage{50}
+  \item {List\+Picker\+Item\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::itempicker\+::\+List\+Picker\+Item\+Model}, 
+		\hyperpage{51}
+  \item {load\+Url}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{58}
+
+  \indexspace
+
+  \item {M\+O\+B\+I\+L\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Checking\+Type}, 
+		\hyperpage{12}
+  \item {M\+O\+B\+I\+U\+W\+B\+\_\+\+T\+A\+G}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Globals}, 
+		\hyperpage{35}
+  \item {Main\+Activity\+Fragment}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{57}
+  \item {make\+Check}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}, 
+		\hyperpage{38}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Mobile\+Checker}, 
+		\hyperpage{60}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Wi\+Fi\+Checker}, 
+		\hyperpage{114}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Wifi\+Mobile\+Checker}, 
+		\hyperpage{115}
+  \item {menu\+Options}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Menu\+Methods}, 
+		\hyperpage{59}
+  \item {Mobi\+Uw\+B\+Web\+View\+Client}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Mobi\+Uw\+B\+Web\+View\+Client}, 
+		\hyperpage{63}
+  \item {model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Dialog\+Creator}, 
+		\hyperpage{22}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item}, 
+		\hyperpage{46}
+  \item {My\+Expandable\+List\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::\+My\+Expandable\+List\+View}, 
+		\hyperpage{64, 65}
+
+  \indexspace
+
+  \item {N\+O\+N\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Checking\+Type}, 
+		\hyperpage{12}
+  \item {nested\+Models}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{49}
+  \item {network\+Infos}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}, 
+		\hyperpage{38}
+  \item {notificate}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Section}, 
+		\hyperpage{74}
+  \item {notification\+Text}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task}, 
+		\hyperpage{82}
+  \item {notify\+Changed}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::interfaces\+::\+On\+Value\+Changed\+Listener}, 
+		\hyperpage{68}
+
+  \indexspace
+
+  \item {on\+Activity\+Result}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{53}
+  \item {on\+Back\+Pressed}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{53}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Activity}, 
+		\hyperpage{77}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::splash\+::\+Splash\+Screen\+Activity}, 
+		\hyperpage{89}
+  \item {on\+Bind}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}, 
+		\hyperpage{66}
+  \item {on\+Checked\+Changed}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item}, 
+		\hyperpage{10}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item}, 
+		\hyperpage{30}
+  \item {on\+Click}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item}, 
+		\hyperpage{23}
+  \item {on\+Configuration\+Changed}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{54}
+  \item {on\+Configuration\+Finished}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Configure\+Events}, 
+		\hyperpage{14}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::splash\+::\+Splash\+Screen\+Activity}, 
+		\hyperpage{89}
+  \item {on\+Create}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Mobi\+Uwb\+App}, 
+		\hyperpage{61}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::about\+::\+About\+Activity}, 
+		\hyperpage{7}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::contact\+::\+Contact\+Activity}, 
+		\hyperpage{16}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{54}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Activity}, 
+		\hyperpage{77}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::something\+Wrong\+::\+Something\+Wrong\+Activity}, 
+		\hyperpage{88}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::splash\+::\+Splash\+Screen\+Activity}, 
+		\hyperpage{89}
+  \item {on\+Create\+Options\+Menu}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{54}
+  \item {on\+Create\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{58}
+  \item {on\+Destroy}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}, 
+		\hyperpage{66}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{54}
+  \item {on\+Key\+Down}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{54}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::splash\+::\+Splash\+Screen\+Activity}, 
+		\hyperpage{89}
+  \item {on\+Options\+Item\+Selected}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{54}
+  \item {on\+Page\+Finished}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Mobi\+Uw\+B\+Web\+View\+Client}, 
+		\hyperpage{63}
+  \item {on\+Page\+Started}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Mobi\+Uw\+B\+Web\+View\+Client}, 
+		\hyperpage{63}
+  \item {on\+Post\+Create}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::about\+::\+About\+Activity}, 
+		\hyperpage{7}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::contact\+::\+Contact\+Activity}, 
+		\hyperpage{16}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{56}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::something\+Wrong\+::\+Something\+Wrong\+Activity}, 
+		\hyperpage{88}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::splash\+::\+Splash\+Screen\+Activity}, 
+		\hyperpage{89}
+  \item {on\+Pre\+Execute}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{39}
+  \item {on\+Progress\+Update}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{39}
+  \item {on\+Receive}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::broadcast\+::\+Device\+Launched\+Broadcast\+Receiver}, 
+		\hyperpage{19}
+  \item {on\+Save\+Instance\+State}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Activity}, 
+		\hyperpage{77}
+  \item {on\+Start\+Command}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}, 
+		\hyperpage{66}
+  \item {on\+Stop}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{58}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Activity}, 
+		\hyperpage{77}
+  \item {on\+View\+Created}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{58}
+
+  \indexspace
+
+  \item {P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}, 
+		\hyperpage{44}
+  \item {parse\+Feeds\+Json}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser}, 
+		\hyperpage{49}
+  \item {perform\+All}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}, 
+		\hyperpage{95}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+broadcast.\+Device\+Launched\+Broadcast\+Receiver}, 
+		\hyperpage{19}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Configure\+Events}, 
+		\hyperpage{13}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+configuration.\+Startup\+Config}, 
+		\hyperpage{90}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+checker.\+Mobile\+Checker}, 
+		\hyperpage{60}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+checker.\+Wi\+Fi\+Checker}, 
+		\hyperpage{114}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+checker.\+Wifi\+Mobile\+Checker}, 
+		\hyperpage{114}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Checking\+Type}, 
+		\hyperpage{12}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+interfaces.\+On\+Connection\+Changed\+Listener}, 
+		\hyperpage{67}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checker}, 
+		\hyperpage{37}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service}, 
+		\hyperpage{38}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+connection.\+Internet\+Checking\+Service.\+Progress\+Update\+Data}, 
+		\hyperpage{68}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+controls.\+dialogs.\+Dialog\+Creator$<$ T $>$}, 
+		\hyperpage{21}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+controls.\+dialogs.\+List\+Dialog}, 
+		\hyperpage{50}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+controls.\+dialogs.\+Time\+Picker\+Dialog}, 
+		\hyperpage{95}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+controls.\+My\+Expandable\+List\+View}, 
+		\hyperpage{64}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+interfaces.\+On\+Value\+Changed\+Listener$<$ T $>$}, 
+		\hyperpage{68}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+interfaces.\+Storable$<$ T $>$}, 
+		\hyperpage{91}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+io.\+Io\+Manager}, \hyperpage{41}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+Mobi\+Uwb\+App}, \hyperpage{61}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+json.\+model.\+Feed}, 
+		\hyperpage{33}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+json.\+parser.\+Json\+Parser}, 
+		\hyperpage{49}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+model.\+Website}, 
+		\hyperpage{111}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+model.\+Xml\+Properties\+Root\+Element}, 
+		\hyperpage{118}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+Config\+Xml\+Result}, 
+		\hyperpage{14}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+Coordinates}, 
+		\hyperpage{16}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+Mobi\+Uw\+B\+Map}, 
+		\hyperpage{61}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+result.\+model.\+Properties\+Xml\+Result}, 
+		\hyperpage{70}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+result.\+model.\+Unit\+Address}, 
+		\hyperpage{97}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+result.\+validator.\+Properties\+Xml\+Result\+Validator}, 
+		\hyperpage{71}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+Section}, 
+		\hyperpage{74}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+University\+Unit}, 
+		\hyperpage{100}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+parsers.\+xml.\+parser.\+X\+M\+L\+Parser}, 
+		\hyperpage{115}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{17}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+tasks.\+configuration\+Xml.\+Configuration\+Xml\+Task}, 
+		\hyperpage{13}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+tasks.\+properties\+Xml.\+Properties\+Xml\+Task}, 
+		\hyperpage{72}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+tasks.\+properties\+Xml.\+Properties\+Xml\+Task\+Input}, 
+		\hyperpage{73}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+tasks.\+shared\+Preferences.\+Settings\+Preference\+Manager\+Task}, 
+		\hyperpage{81}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+tasks.\+shared\+Preferences.\+Settings\+Preference\+Manager\+Task\+Input}, 
+		\hyperpage{83}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+tasks.\+version\+Controller.\+Version\+Controller\+Task}, 
+		\hyperpage{106}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+data\+Initialize.\+tasks.\+version\+Controller.\+Version\+Controller\+Task\+Input}, 
+		\hyperpage{107}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Notification\+Service}, 
+		\hyperpage{66}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Manager}, 
+		\hyperpage{75}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+services.\+notification.\+Service\+Preferences\+Manager}, 
+		\hyperpage{75}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+models.\+Task\+Input}, 
+		\hyperpage{93}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+models.\+Task\+Output}, 
+		\hyperpage{93}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Task$<$ Out extends Task\+Output $>$}, 
+		\hyperpage{92}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+tasks.\+Tasks\+Queue$<$ Out extends Task\+Output $>$}, 
+		\hyperpage{94}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+Action\+Bar\+Methods}, 
+		\hyperpage{8}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+Drawer\+List\+Methods}, 
+		\hyperpage{29}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+Globals}, 
+		\hyperpage{35}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+List\+View\+Hacks}, 
+		\hyperpage{52}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+Menu\+Methods}, 
+		\hyperpage{59}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+Shared\+Preferences\+Keyring}, 
+		\hyperpage{87}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+Time\+Conventers}, 
+		\hyperpage{95}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+utillities.\+Unit\+Converter}, 
+		\hyperpage{99}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Models.\+Versioning\+Request}, 
+		\hyperpage{108}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Models.\+Versioning\+Result}, 
+		\hyperpage{109}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+Version\+Control.\+Version\+Controller}, 
+		\hyperpage{105}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+about.\+About\+Activity}, 
+		\hyperpage{7}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+about.\+adapter.\+Authors\+Adapter}, 
+		\hyperpage{8}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+adapter.\+Drawer\+List\+Adapter}, 
+		\hyperpage{26}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+contact.\+Contact\+Activity}, 
+		\hyperpage{15}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+interfaces.\+Gui\+Access}, 
+		\hyperpage{35}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+mainactivity.\+fragment.\+Main\+Activity\+Fragment}, 
+		\hyperpage{57}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+mainactivity.\+fragment.\+Mobi\+Uw\+B\+Web\+View\+Client}, 
+		\hyperpage{62}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+mainactivity.\+Main\+Activity}, 
+		\hyperpage{52}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+model.\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{28}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+checkbox.\+Check\+Box\+Item}, 
+		\hyperpage{9}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+checkbox.\+Check\+Box\+Item\+Model}, 
+		\hyperpage{10}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+dialog.\+Dialog\+Item}, 
+		\hyperpage{22}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+dialog.\+Dialog\+Item\+Model$<$ T $>$}, 
+		\hyperpage{23}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+dialog.\+itempicker.\+List\+Picker\+Item\+Model}, 
+		\hyperpage{51}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+dialog.\+timepicker.\+Time\+Picker\+Item\+Model}, 
+		\hyperpage{96}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+expandableonoff.\+Expandable\+On\+Off\+Item}, 
+		\hyperpage{29}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+expandableonoff.\+Expandable\+On\+Off\+Item\+Model}, 
+		\hyperpage{30}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+Item$<$ T\+Item\+Model extends Item\+Model $>$}, 
+		\hyperpage{44}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+items.\+Item\+Model}, 
+		\hyperpage{47}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+adapter.\+Settings\+Adapter}, 
+		\hyperpage{78}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+Frequency\+List\+Adapter}, 
+		\hyperpage{34}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+Settings\+Activity}, 
+		\hyperpage{76}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+Settings\+Preferences\+Manager}, 
+		\hyperpage{84}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+settings.\+Settings\+Validator}, 
+		\hyperpage{86}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+something\+Wrong.\+Something\+Wrong\+Activity}, 
+		\hyperpage{87}
+  \item {pl.\+edu.\+uwb.\+mobiuwb.\+view.\+splash.\+Splash\+Screen\+Activity}, 
+		\hyperpage{88}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::\+Mobi\+Uwb\+App}
+    \subitem {get\+Context}, \hyperpage{61}
+    \subitem {on\+Create}, \hyperpage{61}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Request}
+    \subitem {get\+Internet\+File}, \hyperpage{109}
+    \subitem {get\+Overwrite\+Destination\+Path}, \hyperpage{109}
+    \subitem {Versioning\+Request}, \hyperpage{108}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}
+    \subitem {add\+Error\+Message}, \hyperpage{110}
+    \subitem {get\+Error\+Messages}, \hyperpage{110}
+    \subitem {get\+File\+Content}, \hyperpage{110}
+    \subitem {get\+File\+Input\+Stream}, \hyperpage{110}
+    \subitem {get\+Succeeded}, \hyperpage{110}
+    \subitem {get\+Versioning\+Request}, \hyperpage{110}
+    \subitem {set\+File\+Content}, \hyperpage{110}
+    \subitem {set\+File\+Input\+Stream}, \hyperpage{111}
+    \subitem {set\+Succeeded}, \hyperpage{111}
+    \subitem {set\+Versioning\+Request}, \hyperpage{111}
+    \subitem {Versioning\+Result}, \hyperpage{109}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller}
+    \subitem {get\+Newest\+File}, \hyperpage{106}
+    \subitem {Version\+Controller}, \hyperpage{105}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::broadcast\+::\+Device\+Launched\+Broadcast\+Receiver}
+    \subitem {on\+Receive}, \hyperpage{19}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Configure\+Events}
+    \subitem {on\+Configuration\+Finished}, \hyperpage{14}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}
+    \subitem {add\+On\+Configuration\+Event\+Listener}, \hyperpage{90}
+    \subitem {config\+Xml\+Result}, \hyperpage{91}
+    \subitem {download\+Configuration\+File\+Into\+Internal\+Storage}, 
+		\hyperpage{90}
+    \subitem {execute\+Startup\+Async\+Task}, \hyperpage{90}
+    \subitem {is\+First\+App\+Start}, \hyperpage{91}
+    \subitem {is\+Mobile\+Available}, \hyperpage{91}
+    \subitem {is\+Wi\+Fi\+Available}, \hyperpage{91}
+    \subitem {properties\+Xml\+Result}, \hyperpage{91}
+    \subitem {xml\+Parser}, \hyperpage{91}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Checking\+Type}
+    \subitem {M\+O\+B\+I\+L\+E}, \hyperpage{12}
+    \subitem {N\+O\+N\+E}, \hyperpage{12}
+    \subitem {W\+I\+F\+I}, \hyperpage{12}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checker}
+    \subitem {check}, \hyperpage{38}
+    \subitem {fill\+Network\+Info}, \hyperpage{38}
+    \subitem {Internet\+Checker}, \hyperpage{37}
+    \subitem {is\+Available}, \hyperpage{38}
+    \subitem {make\+Check}, \hyperpage{38}
+    \subitem {network\+Infos}, \hyperpage{38}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}
+    \subitem {do\+In\+Background}, \hyperpage{39}
+    \subitem {on\+Pre\+Execute}, \hyperpage{39}
+    \subitem {on\+Progress\+Update}, \hyperpage{39}
+    \subitem {set\+Mobile\+Internet\+Checker}, \hyperpage{40}
+    \subitem {set\+On\+Connection\+Lost\+Listener}, \hyperpage{40}
+    \subitem {set\+On\+Connection\+Recived\+Listener}, \hyperpage{40}
+    \subitem {set\+Wifi\+Internet\+Checker}, \hyperpage{40}
+    \subitem {stop\+Service}, \hyperpage{40}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}
+    \subitem {equals}, \hyperpage{69}
+    \subitem {get\+Checking\+Type}, \hyperpage{69}
+    \subitem {hash\+Code}, \hyperpage{69}
+    \subitem {is\+Active}, \hyperpage{69}
+    \subitem {Progress\+Update\+Data}, \hyperpage{69}
+    \subitem {set\+Active}, \hyperpage{69}
+    \subitem {set\+Checking\+Type}, \hyperpage{70}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Mobile\+Checker}
+    \subitem {fill\+Network\+Info}, \hyperpage{60}
+    \subitem {make\+Check}, \hyperpage{60}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Wi\+Fi\+Checker}
+    \subitem {fill\+Network\+Info}, \hyperpage{114}
+    \subitem {make\+Check}, \hyperpage{114}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::checker\+::\+Wifi\+Mobile\+Checker}
+    \subitem {fill\+Network\+Info}, \hyperpage{115}
+    \subitem {make\+Check}, \hyperpage{115}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::interfaces\+::\+On\+Connection\+Changed\+Listener}
+    \subitem {connection\+Changed}, \hyperpage{67}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::\+My\+Expandable\+List\+View}
+    \subitem {collapse\+Group}, \hyperpage{65}
+    \subitem {expand\+Group}, \hyperpage{65}
+    \subitem {My\+Expandable\+List\+View}, \hyperpage{64, 65}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Dialog\+Creator}
+    \subitem {create}, \hyperpage{21}
+    \subitem {Dialog\+Creator}, \hyperpage{21}
+    \subitem {get\+Model}, \hyperpage{21}
+    \subitem {model}, \hyperpage{22}
+    \subitem {set\+Model}, \hyperpage{22}
+    \subitem {set\+On\+Value\+Changed\+Listener}, \hyperpage{22}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+List\+Dialog}
+    \subitem {create}, \hyperpage{50}
+    \subitem {get\+Adapter}, \hyperpage{50}
+    \subitem {List\+Dialog}, \hyperpage{50}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Time\+Picker\+Dialog}
+    \subitem {create}, \hyperpage{96}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::interfaces\+::\+On\+Value\+Changed\+Listener}
+    \subitem {notify\+Changed}, \hyperpage{68}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::interfaces\+::\+Storable}
+    \subitem {restore}, \hyperpage{92}
+    \subitem {store}, \hyperpage{92}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::io\+::\+Io\+Manager}
+    \subitem {C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}, 
+		\hyperpage{44}
+    \subitem {check\+If\+File\+Exists}, \hyperpage{41}
+    \subitem {copy\+Assets\+File}, \hyperpage{41}
+    \subitem {download\+File}, \hyperpage{41}, \hyperpage{43}
+    \subitem {get\+File\+Content}, \hyperpage{43}
+    \subitem {get\+File\+Input\+Stream}, \hyperpage{43}
+    \subitem {P\+R\+O\+P\+E\+R\+T\+I\+E\+S\+\_\+\+X\+M\+L\+\_\+\+F\+I\+L\+E\+\_\+\+N\+A\+M\+E}, 
+		\hyperpage{44}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}
+    \subitem {Feed}, \hyperpage{33}
+    \subitem {get\+Content}, \hyperpage{33}
+    \subitem {get\+Date}, \hyperpage{33}
+    \subitem {get\+Title}, \hyperpage{34}
+    \subitem {set\+Content}, \hyperpage{34}
+    \subitem {set\+Date}, \hyperpage{34}
+    \subitem {set\+Title}, \hyperpage{34}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::parser\+::\+Json\+Parser}
+    \subitem {D\+A\+T\+E\+\_\+\+F\+O\+R\+M\+A\+T}, \hyperpage{49}
+    \subitem {parse\+Feeds\+Json}, \hyperpage{49}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Website}
+    \subitem {equals}, \hyperpage{113}
+    \subitem {get\+Name}, \hyperpage{113}
+    \subitem {get\+Ping}, \hyperpage{113}
+    \subitem {get\+Url}, \hyperpage{113}
+    \subitem {hash\+Code}, \hyperpage{113}
+    \subitem {Website}, \hyperpage{111}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Xml\+Properties\+Root\+Element}
+    \subitem {get\+Default\+Website\+Index}, \hyperpage{119}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Config\+Xml\+Result}
+    \subitem {authors}, \hyperpage{14}
+    \subitem {Config\+Xml\+Result}, \hyperpage{14}
+    \subitem {get\+Current\+University\+Unit}, \hyperpage{14}
+    \subitem {university\+Units}, \hyperpage{14}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Coordinates}
+    \subitem {get\+Lattitude}, \hyperpage{16}
+    \subitem {get\+Longtitude}, \hyperpage{16}
+    \subitem {set\+Lattitude}, \hyperpage{17}
+    \subitem {set\+Longtitude}, \hyperpage{17}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Mobi\+Uw\+B\+Map}
+    \subitem {get\+Coordinates}, \hyperpage{62}
+    \subitem {get\+Title}, \hyperpage{62}
+    \subitem {set\+Coordinates}, \hyperpage{62}
+    \subitem {set\+Title}, \hyperpage{62}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Section}
+    \subitem {counter}, \hyperpage{74}
+    \subitem {id}, \hyperpage{74}
+    \subitem {notificate}, \hyperpage{74}
+    \subitem {title}, \hyperpage{74}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}
+    \subitem {A\+T\+\_\+\+S\+I\+G\+N\+\_\+\+C\+O\+D\+E}, 
+		\hyperpage{105}
+    \subitem {D\+O\+T\+\_\+\+S\+I\+G\+N\+\_\+\+C\+O\+D\+E}, 
+		\hyperpage{105}
+    \subitem {get\+Address}, \hyperpage{100}
+    \subitem {get\+Api\+Url}, \hyperpage{100}
+    \subitem {get\+Email}, \hyperpage{101}
+    \subitem {get\+Fax}, \hyperpage{101}
+    \subitem {get\+Full\+Name}, \hyperpage{101}
+    \subitem {get\+Mobi\+Uw\+B\+Map}, \hyperpage{101}
+    \subitem {get\+Name}, \hyperpage{101}
+    \subitem {get\+Section\+By\+Id}, \hyperpage{101}
+    \subitem {get\+Sections}, \hyperpage{102}
+    \subitem {get\+Static\+Sections}, \hyperpage{102}
+    \subitem {get\+Tel1}, \hyperpage{102}
+    \subitem {get\+Tel2}, \hyperpage{102}
+    \subitem {set\+Address}, \hyperpage{102}
+    \subitem {set\+Api\+Url}, \hyperpage{102}
+    \subitem {set\+Email}, \hyperpage{103}
+    \subitem {set\+Fax}, \hyperpage{103}
+    \subitem {set\+Full\+Name}, \hyperpage{103}
+    \subitem {set\+Mobi\+Uw\+B\+Map}, \hyperpage{103}
+    \subitem {set\+Name}, \hyperpage{103}
+    \subitem {set\+Sections}, \hyperpage{103}
+    \subitem {set\+Static\+Sections}, \hyperpage{103}
+    \subitem {set\+Tel1}, \hyperpage{105}
+    \subitem {set\+Tel2}, \hyperpage{105}
+    \subitem {University\+Unit}, \hyperpage{100}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+X\+M\+L\+Parser}
+    \subitem {deserialize\+Configuration\+Xml}, \hyperpage{116}
+    \subitem {deserialize\+Properties\+Xml}, \hyperpage{117}
+    \subitem {pretty\+Print}, \hyperpage{118}
+    \subitem {serialize\+Default\+Website}, \hyperpage{118}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}
+    \subitem {errors}, \hyperpage{71}
+    \subitem {get\+Xml\+Properties\+Root\+Element}, \hyperpage{71}
+    \subitem {is\+Valid}, \hyperpage{71}
+    \subitem {Properties\+Xml\+Result}, \hyperpage{70}
+    \subitem {set\+Valid}, \hyperpage{71}
+    \subitem {set\+Xml\+Properties\+Root\+Element}, \hyperpage{71}
+    \subitem {to\+String}, \hyperpage{71}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Unit\+Address}
+    \subitem {get\+City}, \hyperpage{98}
+    \subitem {get\+Number}, \hyperpage{98}
+    \subitem {get\+Postal\+Code}, \hyperpage{98}
+    \subitem {set\+City}, \hyperpage{98}
+    \subitem {set\+Number}, \hyperpage{98}
+    \subitem {set\+Postal\+Code}, \hyperpage{98}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::validator\+::\+Properties\+Xml\+Result\+Validator}
+    \subitem {validate}, \hyperpage{72}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}
+    \subitem {on\+Bind}, \hyperpage{66}
+    \subitem {on\+Destroy}, \hyperpage{66}
+    \subitem {on\+Start\+Command}, \hyperpage{66}
+    \subitem {R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N}, 
+		\hyperpage{67}
+    \subitem {R\+E\+S\+T\+A\+R\+T}, \hyperpage{67}
+    \subitem {S\+T\+A\+R\+T}, \hyperpage{67}
+    \subitem {S\+T\+O\+P}, \hyperpage{67}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}
+    \subitem {get\+Instance}, \hyperpage{75}
+    \subitem {get\+Last\+Known\+Date}, \hyperpage{76}
+    \subitem {set\+Last\+Known\+Date}, \hyperpage{76}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}
+    \subitem {categories}, \hyperpage{18}
+    \subitem {config\+Xml\+Result}, \hyperpage{18}
+    \subitem {configuration\+File}, \hyperpage{18}
+    \subitem {Data\+Initialize\+Task\+Output}, \hyperpage{18}
+    \subitem {interval}, \hyperpage{18}
+    \subitem {interval\+Index}, \hyperpage{18}
+    \subitem {is\+Notification\+Active}, \hyperpage{18}
+    \subitem {is\+Time\+Range\+Active}, \hyperpage{18}
+    \subitem {properties\+File}, \hyperpage{18}
+    \subitem {properties\+Xml\+Result}, \hyperpage{19}
+    \subitem {time\+Range\+From}, \hyperpage{19}
+    \subitem {time\+Range\+To}, \hyperpage{19}
+    \subitem {versioning\+Result}, \hyperpage{19}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::configuration\+Xml\+::\+Configuration\+Xml\+Task}
+    \subitem {execute}, \hyperpage{13}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::properties\+Xml\+::\+Properties\+Xml\+Task}
+    \subitem {execute}, \hyperpage{73}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::properties\+Xml\+::\+Properties\+Xml\+Task\+Input}
+    \subitem {get\+Base\+Context}, \hyperpage{73}
+    \subitem {get\+Properties\+File\+Name}, \hyperpage{74}
+    \subitem {Properties\+Xml\+Task\+Input}, \hyperpage{73}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task}
+    \subitem {execute}, \hyperpage{82}
+    \subitem {frequency\+Text}, \hyperpage{82}
+    \subitem {from\+Text}, \hyperpage{82}
+    \subitem {notification\+Text}, \hyperpage{82}
+    \subitem {time\+Range\+Text}, \hyperpage{82}
+    \subitem {to\+Text}, \hyperpage{82}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task\+Input}
+    \subitem {get\+Base\+Context}, \hyperpage{83}
+    \subitem {Settings\+Preference\+Manager\+Task\+Input}, 
+		\hyperpage{83}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::version\+Controller\+::\+Version\+Controller\+Task}
+    \subitem {execute}, \hyperpage{107}
+    \subitem {S\+H\+A\+R\+E\+D\+\_\+\+P\+R\+E\+F\+E\+R\+E\+N\+C\+E\+S\+\_\+\+S\+E\+R\+V\+I\+C\+E\+\_\+\+N\+A\+M\+E}, 
+		\hyperpage{107}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::version\+Controller\+::\+Version\+Controller\+Task\+Input}
+    \subitem {get\+Base\+Context}, \hyperpage{108}
+    \subitem {get\+Configuration\+File\+Name}, \hyperpage{108}
+    \subitem {Version\+Controller\+Task\+Input}, \hyperpage{107}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Task}
+    \subitem {execute}, \hyperpage{92}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}
+    \subitem {add}, \hyperpage{95}
+    \subitem {perform\+All}, \hyperpage{95}
+    \subitem {Tasks\+Queue}, \hyperpage{95}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::models\+::\+Task\+Output}
+    \subitem {add\+Error}, \hyperpage{94}
+    \subitem {add\+Errors}, \hyperpage{94}
+    \subitem {get\+Errors}, \hyperpage{94}
+    \subitem {is\+Valid}, \hyperpage{94}
+    \subitem {Task\+Output}, \hyperpage{94}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Action\+Bar\+Methods}
+    \subitem {set\+Action\+Bar\+Title}, \hyperpage{8}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Globals}
+    \subitem {M\+O\+B\+I\+U\+W\+B\+\_\+\+T\+A\+G}, \hyperpage{35}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+List\+View\+Hacks}
+    \subitem {set\+List\+View\+Height\+Based\+On\+Children}, 
+		\hyperpage{52}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Menu\+Methods}
+    \subitem {menu\+Options}, \hyperpage{59}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Shared\+Preferences\+Keyring}
+    \subitem {A\+P\+P\+\_\+\+F\+I\+R\+S\+T\+\_\+\+R\+U\+N}, 
+		\hyperpage{87}
+    \subitem {S\+H\+A\+R\+E\+D\+\_\+\+P\+R\+E\+F\+E\+R\+E\+N\+C\+E\+S\+\_\+\+N\+A\+M\+E}, 
+		\hyperpage{87}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Unit\+Converter}
+    \subitem {display\+Metrics}, \hyperpage{99}
+    \subitem {to\+Dpi}, \hyperpage{99}
+    \subitem {to\+Px}, \hyperpage{99}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::about\+::\+About\+Activity}
+    \subitem {on\+Create}, \hyperpage{7}
+    \subitem {on\+Post\+Create}, \hyperpage{7}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::about\+::adapter\+::\+Authors\+Adapter}
+    \subitem {Authors\+Adapter}, \hyperpage{9}
+    \subitem {get\+View}, \hyperpage{9}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::adapter\+::\+Drawer\+List\+Adapter}
+    \subitem {Drawer\+List\+Adapter}, \hyperpage{27}
+    \subitem {get\+View}, \hyperpage{27}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::contact\+::\+Contact\+Activity}
+    \subitem {call}, \hyperpage{15}
+    \subitem {compose\+Email}, \hyperpage{15}
+    \subitem {on\+Create}, \hyperpage{16}
+    \subitem {on\+Post\+Create}, \hyperpage{16}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::interfaces\+::\+Gui\+Access}
+    \subitem {finish\+Activity}, \hyperpage{36}
+    \subitem {get\+Context\+Access}, \hyperpage{36}
+    \subitem {refresh\+Web\+View}, \hyperpage{36}
+    \subitem {start\+Activity\+Access}, \hyperpage{36}
+    \subitem {start\+Activity\+For\+Result\+Access}, \hyperpage{36}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}
+    \subitem {drawer\+Toggle}, \hyperpage{56}
+    \subitem {finish\+Activity}, \hyperpage{53}
+    \subitem {get\+Context\+Access}, \hyperpage{53}
+    \subitem {get\+Internet\+Checking\+Service}, \hyperpage{53}
+    \subitem {on\+Activity\+Result}, \hyperpage{53}
+    \subitem {on\+Back\+Pressed}, \hyperpage{53}
+    \subitem {on\+Configuration\+Changed}, \hyperpage{54}
+    \subitem {on\+Create}, \hyperpage{54}
+    \subitem {on\+Create\+Options\+Menu}, \hyperpage{54}
+    \subitem {on\+Destroy}, \hyperpage{54}
+    \subitem {on\+Key\+Down}, \hyperpage{54}
+    \subitem {on\+Options\+Item\+Selected}, \hyperpage{54}
+    \subitem {on\+Post\+Create}, \hyperpage{56}
+    \subitem {refresh\+Web\+View}, \hyperpage{56}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+A\+C\+T\+I\+V\+I\+T\+Y\+\_\+\+R\+E\+S\+U\+L\+T}, 
+		\hyperpage{56}
+    \subitem {start\+Activity\+Access}, \hyperpage{56}
+    \subitem {start\+Activity\+For\+Result\+Access}, \hyperpage{56}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}
+    \subitem {finish\+Activity}, \hyperpage{57}
+    \subitem {get\+Context\+Access}, \hyperpage{57}
+    \subitem {get\+Current\+Url}, \hyperpage{58}
+    \subitem {go\+Back\+In\+Web\+View}, \hyperpage{58}
+    \subitem {load\+Url}, \hyperpage{58}
+    \subitem {Main\+Activity\+Fragment}, \hyperpage{57}
+    \subitem {on\+Create\+View}, \hyperpage{58}
+    \subitem {on\+Stop}, \hyperpage{58}
+    \subitem {on\+View\+Created}, \hyperpage{58}
+    \subitem {refresh\+Web\+View}, \hyperpage{59}
+    \subitem {start\+Activity\+Access}, \hyperpage{59}
+    \subitem {start\+Activity\+For\+Result\+Access}, \hyperpage{59}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Mobi\+Uw\+B\+Web\+View\+Client}
+    \subitem {dismiss\+Progress\+Dialog}, \hyperpage{63}
+    \subitem {Mobi\+Uw\+B\+Web\+View\+Client}, \hyperpage{63}
+    \subitem {on\+Page\+Finished}, \hyperpage{63}
+    \subitem {on\+Page\+Started}, \hyperpage{63}
+    \subitem {should\+Override\+Url\+Loading}, \hyperpage{63}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}
+    \subitem {Drawer\+List\+Adapter\+Model}, \hyperpage{28}
+    \subitem {get\+Icon}, \hyperpage{28}
+    \subitem {get\+Id}, \hyperpage{28}
+    \subitem {get\+Text}, \hyperpage{28}
+    \subitem {get\+Website}, \hyperpage{28}
+    \subitem {set\+Icon}, \hyperpage{29}
+    \subitem {set\+Text}, \hyperpage{29}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Frequency\+List\+Adapter}
+    \subitem {Frequency\+List\+Adapter}, \hyperpage{35}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Activity}
+    \subitem {on\+Back\+Pressed}, \hyperpage{77}
+    \subitem {on\+Create}, \hyperpage{77}
+    \subitem {on\+Save\+Instance\+State}, \hyperpage{77}
+    \subitem {on\+Stop}, \hyperpage{77}
+    \subitem {settings\+Activity\+Fragment\+Manager}, \hyperpage{77}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}
+    \subitem {get\+Checbox\+Item\+Id}, \hyperpage{84}
+    \subitem {get\+Instance}, \hyperpage{84}
+    \subitem {restore}, \hyperpage{85}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+A\+N\+N\+O\+U\+C\+E\+M\+E\+N\+T\+S\+\_\+\+A\+C\+T\+I\+V\+E}, 
+		\hyperpage{85}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+A\+N\+N\+O\+U\+C\+E\+M\+E\+N\+T\+S\+\_\+\+T\+I\+M\+E\+\_\+\+R\+A\+N\+G\+E\+\_\+\+A\+C\+T\+I\+V\+E}, 
+		\hyperpage{85}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+C\+H\+E\+C\+K\+B\+O\+X\+\_\+\+C\+H\+E\+C\+K\+E\+D}, 
+		\hyperpage{85}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+C\+O\+N\+N\+E\+C\+T\+I\+O\+N\+\_\+\+T\+Y\+P\+E\+\_\+\+C\+H\+O\+S\+E\+N\+\_\+\+V\+A\+L\+U\+E}, 
+		\hyperpage{85}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+C\+H\+O\+S\+E\+N\+\_\+\+V\+A\+L\+U\+E}, 
+		\hyperpage{85}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+F\+R\+O\+M\+\_\+\+H\+O\+U\+R\+S}, 
+		\hyperpage{85}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+F\+R\+O\+M\+\_\+\+M\+I\+N\+S}, 
+		\hyperpage{86}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+T\+O\+\_\+\+H\+O\+U\+R\+S}, 
+		\hyperpage{86}
+    \subitem {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+T\+O\+\_\+\+M\+I\+N\+S}, 
+		\hyperpage{86}
+    \subitem {S\+H\+A\+R\+E\+D\+\_\+\+P\+R\+E\+F\+E\+R\+E\+N\+C\+E\+S\+\_\+\+N\+A\+M\+E}, 
+		\hyperpage{86}
+    \subitem {store}, \hyperpage{85}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Validator}
+    \subitem {validate\+Time}, \hyperpage{86}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}
+    \subitem {get\+Child}, \hyperpage{79}
+    \subitem {get\+Child\+Id}, \hyperpage{79}
+    \subitem {get\+Child\+View}, \hyperpage{79}
+    \subitem {get\+Children\+Count}, \hyperpage{79}
+    \subitem {get\+Group}, \hyperpage{80}
+    \subitem {get\+Group\+Count}, \hyperpage{80}
+    \subitem {get\+Group\+Id}, \hyperpage{80}
+    \subitem {get\+Group\+View}, \hyperpage{80}
+    \subitem {has\+Stable\+Ids}, \hyperpage{81}
+    \subitem {is\+Child\+Selectable}, \hyperpage{81}
+    \subitem {Settings\+Adapter}, \hyperpage{78}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item}
+    \subitem {configure\+Group\+View}, \hyperpage{46}
+    \subitem {get\+Child\+View}, \hyperpage{46}
+    \subitem {get\+Group\+View}, \hyperpage{46}
+    \subitem {Item}, \hyperpage{45}
+    \subitem {model}, \hyperpage{46}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}
+    \subitem {create\+Strategy}, \hyperpage{47}
+    \subitem {describe\+Contents}, \hyperpage{47}
+    \subitem {get\+Layout}, \hyperpage{48}
+    \subitem {get\+Text}, \hyperpage{48}
+    \subitem {init\+Layout}, \hyperpage{48}
+    \subitem {Item\+Model}, \hyperpage{47}
+    \subitem {nested\+Models}, \hyperpage{49}
+    \subitem {set\+Text}, \hyperpage{48}
+    \subitem {to\+String}, \hyperpage{48}
+    \subitem {write\+To\+Parcel}, \hyperpage{48}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item}
+    \subitem {Check\+Box\+Item}, \hyperpage{10}
+    \subitem {configure\+Group\+View}, \hyperpage{10}
+    \subitem {on\+Checked\+Changed}, \hyperpage{10}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}
+    \subitem {create\+Strategy}, \hyperpage{11}
+    \subitem {get\+Id}, \hyperpage{11}
+    \subitem {init\+Layout}, \hyperpage{11}
+    \subitem {is\+Checked}, \hyperpage{11}
+    \subitem {set\+Checked}, \hyperpage{11}
+    \subitem {set\+Id}, \hyperpage{12}
+    \subitem {write\+To\+Parcel}, \hyperpage{12}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item}
+    \subitem {configure\+Group\+View}, \hyperpage{23}
+    \subitem {Dialog\+Item}, \hyperpage{23}
+    \subitem {on\+Click}, \hyperpage{23}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}
+    \subitem {create\+Strategy}, \hyperpage{24}
+    \subitem {dialog\+Creation\+Strategy}, \hyperpage{26}
+    \subitem {Dialog\+Item\+Model}, \hyperpage{24}
+    \subitem {get\+Text\+Control\+Id}, \hyperpage{25}
+    \subitem {get\+Title}, \hyperpage{25}
+    \subitem {get\+Value}, \hyperpage{25}
+    \subitem {pretty\+Print\+Value}, \hyperpage{25}
+    \subitem {set\+On\+Value\+Change\+Listener}, \hyperpage{25}
+    \subitem {set\+Text\+Control\+Id}, \hyperpage{26}
+    \subitem {set\+Title}, \hyperpage{26}
+    \subitem {set\+Value}, \hyperpage{26}
+    \subitem {value}, \hyperpage{26}
+    \subitem {write\+To\+Parcel}, \hyperpage{26}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::itempicker\+::\+List\+Picker\+Item\+Model}
+    \subitem {init\+Layout}, \hyperpage{51}
+    \subitem {List\+Picker\+Item\+Model}, \hyperpage{51}
+    \subitem {pretty\+Print\+Value}, \hyperpage{51}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::timepicker\+::\+Time\+Picker\+Item\+Model}
+    \subitem {init\+Layout}, \hyperpage{97}
+    \subitem {pretty\+Print\+Value}, \hyperpage{97}
+    \subitem {Time\+Picker\+Item\+Model}, \hyperpage{97}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item}
+    \subitem {configure\+Group\+View}, \hyperpage{30}
+    \subitem {Expandable\+On\+Off\+Item}, \hyperpage{30}
+    \subitem {on\+Checked\+Changed}, \hyperpage{30}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item\+Model}
+    \subitem {create\+Strategy}, \hyperpage{31}
+    \subitem {Expandable\+On\+Off\+Item\+Model}, \hyperpage{31}
+    \subitem {init\+Layout}, \hyperpage{31}
+    \subitem {is\+Expanded}, \hyperpage{31}
+    \subitem {set\+Expanded}, \hyperpage{31}
+    \subitem {write\+To\+Parcel}, \hyperpage{33}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::something\+Wrong\+::\+Something\+Wrong\+Activity}
+    \subitem {on\+Create}, \hyperpage{88}
+    \subitem {on\+Post\+Create}, \hyperpage{88}
+  \item {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::splash\+::\+Splash\+Screen\+Activity}
+    \subitem {on\+Back\+Pressed}, \hyperpage{89}
+    \subitem {on\+Configuration\+Finished}, \hyperpage{89}
+    \subitem {on\+Create}, \hyperpage{89}
+    \subitem {on\+Key\+Down}, \hyperpage{89}
+    \subitem {on\+Post\+Create}, \hyperpage{89}
+  \item {pretty\+Print}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+X\+M\+L\+Parser}, 
+		\hyperpage{118}
+  \item {pretty\+Print\+Value}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{25}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::itempicker\+::\+List\+Picker\+Item\+Model}, 
+		\hyperpage{51}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::timepicker\+::\+Time\+Picker\+Item\+Model}, 
+		\hyperpage{97}
+  \item {Progress\+Update\+Data}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}, 
+		\hyperpage{69}
+  \item {properties\+File}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{18}
+  \item {Properties\+Xml\+Result}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}, 
+		\hyperpage{70}
+  \item {properties\+Xml\+Result}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{91}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{19}
+  \item {Properties\+Xml\+Task\+Input}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::properties\+Xml\+::\+Properties\+Xml\+Task\+Input}, 
+		\hyperpage{73}
+
+  \indexspace
+
+  \item {R\+E\+L\+O\+A\+D\+\_\+\+C\+O\+N\+F\+I\+G\+U\+R\+A\+T\+I\+O\+N}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}, 
+		\hyperpage{67}
+  \item {R\+E\+S\+T\+A\+R\+T}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}, 
+		\hyperpage{67}
+  \item {refresh\+Web\+View}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::interfaces\+::\+Gui\+Access}, 
+		\hyperpage{36}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{56}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{59}
+  \item {restore}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::interfaces\+::\+Storable}, 
+		\hyperpage{92}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+
+  \indexspace
+
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+A\+C\+T\+I\+V\+I\+T\+Y\+\_\+\+R\+E\+S\+U\+L\+T}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{56}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+A\+N\+N\+O\+U\+C\+E\+M\+E\+N\+T\+S\+\_\+\+A\+C\+T\+I\+V\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+A\+N\+N\+O\+U\+C\+E\+M\+E\+N\+T\+S\+\_\+\+T\+I\+M\+E\+\_\+\+R\+A\+N\+G\+E\+\_\+\+A\+C\+T\+I\+V\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+C\+H\+E\+C\+K\+B\+O\+X\+\_\+\+C\+H\+E\+C\+K\+E\+D}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+C\+O\+N\+N\+E\+C\+T\+I\+O\+N\+\_\+\+T\+Y\+P\+E\+\_\+\+C\+H\+O\+S\+E\+N\+\_\+\+V\+A\+L\+U\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+C\+H\+O\+S\+E\+N\+\_\+\+V\+A\+L\+U\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+F\+R\+O\+M\+\_\+\+H\+O\+U\+R\+S}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+F\+R\+O\+M\+\_\+\+M\+I\+N\+S}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{86}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+T\+O\+\_\+\+H\+O\+U\+R\+S}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{86}
+  \item {S\+E\+T\+T\+I\+N\+G\+S\+\_\+\+S\+H\+A\+R\+E\+D\+\_\+\+T\+O\+\_\+\+M\+I\+N\+S}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{86}
+  \item {S\+H\+A\+R\+E\+D\+\_\+\+P\+R\+E\+F\+E\+R\+E\+N\+C\+E\+S\+\_\+\+N\+A\+M\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Shared\+Preferences\+Keyring}, 
+		\hyperpage{87}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{86}
+  \item {S\+H\+A\+R\+E\+D\+\_\+\+P\+R\+E\+F\+E\+R\+E\+N\+C\+E\+S\+\_\+\+S\+E\+R\+V\+I\+C\+E\+\_\+\+N\+A\+M\+E}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::version\+Controller\+::\+Version\+Controller\+Task}, 
+		\hyperpage{107}
+  \item {S\+T\+A\+R\+T}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}, 
+		\hyperpage{67}
+  \item {S\+T\+O\+P}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Notification\+Service}, 
+		\hyperpage{67}
+  \item {serialize\+Default\+Website}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+X\+M\+L\+Parser}, 
+		\hyperpage{118}
+  \item {set\+Action\+Bar\+Title}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Action\+Bar\+Methods}, 
+		\hyperpage{8}
+  \item {set\+Active}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}, 
+		\hyperpage{69}
+  \item {set\+Address}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{102}
+  \item {set\+Api\+Url}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{102}
+  \item {set\+Checked}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}, 
+		\hyperpage{11}
+  \item {set\+Checking\+Type}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service\+::\+Progress\+Update\+Data}, 
+		\hyperpage{70}
+  \item {set\+City}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Unit\+Address}, 
+		\hyperpage{98}
+  \item {set\+Content}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}, 
+		\hyperpage{34}
+  \item {set\+Coordinates}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Mobi\+Uw\+B\+Map}, 
+		\hyperpage{62}
+  \item {set\+Date}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}, 
+		\hyperpage{34}
+  \item {set\+Email}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{103}
+  \item {set\+Expanded}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item\+Model}, 
+		\hyperpage{31}
+  \item {set\+Fax}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{103}
+  \item {set\+File\+Content}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{110}
+  \item {set\+File\+Input\+Stream}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{111}
+  \item {set\+Full\+Name}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{103}
+  \item {set\+Icon}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{29}
+  \item {set\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}, 
+		\hyperpage{12}
+  \item {set\+Last\+Known\+Date}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::\+Service\+Preferences\+Manager}, 
+		\hyperpage{76}
+  \item {set\+Lattitude}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Coordinates}, 
+		\hyperpage{17}
+  \item {set\+List\+View\+Height\+Based\+On\+Children}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+List\+View\+Hacks}, 
+		\hyperpage{52}
+  \item {set\+Longtitude}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Coordinates}, 
+		\hyperpage{17}
+  \item {set\+Mobi\+Uw\+B\+Map}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{103}
+  \item {set\+Mobile\+Internet\+Checker}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{40}
+  \item {set\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Dialog\+Creator}, 
+		\hyperpage{22}
+  \item {set\+Name}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{103}
+  \item {set\+Number}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Unit\+Address}, 
+		\hyperpage{98}
+  \item {set\+On\+Connection\+Lost\+Listener}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{40}
+  \item {set\+On\+Connection\+Recived\+Listener}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{40}
+  \item {set\+On\+Value\+Change\+Listener}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{25}
+  \item {set\+On\+Value\+Changed\+Listener}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::controls\+::dialogs\+::\+Dialog\+Creator}, 
+		\hyperpage{22}
+  \item {set\+Postal\+Code}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Unit\+Address}, 
+		\hyperpage{98}
+  \item {set\+Sections}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{103}
+  \item {set\+Static\+Sections}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{103}
+  \item {set\+Succeeded}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{111}
+  \item {set\+Tel1}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{105}
+  \item {set\+Tel2}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{105}
+  \item {set\+Text}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::model\+::\+Drawer\+List\+Adapter\+Model}, 
+		\hyperpage{29}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{48}
+  \item {set\+Text\+Control\+Id}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{26}
+  \item {set\+Title}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::json\+::model\+::\+Feed}, 
+		\hyperpage{34}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Mobi\+Uw\+B\+Map}, 
+		\hyperpage{62}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{26}
+  \item {set\+Valid}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}, 
+		\hyperpage{71}
+  \item {set\+Value}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{26}
+  \item {set\+Versioning\+Request}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{111}
+  \item {set\+Wifi\+Internet\+Checker}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{40}
+  \item {set\+Xml\+Properties\+Root\+Element}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}, 
+		\hyperpage{71}
+  \item {settings\+Activity\+Fragment\+Manager}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Activity}, 
+		\hyperpage{77}
+  \item {Settings\+Adapter}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::\+Settings\+Adapter}, 
+		\hyperpage{78}
+  \item {Settings\+Preference\+Manager\+Task\+Input}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task\+Input}, 
+		\hyperpage{83}
+  \item {should\+Override\+Url\+Loading}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Mobi\+Uw\+B\+Web\+View\+Client}, 
+		\hyperpage{63}
+  \item {start\+Activity\+Access}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::interfaces\+::\+Gui\+Access}, 
+		\hyperpage{36}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{56}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{59}
+  \item {start\+Activity\+For\+Result\+Access}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::interfaces\+::\+Gui\+Access}, 
+		\hyperpage{36}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::\+Main\+Activity}, 
+		\hyperpage{56}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::mainactivity\+::fragment\+::\+Main\+Activity\+Fragment}, 
+		\hyperpage{59}
+  \item {stop\+Service}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Internet\+Checking\+Service}, 
+		\hyperpage{40}
+  \item {store}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::interfaces\+::\+Storable}, 
+		\hyperpage{92}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Preferences\+Manager}, 
+		\hyperpage{85}
+
+  \indexspace
+
+  \item {Task\+Output}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::models\+::\+Task\+Output}, 
+		\hyperpage{94}
+  \item {Tasks\+Queue}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::tasks\+::\+Tasks\+Queue}, 
+		\hyperpage{95}
+  \item {Time\+Picker\+Item\+Model}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::timepicker\+::\+Time\+Picker\+Item\+Model}, 
+		\hyperpage{97}
+  \item {time\+Range\+From}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{19}
+  \item {time\+Range\+Text}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task}, 
+		\hyperpage{82}
+  \item {time\+Range\+To}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{19}
+  \item {title}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Section}, 
+		\hyperpage{74}
+  \item {to\+Dpi}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Unit\+Converter}, 
+		\hyperpage{99}
+  \item {to\+Px}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::utillities\+::\+Unit\+Converter}, 
+		\hyperpage{99}
+  \item {to\+String}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::model\+::\+Properties\+Xml\+Result}, 
+		\hyperpage{71}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{48}
+  \item {to\+Text}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::shared\+Preferences\+::\+Settings\+Preference\+Manager\+Task}, 
+		\hyperpage{82}
+
+  \indexspace
+
+  \item {University\+Unit}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+University\+Unit}, 
+		\hyperpage{100}
+  \item {university\+Units}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::\+Config\+Xml\+Result}, 
+		\hyperpage{14}
+
+  \indexspace
+
+  \item {validate}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::parser\+::result\+::validator\+::\+Properties\+Xml\+Result\+Validator}, 
+		\hyperpage{72}
+  \item {validate\+Time}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::\+Settings\+Validator}, 
+		\hyperpage{86}
+  \item {value}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{26}
+  \item {Version\+Controller}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Version\+Controller}, 
+		\hyperpage{105}
+  \item {Version\+Controller\+Task\+Input}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::tasks\+::version\+Controller\+::\+Version\+Controller\+Task\+Input}, 
+		\hyperpage{107}
+  \item {Versioning\+Request}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Request}, 
+		\hyperpage{108}
+  \item {Versioning\+Result}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::\+Version\+Control\+::\+Models\+::\+Versioning\+Result}, 
+		\hyperpage{109}
+  \item {versioning\+Result}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::services\+::notification\+::data\+Initialize\+::\+Data\+Initialize\+Task\+Output}, 
+		\hyperpage{19}
+
+  \indexspace
+
+  \item {W\+I\+F\+I}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::connection\+::\+Checking\+Type}, 
+		\hyperpage{12}
+  \item {Website}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::parsers\+::xml\+::model\+::\+Website}, 
+		\hyperpage{111}
+  \item {write\+To\+Parcel}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::\+Item\+Model}, 
+		\hyperpage{48}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::checkbox\+::\+Check\+Box\+Item\+Model}, 
+		\hyperpage{12}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::dialog\+::\+Dialog\+Item\+Model}, 
+		\hyperpage{26}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::view\+::settings\+::adapter\+::items\+::expandableonoff\+::\+Expandable\+On\+Off\+Item\+Model}, 
+		\hyperpage{33}
+
+  \indexspace
+
+  \item {xml\+Parser}
+    \subitem {pl\+::edu\+::uwb\+::mobiuwb\+::configuration\+::\+Startup\+Config}, 
+		\hyperpage{91}
+
+\end{theindex}
